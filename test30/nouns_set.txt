@@ -1,0 +1,618 @@
+LPAR
+InfiniBand
+FC technology in storage and access devices
+asset to power the API economy
+IBM Blockchain on Bluemix ® High Security Business Network HSBN -RRB- service plan
+<ff2> Power
+Z platforms
+Memory upgrades
+GB
+Reference
+Table 2-2 lists the maximum memory sizes
+RAS strategy
+I/O drawers
+PTFs limited exploitation
+SC28-1187
+SMP scalability
+Compression call CMPSC
+PCIe I/O drawer see Figure
+Integrated Facility for Linux IFL -RRB- processor
+<ff2> Service structure
+Special-purpose features and functions
+ISVs
+GDPS family of solutions
+Secure Hash Algorithm SHA
+CPC drawer support
+Either
+z/OS
+Devices
+Internal Code load
+z/VSE Version 5 Release
+FIPS 140-2 Level
+CPC drawer system
+Flexible Support Processors FSPs
+storage control SC -RRB- SCM
+z/OS Version 2 Release
+PU SCMs for model
+M05 CPC drawer structure
+Conversion from air to water cooled systems
+memory RAIM -RRB- technology
+processor units , SAPs
+Drawer Replacement CDR
+RAIM technology
+Path
+SAP
+business on Z.
+data on Z. For example , Z pervasive encryption
+Analysis
+firmware processor IFP
+processor complex CPC
+z/OS , IBM z/VM ® , IBM z/VSE , z/TPF
+GB of memory 2 GB of memory
+system , Operations Analytics
+generation FICON Express16S
+memory modules DIMMs
+number of I/O features
+API economy demands fortified clouds
+XL C/C + +
+PCIe I/O drawers
+partitions LPARs
+Storage connectivity
+IBM Fibre Connection FICON
+Crypto Express6S
+Enhanced LPAR resource allocation algorithms for processor units and memory 16 TB
+RAIM design
+IBM MobileFirst ™ Platform Foundation
+POR
+Single-instruction
+assets , Z offerings
+Linux environments
+coupling link connectivity Parallel Sysplex and STP configuration
+L4 shared caches
+HCA3-O LR
+InfiniBand I/O infrastructure
+Linux distribution
+Water cooling option
+IBM z14 hardware overview
+DCA
+Performance FICON for read requests
+<ff2> System assist processor SAP
+IBM cloud
+example CP , IBM zIIP
+zHyperLink Express feature
+Linux assets , Z platforms
+multithreading SMT
+z/VM , KVM for IBM Z , z/VSE
+support of Enhanced Drawer Availability EDA
+Cluster
+Systems environments
+data center UPS and power distribution energy savings
+range of IBM
+SAPs
+CP Assist for Cryptographic Functions CPACF
+protocol over FC
+addition , IBM
+IBM DevOps for Z solutions
+set of CPC drawers
+FCP SAN fabrics and access FCP/SCSI devices
+GBps
+V AC power source
+IOAz
+SMP fabric logic
+DC
+CP
+Network connectivity
+capacity Linux platform
+Hardware system area
+Docker images
+processor units PUs
+power requirements in terms of BPRs and power cords
+number of Bulk Power Regulator BPR -RRB- pairs
+Apache Spark on z/OS
+zHyperLink Express
+Table
+KVM for IBM
+MB for instructions
+XML System Services
+InfiniBand fanouts
+Guarded Storage Facility
+InfiniBand coupling links
+Frames
+PCI HSM security requirements for hardware security modules
+Blockchain
+IBM Information Management System IBM IMS
+zIIPs
+TCP/IP
+SCM
+Power considerations
+CE LR and HCA3-O LR
+/
+IBM HiperSockets
+predecessor IBM z13 ®
+DB2 for z/OS
+Apache Spark gives developers and data scientists the ability
+InfiniBand fanout for coupling links two ports
+Hardware Management Console functions
+SMP system
+PCIe connections
+IBM Z platforms
+Subchannel set
+I/O processors
+Z platform and storage
+Spare processor units
+Gbps
+transaction processing OLTP -RRB- environments
+use Coupling Express Long Reach CE LR -RRB- Integrated Coupling Adapter Short Reach ICA SR
+number of PU cores
+Technical Guide
+instance , Application Discovery and Delivery Intelligence helps development teams understand application interdependencies , complexity
+IBM Virtual Flash Memory VFM
+Functionality
+SAP engines
+machine type MT
+M02 , M03 , M04
+Hz
+z/OS Version 1 Release
+models employ CPC drawers
+PU characterization
+Proven technology
+access memory DRAM
+zEC12
+Memory Access SMC-D
+Integrated firmware processor
+Model CPC drawers Maximum memory
+Java performance
+PCI
+Transactional Execution Facility
+processor units , system assist processors SAPs
+coupling fanouts support Parallel Sysplex connectivity
+communication through IBM HiperSockets ™
+Problem determination
+Variations
+HSA
+functions : CPACF and Crypto Express6S
+MB
+Dynamic memory relocation
+processor capacity index PCI
+DevOps solution breaks
+z/OS business-critical data and transactions
+IBM z/Architecture processor
+I-cache
+Coupling Express Long Reach LR
+RAS functionality
+Copyright IBM Corp.
+DPM
+PCIe cards
+radiators with N
+CPC drawers
+Top Exit Power
+;-RRB-
+SUSE : SUSE Linux Enterprise Server
+VFM
+Recovery
+Advanced Encryption Standard AES
+I/O and power
+<ff2> System I/O bandwidth
+Radiator air -RRB- cooling option
+ICA PCIe coupling fanouts
+PUs have access
+Measurement
+XL C/C + + for Linux
+N +1 design
+enterprise scale Java applications
+I/O management
+I/O connectivity support the PCIe I/O drawer
+serviceability RAS -RRB- capabilities
+API economy website
+algorithms are AES , DES/TDES , SHA-1 , SHA-2
+Secure Services Container
+I/O devices per channel
+Table 1-1 Technical
+CPC drawer , PR/SM
+1000BASE-T Ethernet for copper environments
+water cooling unit WCU -RRB- technology
+Z
+memory between CPC drawers
+OSA-Express
+Enhanced Drawer Availability EDA
+GbE RoCE Express features
+Error detection
+FICON devices
+channel subsystems LCSS
+ICA SR
+LPARs
+CPs , IFLs , ICFs
+C or C++
+IBM compilers
+GDPS Virtual Appliance
+matter which CPC drawer the memory
+Important
+AES performance
+z/OS subsystems
+<ff2> Data compression
+CPU cost of TCP/IP processing
+PU core
+SIMD -RRB- processor
+number of CPC drawers and number
+Systems
+LAN connectivity
+Blending open source and Z technologies
+Secure Service Container
+IEEE standards
+ICA SR and HCA3-O SR
+part of IOAz
+GB HSA
+reset POR -RRB- operation
+generations of Z platforms
+Maximum physical memory size
+IBM Processor Resource/Systems Manager ™ PR/SM
+FICON Express features
+CPC drawer structure
+memory DIMMs
+Systems Performance
+Dynamic Partition Manager DPM
+IBM z/Architecture ® ensures continuity and upgradeability
+repair with EDA
+Greater total system capacity
+Reliability , availability
+integration benefits , Linux
+Z availability
+CPC drawer Figure
+Red Hat : Red Hat Enterprise Linux RHEL
+L1 cache pr8 KB cache
+zHyperLink Express port
+IBM z14 Technical Guide
+CPU consumption
+Remote Direct Memory Access RDMA
+GbE RoCE Express2
+z/OS or IBM z/VSE ® environments
+< /
+FICON Express features support these protocols
+CPACF
+LPAR has access
+Strengths
+HCA3-O
+processors CPs
+M04
+M05
+M02
+M03
+M01
+Processor cache structure improvements
+IBM z14 Technical Introduction
+RSA/ECC acceleration
+software like IBM Language Environment ®
+Internal Code Configuration Control LICCC
+Z platform
+Guarded Storage Facility GSF
+z/TPF Version 1 Release 1 compatibility support
+Balance Power Plan Ahead feature
+Today , demands
+New
+Compilers
+Silicon-On-Insulator SOI
+Chapter
+developers speed Representational State Transfer RESTful -RRB- API development
+InfiniBand IFB -RRB- technology
+L3 cache uses eDRAM
+Linux workloads
+MES orders
+Standard SAPs
+zHyperLink
+use of I/O subsystem operations
+release-to-release improvements for Java
+Crypto Express6S features
+Coupling
+MB L3 cache
+ICA SR two-port PCIe fanout for coupling links two links
+processors CP
+IBM DS8880
+IBM DB2
+IBM z Operational Insights
+IBM WebSphere ®
+z14 features in Chapter
+zHyperLink Express with IBM DS8880
+Hardware
+DCAs
+Random Number Generator , SHA3 support
+MB of L4 cache per CPC drawer
+ASHRAE
+information on RAS
+General Data Protection Regulations GDPR
+GBps connectivity
+I/O feature types
+I/O devices
+Memory Controller Unit MCU
+Fibre Channel Protocol FCP
+Top Exit I/O
+number and type of I/O units
+PCIe 16 GBps I/O fanout
+source technologies , ISV tools
+Z development , IBM
+FCP
+PCIe I/O infrastructure
+Currently , data
+LTS
+IBM DB2 ® Analytics Accelerator for z/OS : A high-performance appliance
+Shared Memory Communications over RDMA SMC-R
+Internal Coupling Facility ICF
+Accelerated I/O bandwidth
+IBM 3906 Installation Manual for Physical Planning
+I/O and power cable options
+PUs
+software vendor ISV -RRB- software solutions
+IBM
+hardware performs AES , DES/TDES , RSA , Elliptic Curve ECC
+RAS design objective
+RoCE adapters , PCI bandwidth , ports , I/O slots , network resources
+CPU usage
+WCU
+Instruction Execution Protection
+RAIM
+SIMD
+exit I/O and power cable options
+LR 1x InfiniBand fanout for coupling links four ports
+CPC drawer communication topology
+Figure 2-8 PCIe I/O drawer - front
+Linux
+Compression Coprocessor CMPSC
+PTFs
+V DC power source
+<ff2> Air cooled systems
+MB shared eDRAM cache , interface logic
+Runtime Instrumentation Facility
+PCIe Gen3 fanout adapters
+COBOL , PL/I
+description of IBM z14 functions and features
+I/O domains
+Operational Analytics
+Translation/TLB2 design , pipeline optimizations
+Apache Spark
+Sysplex
+IBM Z clustering technology
+Systems Integrated Information Processor zIIP
+Bit , lane , DRAM , DIMM , socket
+IBM z Integrated Information Processor zIIP
+IBM HyperSwap ® technology , I/O traffic
+I/O resilience
+IBM DB2 database
+Internal Coupling Facility ICF -RRB- configurations
+InfiniBand coupling fanouts
+CPC drawer configurations
+way , HiperSockets
+M01 , M02 , M03 , M04
+Models
+points of failures SPOFs
+IBM Enterprise COBOL for z/OS and IBM Enterprise PL/I for z/OS , decades of IBM experience in application development
+I/O features
+Converter Assemblies DCAs
+HSBN
+Memory Communications
+Z hardware
+Capacity on demand and performance
+memory RAIM -RRB- design
+Fibre Channel FC -RRB- standards
+FICON
+Power
+FICON Express16S + features
+PU cache
+InfiniBand I/O drawers
+Power cords
+IBM z/OS Connect Enterprise Edition
+Java response times
+z/OS system images
+hardware system area HSA
+RAS building blocks
+candidate API quality
+IBM Java virtual machine JVM
+PU SCMs
+addition , DevOps for Z solutions
+I/O Bay port
+IBM zHyperLink Express
+Integrated Facility for Linux IFL
+distance , Z I/O adapter
+z/VSE Version 6 Release
+Instruction Execution Protection Facility IEPF
+information about GDPR
+New CMPSC with Huffman Coding compression
+analytics solution for z/OS
+PR/SM
+WCUs
+networks with Open Systems Adapter-Express OSA-Express
+Memory increment Memory range GB
+IBM z Advanced Workload Analysis Reporter IBM zAware
+PU single chip modules SCMs
+communication across channels , channel-to-channel CTC -RRB- connectivity
+infrastructure for PCIe I/O drawers PCIe Gen3
+API economy
+Memory accesses
+Converged Ethernet RoCE
+IBM zEnterprise ® Data Compression zEDC -RRB- Express feature
+IBM Z generations
+Linux distributions
+PCIe features
+Figure
+communications protocol called Shared Memory Communications
+z/VM
+Dynamic Processor Unit Reassignment
+N +1 pumps , blowers , controls
+FixPack toleration mode
+HiperSockets function
+COBOL and PL/I with web services , XML
+number of PCIe I/O drawers
+PU SCM
+Instructions
+z/OS and z/VSE solutions
+Java
+Gigabit Ethernet and Gigabit Ethernet fiber optic
+Crypto Express6S features provide acceleration
+z/VM Version 6 Release
+IBM Common Data Provider
+Cryptography
+Multi-core
+OSA-Express6S features
+SC SMC
+type FICON Express16S + , FICON Express16S , FICON Express8S , OSA-Express6S , OSA-Express5S , OSA-Express4S , Crypto Express6S , Crypto Express5S , zEDC Express , 10GbE RoCE Express , 10GbE RoCE Express2 , zHyperLink Express
+Server Time Protocol
+enhancements for Java
+APIs and functions
+IBM designed IBM Operations Analytics
+Coupling Express LR
+disk and tape devices through Fibre Channel
+Central processor CP
+set of SIMD instructions
+Compression options
+generation Crypto Express6S feature
+GB of cache
+IBM Z
+Instruction Set Architecture ISA
+PTFs exploitation
+DIMM per channel
+Memory
+%
+High Voltage Direct Current HV DC -RRB- power feature
+RHEL7 -- Ubuntu
+Internal Code LIC
+TB
+end , IBM
+Software support
+Ubuntu 16.04 LTS
+Integrated firmware processor IFP
+MCU enables memory
+PCIe I/O Drawer
+Gbps auto-negotiate
+CPs
+z/VM or KVM hypervisor in support of Linux
+garbage collection , Guarded Storage Facility
+Frame
+IBM zHyperLink Express feature
+point HDFP
+TB memory
+I/O request
+L4 cache
+storage control SCM
+PCI values
+PCIe Gen3 fanout
+SMT
+IBM Geographically Dispersed Parallel Sysplex ™ IBM GDPS ® -RRB- family
+HCA3-O LR fanout
+C++ source code
+10GbE RoCE Express2
+z/OS data in place
+Generation
+Huffman encoding
+KB for data </ff2>
+Technical
+TB of memory
+Java platform
+Data sharing and serialization functions
+MB D-cache `` D
+memory per CPC drawer
+Support for ASHRAE Class A3 data centers
+Capacity on demand
+z/OS V2R3
+z/OS V2R1
+KB for instructions
+Systems Integrated Information Processors zIIPs
+HiperSockets
+RAS
+I/O infrastructure
+ingestion and transformation of Z data
+IBM z Systems
+<
+InfiniBand coupling link
+LICCC order
+American Society of Heating , Refrigerating
+area network LAN -RRB- connectivity
+MB L4 cache
+IFL
+Number of processor units
+DS8880
+CSS
+Processor unit
+Java applications
+WebSphere
+Z operational data
+FCP channel
+Balanced Power Plan Ahead feature
+SC SCM
+IBM Z pervasive encryption
+PCIe Gen3
+FICON SAN Infrastructure , zHyperLink
+LPAR definition
+MB for data </ff2>
+M01 , M02 , M03
+Fanouts
+Hardware fault detection
+SG24-8451
+consumption of CPU resources for applications
+High Voltage Direct Current power feature
+PU cores
+MSU rating
+Z architecture
+PCIe Gen3 fanouts
+Model CPC drawers
+IBM Customer Information Control System IBM CICS ®
+Change management
+L2 cache
+Gigabit Ethernet 10GbE -RRB- RoCE Express2
+Z Frame
+Hardware Management Console
+DC power input
+LCSS
+zIIP
+PU
+z/OS , XL C/C
+Single chip modules
+PCIe I/O drawers and ICA SR coupling links
+KVM hypervisor
+maximum five PCIe I/O drawers
+IBM Resource Link
+Single-engine
+Direct Memory Access SMC-D
+L1 , L2
+API candidates
+number of PCIe drawers
+KB cache for data
+>
+CPC drawer
+PUs span
+Z infrastructure
+SLES-12
+Latency
+I/O capability
+Central Processor Assist for Cryptographic Function CPACF
+Flash Express features
+zIIPs : <ff2> The addition of ICFs , IFLs , zIIPs
+I/O features : <ff2>
+Java Garbage Collection
+Air-Conditioning Engineers ASHRAE -RRB- Class A3 specifications
+multiprocessor SMP -RRB- system
+number of CPC drawers
+I/O
+I/O system structure
+Components
+description of EDA
+minimum usable memory increment 256 GB
+Processor unit PU
+disaster recovery solution for Linux
+PU single chip modules
+channel subsystem CSS
+amount of memory 192 GB
+software for z/Architecture
+GPDR website
+SHA-1
+SHA-2
+SHA-3
+PTFs compatibility and exploitation support
+zHyperLink channels complement FICON channels
+Error prevention
+GHz 14 nm FINFET
+operating system with SMT support
+Loss
+SMC-R
+SMC-D
+air moving devices AMDs
+IBM Machine Learning for z/OS : A comprehensive solution
+InfiniBand fanout adapters
+PCIe I/O

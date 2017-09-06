@@ -1,0 +1,2008 @@
+ff1 fs0
+2<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff1 fs2
+1.1  The z14: A secure platform integrated and open by design
+ff2 fs0
+The z14 introduces a paradigm shift for protecting data and transactions, from selective 
+ff2 fs0
+encryption to pervasive encryption.
+ff2 fs3
+1
+ff2 fs0
+ It includes higher-performance processors and 
+ff2 fs0
+co-processors, increased cache density, up to 32 TB of memory, enhanced access to data, 
+ff2 fs0
+improved virtualization for running Linux on z Systems, and enhancements for Java and other 
+ff2 fs0
+compilers.
+ff2 fs0
+The z14 offers a fast, scalable, and securable enterprise system. Compared to its 
+ff2 fs0
+predecessor platforms, the z14 provides more of what you need to satisfy today’s growing IT 
+ff2 fs0
+demands:
+ff3 fs0
+� <ff2>Compute power for increased throughput</ff2>
+ff3 fs0
+� <ff2>Large-scale memory to process data faster</ff2>
+ff3 fs0
+� <ff2>Industry-unique cache design to optimize performance</ff2>
+ff3 fs0
+� <ff2>Accelerated I/O bandwidth to process massive amounts of data</ff2>
+ff3 fs0
+� <ff2>Data compression to economically store and process information</ff2>
+ff3 fs0
+� <ff2>High-speed cryptographic operations to help secure transactions and data</ff2>
+ff2 fs0
+From the hundreds of microprocessors to the software stack, the z14 is built to quickly 
+ff2 fs0
+respond to change. This evolution of the Z platform embodies a proven infrastructure 
+ff2 fs0
+designed from the ground up for data and transactions. Figure 1-1 shows the z14.
+ff4 fs1
+Figure 1-1   The IBM z14
+ff2 fs0
+The new Z platform incorporates the ability to access larger data in memory, and has 
+ff2 fs0
+industry-exclusive I/O processors for offloading data-intensive workloads. 
+ff2 fs4
+1  
+ff2 fs3
+Pervasive encryption is a data-centric approach to information security that entails protecting data entering and 
+ff2 fs3
+exiting the z14 platform through widespread encryption. See “Pervasive encryption” on page 82 for more 
+ff2 fs3
+information.
+ff2 fs1
+Chapter 1. The base of a trust economy  <ff1 fs0>3</ff1 fs0>
+ff2 fs0
+The z14 meets the needs of the trust economy and digital era using these techniques:
+ff3 fs0
+� <ff2>Securing data with pervasive encryption</ff2>
+ff3 fs0
+� <ff2>Transforming a transactional platform into a data powerhouse</ff2>
+ff3 fs0
+� <ff2>Getting more out of the platform with IT Operational Analytics</ff2>
+ff3 fs0
+� <ff2>Providing resilience with key to zero downtime</ff2>
+ff3 fs0
+� <ff2>Accelerating digital transformation with agile service delivery</ff2>
+ff3 fs0
+� <ff2>Revolutionizing business processes</ff2>
+ff3 fs0
+� <ff2>Blending open source and Z technologies</ff2>
+ff1 fs5
+1.1.1  Securing data with pervasive encryption
+ff2 fs0
+The z14 excels with security features that are built into the hardware, firmware, and operating 
+ff2 fs0
+systems. The built-in features range from storage protection keys and workload isolation to 
+ff2 fs0
+granular audit capabilities, and more. The Central Processor Assist for Cryptographic 
+ff2 fs0
+Function (CPACF), standard on every core, supports pervasive encryption and provides 
+ff2 fs0
+hardware acceleration for encryption operations. In addition, the new Crypto Express6S gets 
+ff2 fs0
+a performance boost on z14. Combined, these two enhancements perform encryption more 
+ff2 fs0
+efficiently on the z14 than on earlier Z platforms.
+ff2 fs0
+IBM Z pervasive encryption provides the comprehensive data protection that your 
+ff2 fs0
+organization and customers demand. By placing the security controls on the data itself, the 
+ff2 fs0
+solution creates an envelope of protection around the data on Z. For example, Z pervasive 
+ff2 fs0
+encryption helps protect the at-rest and in-flight data that is on your Z infrastructure. Also, 
+ff2 fs0
+centralized, policy-based data encryption controls significantly reduce the costs that are 
+ff2 fs0
+associated with data security and regulatory compliance, including the new General Data 
+ff2 fs0
+Protection Regulations (GDPR).
+ff2 fs3
+2
+ff2 fs0
+IBM Z pervasive encryption implements this comprehensive security with your ongoing 
+ff2 fs0
+operations in mind. Therefore, it does not require you to make any application changes, and 
+ff2 fs0
+can be implemented by using policy-based controls with low overhead. These capabilities can 
+ff2 fs0
+slash the costs associated with data security and compliance.
+ff1 fs5
+1.1.2  Transforming a transactional platform into a data powerhouse 
+ff2 fs0
+Currently, data is one of the most valuable resources an organization possesses. Deriving 
+ff2 fs0
+insights from that data to drive optimal business decisions becomes one of the biggest 
+ff2 fs0
+challenges. To maximize the value of that resource, your enterprise might need to integrate 
+ff2 fs0
+additional external data sources to extract hidden insights.
+ff2 fs0
+For decades, clients typically copied business-critical data from their mainframe transactional 
+ff2 fs0
+systems to other platforms, or even data lakes, to perform sophisticated analytics. This 
+ff2 fs0
+process was inefficient, expensive, time-consuming, and introduced both risk on 
+ff2 fs0
+lower-security platforms and data latency.
+ff2 fs0
+By accessing your enterprise data in-place with minimal data duplication or movement, you 
+ff2 fs0
+can minimize the cost and complexity of analytics. You can also make enterprise data highly 
+ff2 fs0
+accessible to analytics applications and tools by integrating transactional and analytics 
+ff2 fs0
+processing, and protect sensitive data by keeping it within the secure Z platform.
+ff2 fs4
+2  
+ff2 fs3
+For more information about GDPR, see the "fc1"Clear the Path to the GPDR website.
+ff1 fs0
+4<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff2 fs0
+Because of the advanced infrastructure, with double the cache density on each chip and up to 
+ff2 fs0
+32 TB memory, the z14 can support state-of-the-art cognitive solutions:
+ff3 fs0
+� <ff2>Apache Spark: An open source, in-place analytics solution for z/OS that simplifies big data </ff2>
+ff2 fs0
+analysis. Apache Spark gives developers and data scientists the ability to analyze 
+ff2 fs0
+business-critical z/OS data in place, with no data movement. Apache Spark on z/OS can 
+ff2 fs0
+also provide a federated view by accessing and analyzing distributed and local data. 
+ff3 fs0
+� <ff2>IBM Machine Learning for z/OS: A comprehensive solution that manages the entire </ff2>
+ff2 fs0
+machine learning workflow, beginning with quick ingestion and transformation of Z data 
+ff2 fs0
+where it resides. The solution then securely creates, deploys, and manages high quality 
+ff2 fs0
+self-learning behavior models to help you extract hidden insights that more accurately 
+ff2 fs0
+anticipate organizational needs.
+ff3 fs0
+� <ff2>The IBM DB2® Analytics Accelerator for z/OS: A high-performance appliance that </ff2>
+ff2 fs0
+transforms your mainframe into a highly efficient transactional and analytics-processing 
+ff2 fs0
+environment. It supports the full lifecycle of a real-time analytics solution on a single 
+ff2 fs0
+system that integrates transactional data, historical data, and predictive analytics.
+ff1 fs5
+1.1.3  Getting more out of the platform with IT Operational Analytics
+ff2 fs0
+Today, demands for 24 x 7 high-performance operations continue to rise. At the same time, 
+ff2 fs0
+allowed service windows shrink and are much less frequent. Increasing system complexity 
+ff2 fs0
+makes planning, maintaining, and troubleshooting more difficult and time consuming. IT 
+ff2 fs0
+operations analytics represent a possible solution to this challenge.
+ff2 fs0
+The z14 provides the infrastructure to host real-time analytics tools so you can clearly see 
+ff2 fs0
+your operating environment, then maximize operational efficiencies to help reduce costs.
+ff2 fs0
+IBM designed IBM Operations Analytics for z (IOAz), IBM Common Data Provider for z, and 
+ff2 fs0
+IBM z Operational Insights to ensure that your Z operates at peak performance. To get the 
+ff2 fs0
+most out of your system, Operations Analytics for z provides deep insights based on IBM’s 
+ff2 fs0
+industry-leading expertise into your Z operational data.
+ff1 fs5
+1.1.4  Providing resilience with key to zero downtime 
+ff2 fs0
+Every second of downtime (planned or unplanned) can mean lost revenue. It is crucial to 
+ff2 fs0
+keep critical systems running 24 x 7, and to rapidly recover from an outage and resume 
+ff2 fs0
+critical business operations.
+ff2 fs0
+The 
+ff5 fs6
+Z<ff2 fs0> in IBM Z stands for zero downtime, and the z14 has the same proven reliability that all </ff2 fs0>
+ff2 fs0
+IBM Z platforms are known for. Like previous generations, the z14 provides technology and 
+ff2 fs0
+services to help identify and remove single points of failures (SPOFs) in critical components. 
+ff2 fs0
+Also, with platform-level redundancy, the z14 is designed to handle failures while maintaining 
+ff2 fs0
+user access. Components can be repaired, maintenance performed, and products migrated 
+ff2 fs0
+with minimal business impacts. Some capabilities, such as capacity-on-demand, 
+ff2 fs0
+automatically turn components on and off based on current needs.
+ff2 fs0
+Although the z14 platform is highly robust and even more so in a sysplex
+ff2 fs3
+3
+ff2 fs0
+ environment, 
+ff2 fs0
+implementing the IBM Geographically Dispersed Parallel Sysplex™ (IBM GDPS®) family of 
+ff1 fs0
+Note:<ff2> IBM z Advanced Workload Analysis Reporter (IBM zAware), which used to be </ff2>
+ff2 fs0
+delivered as a firmware appliance running on a dedicated LPAR, is now part of IOAz.
+ff2 fs4
+3  
+ff2 fs3
+Sysplex is a system clustering technique for high availability, see “High availability with Parallel Sysplex” on page 79 
+ff2 fs3
+for details.
+ff2 fs1
+Chapter 1. The base of a trust economy  <ff1 fs0>5</ff1 fs0>
+ff2 fs0
+solutions improves resilience in cases of unplanned failures, power outages, fire, or human 
+ff2 fs0
+error. The GDPS family of solutions provides additional tools to ensure Z availability, and 
+ff2 fs0
+mask or significantly reduce the effects of critical component outages or failures. 
+ff2 fs0
+Using IBM HyperSwap® technology, I/O traffic can be seamlessly routed from disk 
+ff2 fs0
+subsystems that cannot service the I/O request to a second disk subsystem that can. 
+ff2 fs0
+Additionally, the GDPS/Active-Active solution can route workload from a server location that is 
+ff2 fs0
+experiencing problems to a second location that is operating well.
+ff1 fs5
+1.1.5  Accelerating digital transformation with agile service delivery
+ff2 fs0
+An effective DevOps solution breaks down existing development silos, unifies infrastructure 
+ff2 fs0
+platforms, and enables ongoing deliveries. z14 provides the scalable and secure 
+ff2 fs0
+infrastructure for enterprises that must rapidly create and deliver critical applications, while 
+ff2 fs0
+meeting agreed-on levels for quality, availability, regulatory compliance, and end-use 
+ff2 fs0
+expectations.
+ff2 fs0
+IBM DevOps for Z solutions operate from application understanding through deployment and 
+ff2 fs0
+management. In addition, DevOps for Z solutions gives you a single, cost-effective toolset to 
+ff2 fs0
+maintain and modernize valuable applications on both Z and distributed platforms.
+ff2 fs0
+For instance, Application Discovery and Delivery Intelligence helps development teams 
+ff2 fs0
+understand application interdependencies, complexity, and quality across platforms, 
+ff2 fs0
+environments, and languages. This ability gives your teams an edge in identifying potential 
+ff2 fs0
+API candidates, and provides insight about maintainability and complexity. As a result, the 
+ff2 fs0
+candidate API quality rises, and the user experience improves as well.
+ff2 fs0
+In addition, the z14 provides the infrastructure to support the mission-critical workloads of 
+ff2 fs0
+cloud services. The new high-performance processors, large memory, and enhanced access 
+ff2 fs0
+to data enable the z14 to integrate business transactions, operational data, and analytics into 
+ff2 fs0
+a single workflow.
+ff2 fs0
+The IBM z14 is designed as a strategic asset to power the API economy.
+ff2 fs3
+4
+ff2 fs0
+ Using the API 
+ff2 fs0
+economy demands fortified clouds, which can be open, private, public, and hybrid. The z14 
+ff2 fs0
+gives you the hardware platform necessary to support those clouds.
+ff2 fs0
+For Linux assets, Z platforms are optimized for open source software, enhanced scalability, 
+ff2 fs0
+and sharing, while focusing on business continuity to support cloud. For traditional 
+ff2 fs0
+z/OS-based assets, Z offerings provide intuitive tools to help developers speed 
+ff2 fs0
+Representational State Transfer (RESTful) API development.
+ff2 fs0
+No matter which asset class you choose, the z14 allows mobile and cloud application 
+ff2 fs0
+developers to incorporate z/OS business-critical data and transactions into their applications 
+ff2 fs0
+without needing to understand z/OS subsystems.
+ff2 fs4
+4  
+ff2 fs3
+For more information about the API economy, see the "fc1"Reach new customers with the API economy website.
+ff1 fs0
+6<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff1 fs5
+1.1.6  Revolutionizing business processes
+ff2 fs0
+Blockchain is poised to revolutionize how industries do business. It is a technology for a new 
+ff2 fs0
+generation of transactional applications that establishes trust, accountability, and 
+ff2 fs0
+transparency while streamlining business processes.
+ff2 fs0
+In a blockchain network, members have access to a distributed, shared ledger that is 
+ff5 fs6
+cryptographically<ff2 fs0> secure, updated by consensus, and becomes an immutable, indelible </ff2 fs0>
+ff2 fs0
+record of all 
+ff5 fs6
+transactions<ff2 fs0>. The ledger functions as a single source of “truth”. Considering that </ff2 fs0>
+ff2 fs0
+blockchain is all about increasing trust in 
+ff5 fs6
+business transactions<ff2 fs0>, it makes perfect sense to run </ff2 fs0>
+ff2 fs0
+blockchain for business on Z. 
+ff2 fs0
+Depending on your business or regulatory policies, you can choose on-premises installation 
+ff2 fs0
+supported by IBM-certified Docker images running on Linux on z Systems, or the IBM 
+ff2 fs0
+Blockchain on Bluemix® High Security Business Network (HSBN) service plan. HSBN is a 
+ff2 fs0
+fully managed blockchain service running in the IBM cloud. It delivers a secure, isolated 
+ff2 fs0
+compute environment that is ideally suited for workloads with sensitive data.
+ff1 fs5
+1.1.7  Blending open source and Z technologies
+ff2 fs0
+The right blend and balance of open source technologies, ISV tools, and IT platform is key to 
+ff2 fs0
+enable businesses and organizations to deliver change at a much quicker pace. To this end, 
+ff2 fs0
+IBM has created an ecosystem of clients, business partners, and ISVs who are engaging in 
+ff2 fs0
+an open source development community to bring the most important and most sought-after 
+ff2 fs0
+foundational open source technologies to its IT platforms. In addition, IBM is a member of 
+ff2 fs0
+many open-standard organizations and software governance consortia that help to shape the 
+ff2 fs0
+future of open source software. 
+ff2 fs0
+The combination of a robust and securable hardware platform with the power of a Linux 
+ff2 fs0
+distribution can optimize the building, testing, and deploying of modern applications, and can 
+ff2 fs0
+accommodate scale-out clusters and scalable clouds.
+ff2 fs0
+The z14 provides a secure, massive capacity Linux platform that can be deployed as 
+ff2 fs0
+stand-alone, or side-by-side with z/OS or IBM z/VSE® environments on a single physical 
+ff2 fs0
+platform. Therefore, you can easily integrate Linux workloads on the z14 with z/OS and z/VSE 
+ff2 fs0
+solutions that will benefit from data and applications being tightly collocated with fast internal 
+ff2 fs0
+communication and improved availability.
+ff2 fs0
+Linux on z Systems on the z14 uses pervasive encryption, which is a transparent protection 
+ff2 fs0
+envelope that secures data within the system. It gives you the performance and vertical scale 
+ff2 fs0
+that you need to meet the demands of your digital enterprise while controlling server sprawl 
+ff2 fs0
+costs. Combined with the integration benefits, Linux on z Systems on the z14 allows you to 
+ff2 fs0
+deploy innovative new services or cognitive analytics and consolidate x86 workloads.
+ff2 fs0
+In addition, deploying Linux on the z14 can benefit your bottom line. Compared to virtualized 
+ff2 fs0
+x86 alternatives and public cloud solutions, the lower costs for administration and 
+ff2 fs0
+management, software licensing, business continuity, and floor space can reduce your total 
+ff2 fs0
+cost of ownership.
+ff2 fs1
+Chapter 1. The base of a trust economy  <ff1 fs0>7</ff1 fs0>
+ff1 fs2
+1.2  z14 technical description
+ff2 fs0
+The IBM z14, when compared to its predecessor (IBM z13®), offers several improvements, 
+ff2 fs0
+such as faster, more efficient, and redesigned high-frequency chips, additional granularity 
+ff2 fs0
+options, better availability, faster encryption, and enhanced on-demand options.
+ff1 fs5
+1.2.1  Technical highlights
+ff2 fs0
+The z14 is a highly scalable symmetric multiprocessor (SMP) system, and the architecture 
+ff2 fs0
+ensures continuity and upgradeability from the previous z13 and zEC12. Five z14 models are 
+ff2 fs0
+offered: M01, M02, M03, M04, and M05.
+ff2 fs0
+Table 1-1 shows the main technical enhancements in the z14 over its predecessor platforms.
+ff4 fs1
+Table 1-1   Technical highlights in the z14
+ff2 fs0
+You can compare the z14 to the previous two IBM Z generations using the "fc1"Compare IBM z 
+ff2 fs0
+Systems"fc0" tool.
+ff2 fs1
+Greater total system capacity and more subcapacity settings 
+ff2 fs1
+for central processors (CP). The IBM z/Architecture® ensures 
+ff2 fs1
+continuity and upgradeability from previous models.
+ff2 fs1
+Up to 170 characterizable 
+ff2 fs1
+processor units. Up to 33 CPs can 
+ff2 fs1
+have subcapacity settings.
+ff2 fs1
+Multi-core, single-chip modules running to help improve the 
+ff2 fs1
+execution of processor-intensive workloads.
+ff2 fs1
+5.2 GHz (14 nm FINFET"fc2" 
+ff2 fs1
+Silicon-On-Insulator (SOI)) 
+ff2 fs1
+More real memory per system, ensuring high availability in the 
+ff2 fs1
+memory subsystem through use of proven redundant array of 
+ff2 fs1
+independent memory (RAIM) technology.
+ff2 fs1
+Up to 32 TB of addressable real 
+ff2 fs1
+memory per system.
+ff2 fs1
+A large fixed hardware system area (HSA) that is managed 
+ff2 fs1
+separately from client-purchased memory.
+ff2 fs1
+192 GB.
+ff2 fs1
+Proven technology (fifth-generation high frequency and third-generation out-of-order design) with a 
+ff2 fs1
+single-instruction, multiple-data (SIMD) processor that increases parallelism to accelerate analytics 
+ff2 fs1
+processing. In addition, simultaneous multithreading (SMT) increases processing efficiency and 
+ff2 fs1
+throughput and raises the number of instructions in flight.
+ff2 fs1
+Processor cache structure improvements and larger cache sizes to help with more of today’s 
+ff2 fs1
+demanding production workloads. The z14 offers these levels of cache:
+ff3 fs1
+� <ff2>First-level cache (L1 private): 128 KB for instructions, 128 KB for data</ff2>
+ff3 fs1
+� <ff2>Second-level cache (L2): 2 MB for instructions and 4 MB for data</ff2>
+ff3 fs1
+� <ff2>Third-level cache (L3): 128 MB </ff2>
+ff3 fs1
+� <ff2>Fourth-level cache (L4): 672 MB</ff2>
+ff2 fs1
+Improved cryptographic functions and performance, achieved by having one dedicated cryptographic 
+ff2 fs1
+co-processor per processor unit.
+ff2 fs1
+IBM zHyperLink Express is a new, short distance, Z I/O adapter designed for up to 5x lower latency 
+ff2 fs1
+than High Performance FICON for read requests.
+ff2 fs1
+The channel subsystem is built for I/O resilience. The number 
+ff2 fs1
+of logical channel subsystems (LCSS), subchannel sets, and 
+ff2 fs1
+I/O devices are consistent with its predecessor platform, as is 
+ff2 fs1
+the number of logical partitions (LPARs). 
+ff3 fs1
+� <ff2>Six LCSS</ff2>
+ff3 fs1
+� <ff2>85 LPARs</ff2>
+ff3 fs1
+� <ff2>Four subchannel sets</ff2>
+ff3 fs1
+� <ff2>32,000 I/O devices per channel</ff2>
+ff1 fs0
+8<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff2 fs0
+To ensure a balanced and highly available system, the z14 includes these additional features 
+ff2 fs0
+and functions:
+ff3 fs0
+� <ff2>Enhanced LPAR resource allocation algorithms for processor units and memory (16 TB </ff2>
+ff2 fs0
+per LPAR)
+ff3 fs0
+� <ff2>IBM Virtual Flash Memory (VFM) can be used to handle paging workload spikes and can </ff2>
+ff2 fs0
+improve availability. VFM is the replacement for the Flash Express features (0402 and 
+ff2 fs0
+0403), which were available on the zEC12 and z13.
+ff3 fs0
+� <ff2>Next generation Crypto Express6S feature supports up to 85 domains </ff2>
+ff3 fs0
+� <ff2>New CMPSC with Huffman Coding compression for faster expansion algorithms and </ff2>
+ff2 fs0
+reduced overhead
+ff3 fs0
+� <ff2>Guarded Storage Facility for improved Java performance by reducing program pauses </ff2>
+ff2 fs0
+during Java Garbage Collection
+ff3 fs0
+� <ff2>Functionality in 10 GbE RoCE Express2, with the increased ability to share adapters </ff2>
+ff2 fs0
+between LPARs
+ff3 fs0
+� <ff2>Coupling Express Long Reach (LR) for coupling links that need to extend up to 10 km</ff2>
+ff3 fs0
+� <ff2>Next generation FICON Express16S+</ff2>
+ff3 fs0
+� <ff2>zHyperLink Express with IBM DS8880 for extremely low latency</ff2>
+ff2 fs0
+inbound IPSec packets
+ff3 fs0
+� <ff2>Secure Service Container</ff2>
+ff2 fs3
+5
+ff2 fs0
+ to build and host secure virtual appliances
+ff3 fs0
+� <ff2>Air cooled systems such as cooling radiators with N+1 redundant design</ff2>
+ff3 fs0
+� <ff2>Support for ASHRAE Class A3 data centers</ff2>
+ff2 fs0
+Figure 1-2 on page 9 compares the z14 with previous Z platforms in the following key areas:
+ff3 fs0
+� <ff2>Single-engine (1-Way) PCI</ff2>
+ff2 fs3
+6
+ff3 fs0
+� <ff2>Number of processor units</ff2>
+ff3 fs0
+� <ff2>Memory</ff2>
+ff3 fs0
+� <ff2>System I/O bandwidth</ff2>
+ff2 fs4
+5  
+ff2 fs3
+See “Secure Service Container” on page 71 for more information.
+ff2 fs4
+6  
+ff2 fs3
+Based on the processor capacity index (PCI). PCI values can be obtained from <ff4>Large Systems Performance </ff4>
+ff4 fs3
+Reference<ff2>, SC28-1187"fc0".</ff2>
+ff2 fs1
+Chapter 1. The base of a trust economy  <ff1 fs0>9</ff1 fs0>
+ff4 fs1
+Figure 1-2   Balanced system design: z14 versus its predecessors 
+ff2 fs0
+You can find more details about the z14 in Chapter 2, “IBM z14 hardware overview” on 
+ff2 fs0
+page 17. For an in-depth description of IBM z14 functions and features, see also <ff4>IBM z14 </ff4>
+ff4 fs0
+Technical Guide,<ff2> SG24-8451"fc0".</ff2>
+ff1 fs5
+1.2.2  Storage connectivity
+ff2 fs0
+Storage connectivity is provided on the z14 by IBM Fibre Connection (FICON) and the 
+ff2 fs0
+IBM zHyperLink Express feature. 
+ff1 fs7
+FICON
+ff2 fs0
+FICON features follow the established Fibre Channel (FC) standards to support data storage 
+ff2 fs0
+and access requirements, along with the latest FC technology in storage and access devices. 
+ff2 fs0
+FICON Express features support these protocols:
+ff3 fs0
+� <ff2>Native FICON</ff2>
+ff2 fs0
+This enhanced protocol (over FC) provides for communication across channels, 
+ff2 fs0
+channel-to-channel (CTC) connectivity, and with FICON devices, such as disks, tapes, 
+ff2 fs0
+and printers. It is used in z/OS, IBM z/VM®, IBM z/VSE, z/TPF, and Linux on z Systems 
+ff2 fs0
+environments.
+ff3 fs0
+� <ff2>Fibre Channel Protocol (FCP)</ff2>
+ff2 fs0
+This is a standard protocol for communicating with disk and tape devices through Fibre 
+ff2 fs0
+Channel switches and directors. The FCP channel can connect to FCP SAN fabrics and 
+ff2 fs0
+access FCP/SCSI devices. FCP is used by z/VM, KVM for IBM Z, z/VSE, and Linux on z 
+ff2 fs0
+Systems environments.
+ff2 fs0
+FICON Express16S+ features provide significant improvements in throughput and response 
+ff2 fs0
+time for performance-critical middleware, and to shrink the batch window that is required to 
+ff2 fs0
+accommodate I/O-bound batch work. FICON Express16S+ features are implemented using 
+ff1 fs0
+10<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff2 fs0
+PCIe cards, and offer better port granularity and improved capabilities over the previous 
+ff2 fs0
+FICON Express features. FICON Express16S+ features support a link data rate of 16 Gbps 
+ff2 fs0
+(4, 8, or 16 Gbps auto-negotiate), and is the preferred technology for new systems.
+ff2 fs0
+For more information about the available FICON Express features, see 3.1, “I/O features at a 
+ff2 fs0
+glance” on page 34.
+ff1 fs7
+zHyperLink Express
+ff2 fs0
+zHyperLink was created to provide fast access to data via extremely low latency connections 
+ff2 fs0
+between the Z platform and storage.
+ff2 fs0
+The zHyperLink Express feature allows you to make synchronous requests for data that is in 
+ff2 fs0
+the storage cache of the IBM DS8880. This process is done by directly connecting the 
+ff2 fs0
+zHyperLink Express port in the z14 to an I/O Bay port of the DS8880. This short distance (up 
+ff2 fs0
+to 150 m), direct connection is currently intended to speed up DB2 for z/OS 
+ff5 fs6
+blocking read<ff2 fs0> </ff2 fs0>
+ff2 fs0
+requests.
+ff2 fs0
+Working in conjunction with the FICON SAN Infrastructure, zHyperLink can improve 
+ff2 fs0
+application response time, cutting I/O-sensitive workload response time by up to 50% without 
+ff2 fs0
+requiring application changes. 
+ff2 fs0
+Note that zHyperLink channels complement FICON channels, but they do 
+ff5 fs6
+not<ff2 fs0> replace them.</ff2 fs0>
+ff1 fs5
+1.2.3  Network connectivity
+ff2 fs0
+The z14 is a fully virtualized platform that can support many system images at once. 
+ff2 fs0
+Therefore, network connectivity covers not only the connections between the platform and 
+ff2 fs0
+external networks with Open Systems Adapter-Express (OSA-Express) and 10 GbE RoCE 
+ff2 fs0
+Express features, but also supports specialized internal connections for intra-system 
+ff2 fs0
+communication through IBM HiperSockets™ and Shared Memory Communications–Direct 
+ff2 fs0
+Memory Access (SMC-D). 
+ff1 fs7
+OSA-Express
+ff2 fs0
+The OSA-Express features provide local area network (LAN) connectivity and comply with 
+ff2 fs0
+IEEE standards. In addition, OSA-Express features assume several functions of the TCP/IP 
+ff2 fs0
+stack that normally are performed by the processor unit, allowing significant performance 
+ff2 fs0
+benefits by offloading processing from the operating system.
+ff2 fs0
+OSA-Express6S features introduced with the z14 is a technology refresh. They continue to 
+ff2 fs0
+support 1000BASE-T Ethernet for copper environments as well as 10 Gigabit Ethernet and 
+ff2 fs0
+Gigabit Ethernet fiber optic (single-mode and multimode) environments.
+ff1 fs7
+HiperSockets
+ff2 fs0
+IBM HiperSockets is an integrated function of the Z platforms that supplies attachments to up 
+ff2 fs0
+to 32 high-speed virtual local area networks with minimal system and network overhead.
+ff2 fs0
+HiperSockets is a function of the Licensed Internal Code (LIC). It provides LAN connectivity 
+ff2 fs0
+across multiple system images on the same Z platform by performing memory-to-memory 
+ff2 fs0
+data transfers in a secure way. The HiperSockets function eliminates the use of I/O 
+ff2 fs0
+subsystem operations and having to traverse an external network connection to communicate 
+ff2 fs0
+between logical partitions in the same Z platform. In this way, HiperSockets can help with 
+ff2 fs0
+server consolidation by connecting virtual servers and simplifying the enterprise network.
+ff2 fs1
+Chapter 1. The base of a trust economy  <ff1 fs0>11</ff1 fs0>
+ff1 fs7
+10GbE RoCE Express2
+ff2 fs0
+The 10 Gigabit Ethernet (10GbE) RoCE Express2 features uses Remote Direct Memory 
+ff2 fs0
+Access (RDMA) over Converged Ethernet (RoCE) to provide fast memory-to-memory 
+ff2 fs0
+communications between two Z platforms or within a Z platform.
+ff2 fs0
+The feature is designed to help reduce consumption of CPU resources for applications that 
+ff2 fs0
+use the TCP/IP stack (such as IBM WebSphere® accessing an IBM DB2 database). It can 
+ff2 fs0
+also help reduce network latency with memory-to-memory transfers by using Shared Memory 
+ff2 fs0
+Communications over RDMA (SMC-R) in z/OS V2R1 or later.
+ff2 fs0
+With SMC-R, you can transfer huge amounts of data quickly, at low latency. SMC-R is 
+ff2 fs0
+completely transparent to the application, requiring no code changes and thus enabling rapid 
+ff2 fs0
+time to value.
+ff1 fs7
+SMC-D
+ff2 fs0
+The z14 also uses a recently introduced communications protocol called Shared Memory 
+ff2 fs0
+Communications
+ff2 fs7
+ - <fs0>Direct Memory Access (SMC-D). SMC-D is similar to SMC-R, but is </fs0>
+ff2 fs0
+intended for communications<ff4> </ff4>
+ff5 fs6
+within<ff4 fs0> <ff2>the same Z platform, optimizing operating systems </ff2></ff4 fs0>
+ff2 fs0
+communications in a way that is transparent to socket applications. It reduces the CPU cost of 
+ff2 fs0
+TCP/IP processing in the data path, enabling highly efficient and application-transparent 
+ff2 fs0
+communications. Notably, SMC-D requires no additional physical resources (such as RoCE 
+ff2 fs0
+adapters, PCI bandwidth, ports, I/O slots, network resources, or 10GbE switches). Instead, 
+ff2 fs0
+SMC-D uses either HiperSockets or an OSA-Express feature for establishing the initial 
+ff2 fs0
+connection.
+ff2 fs0
+For more information about the available network connectivity features, see 3.1, “I/O features 
+ff2 fs0
+at a glance” on page 34.
+ff1 fs5
+1.2.4  Cryptography
+ff2 fs0
+z14 provides two major groups of cryptographic functions: CPACF and Crypto Express6S.
+ff2 fs0
+CPACF is a high performance, low latency co-processor that performs symmetric key 
+ff2 fs0
+encryption and calculates message digests (hashes) in hardware. Supported algorithms are 
+ff2 fs0
+AES, DES/TDES, SHA-1, SHA-2, and SHA-3. Latency in the CPACF in the z14 is significantly 
+ff2 fs0
+less compared to the CPACF in the z13. 
+ff2 fs0
+The tamper-sensing and tamper-responding Crypto Express6S features provide acceleration 
+ff2 fs0
+for high-performance cryptographic operations and support up to 85 domains. This 
+ff2 fs0
+specialized hardware performs AES, DES/TDES, RSA, Elliptic Curve (ECC), SHA-1, and 
+ff2 fs0
+SHA-2, and other cryptographic operations. It supports specialized high-level cryptographic 
+ff2 fs0
+APIs and functions, including those required in the banking industry. Crypto Express6S 
+ff2 fs0
+features are designed to meet the FIPS 140-2 Level 4 and PCI HSM security requirements for 
+ff2 fs0
+hardware security modules. 
+ff2 fs0
+The z14 offers twice the AES performance as the z13, a True Random Number Generator, 
+ff2 fs0
+SHA3 support, and RSA/ECC acceleration.
+ff1 fs5
+1.2.5  Clustering connectivity
+ff2 fs0
+A Parallel Sysplex is an IBM Z clustering technology used to make applications running on 
+ff2 fs0
+logical and physical servers highly reliable and always available. The servers in a Parallel 
+ff2 fs0
+Sysplex are interconnected via coupling links.
+ff1 fs0
+12<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff2 fs0
+Coupling connectivity for Parallel Sysplex on z14 use Coupling Express Long Reach (CE LR) 
+ff2 fs0
+Integrated Coupling Adapter Short Reach (ICA SR) and InfiniBand (IFB) technology. The 
+ff2 fs0
+ICA SR and HCA3-O SR are designed to support distances up to 150 m. The CE LR and 
+ff2 fs0
+HCA3-O LR fanouts supports longer unrepeated distances of up to 10 km between systems. 
+ff1 fs5
+1.2.6  Special-purpose features and functions
+ff2 fs0
+When it comes to Z development, IBM takes a <ff5 fs6>total systems</ff5 fs6> view. The Z stack is built around 
+ff2 fs0
+digital services, agile application development, connectivity, and systems management. This 
+ff2 fs0
+configuration creates an integrated, platform with specialized hardware and dedicated 
+ff2 fs0
+computing capabilities.
+ff2 fs0
+The z14 delivers a range of features and functions, allowing processor units to concentrate on 
+ff2 fs0
+computational tasks, while distinct, specialized features take care of the rest. The following 
+ff2 fs0
+are some of the special-purpose features and functions that are offered with the z14:
+ff3 fs0
+� <ff2>Data compression</ff2>
+ff2 fs0
+– The Compression Coprocessor (CMPSC) is a high-performance coprocessor that uses 
+ff2 fs0
+compression algorithms (such as new Huffman encoding) to help reduce disk space 
+ff2 fs0
+and memory usage.
+ff2 fs0
+– The IBM zEnterprise® Data Compression (zEDC) Express feature delivers an 
+ff2 fs0
+integrated solution to help reduce CPU consumption, optimize performance of 
+ff2 fs0
+compression-related tasks, and enable more efficient use of storage resources.
+ff3 fs0
+� <ff2>Secure Services Container</ff2>
+ff2 fs0
+This is a special-purpose firmware partition that is isolated from production and enables 
+ff2 fs0
+the secure deployment of software appliances.
+ff3 fs0
+� <ff2>GDPS Virtual Appliance</ff2>
+ff2 fs0
+The GDPS Virtual Appliance is a fully integrated, continuous availability, and disaster 
+ff2 fs0
+recovery solution for Linux on z Systems that can help improve availability and 
+ff2 fs0
+time-to-value.
+ff3 fs0
+� <ff2>Dynamic Partition Manager (DPM)</ff2>
+ff2 fs0
+DPM is a guided management interface that is used to define the Z hardware and virtual 
+ff2 fs0
+infrastructure, including integrated dynamic I/O management that runs Linux on z Systems 
+ff2 fs0
+environments.
+ff3 fs0
+� <ff2>Guarded Storage Facility (GSF)</ff2>
+ff2 fs0
+Also known as pause-less garbage collection, Guarded Storage Facility is a new 
+ff2 fs0
+architecture introduced with z14 to enable enterprise scale Java applications to run 
+ff2 fs0
+without periodic pause for garbage collection on larger heaps.
+ff3 fs0
+� <ff2>Instruction Execution Protection Facility (IEPF)</ff2>
+ff2 fs0
+Instruction Execution Protection is a new hardware function introduced with z14 that 
+ff2 fs0
+enables software like IBM Language Environment® to mark certain memory regions (for 
+ff2 fs0
+example, a heap or stack) as non-executable to improve the security of programs running 
+ff2 fs0
+on Z against stack-overflow or similar attacks.
+ff3 fs0
+� <ff2>Simultaneous multithreading (SMT)</ff2>
+ff2 fs0
+With SMT, you can process up to two simultaneous threads in a single core to optimize 
+ff2 fs0
+throughput. An operating system with SMT support can be configured to dispatch work to 
+ff2 fs0
+a thread on a zIIP
+ff2 fs3
+7
+ff2 fs0
+ or an IFL
+ff2 fs3
+8
+ff2 fs0
+. New with z14, SAP engines also support SMT.
+ff2 fs4
+7  
+ff2 fs3
+IBM z Integrated Information Processor (zIIP) is used under z/OS for designated workloads, which include IBM 
+ff2 fs3
+Java virtual machine (JVM), various XML System Services, and others.
+ff2 fs1
+Chapter 1. The base of a trust economy  <ff1 fs0>13</ff1 fs0>
+ff3 fs0
+� <ff2>Single-instruction, multiple-data (SIMD)</ff2>
+ff2 fs0
+SIMD is set of instructions that allows optimization of code to complex mathematical 
+ff2 fs0
+models and business analytics vector processing. The set of SIMD instructions are a type 
+ff2 fs0
+of data-parallel computing and vector processing that can decrease the amount of code 
+ff2 fs0
+and accelerate mathematical computations with integer, string, character, and floating 
+ff2 fs0
+point data types.
+ff3 fs0
+� <ff2>Dynamic memory relocation</ff2>
+ff2 fs0
+This is in support of Enhanced Drawer Availability (EDA) and Concurrent Drawer 
+ff2 fs0
+Replacement (CDR). With this technology, an algorithm is used to dynamically move 
+ff2 fs0
+memory between CPC drawers to improve performance without impacting the operating 
+ff2 fs0
+system.
+ff3 fs0
+� <ff2>Coupling and parallel sysplex </ff2>
+ff2 fs0
+Data sharing and serialization functions are offloaded to the coupling facility via a special 
+ff2 fs0
+coupling link network,  providing the infrastructure to run a single production workload 
+ff2 fs0
+accessing a common set of data across many z/OS system images.
+ff2 fs0
+You can read more about these and other z14 features in Chapter 3, “Supported features and 
+ff2 fs0
+functions” on page 33 and Chapter 4, “Strengths of the z14 platform” on page 59.
+ff1 fs5
+1.2.7  Capacity on demand and performance
+ff2 fs0
+The z14 enables just-in-time deployment of processor resources. The capacity on demand 
+ff2 fs0
+(CoD) function allows users to dynamically change available system capacity. This function 
+ff2 fs0
+helps companies respond to new business requirements with flexibility and precise 
+ff2 fs0
+granularity. 
+ff2 fs0
+Also contributing to the additional capacity on the z14 are numerous improvements in 
+ff2 fs0
+processor chip design, including new instructions, multithreading, and redesigned and larger 
+ff2 fs0
+caches.
+ff2 fs0
+In the same footprint, the z14 can deliver up to 25%
+ff2 fs3
+9
+ff2 fs0
+ "fc0"more capacity than the largest 141-way 
+ff2 fs0
+z13. The z14 1-way system has approximately 10% more capacity than the z13 1-way 
+ff2 fs0
+system.
+ff2 fs0
+For more details see 4.3.2, “Capacity on demand” on page 73 and 4.3.3, “z14 performance” 
+ff2 fs0
+on page 75.
+ff1 fs5
+1.2.8  Reliability, availability, and serviceability
+ff2 fs0
+The z14 offers the same high quality of service and <ff5 fs6>reliability<ff2 fs0>, <ff5 fs6>availability<ff2 fs0>, and <ff5 fs6>serviceability</ff5 fs6> </ff2 fs0></ff5 fs6></ff2 fs0></ff5 fs6>
+ff2 fs0
+(RAS) that is traditional in Z platforms. The RAS strategy employs a building-block approach 
+ff2 fs0
+that is designed to meet stringent client requirements for achieving continuous, reliable 
+ff2 fs0
+operation. These are the RAS building blocks:
+ff3 fs0
+� <ff2>Error prevention</ff2>
+ff3 fs0
+� <ff2>Error detection </ff2>
+ff3 fs0
+� <ff2>Recovery</ff2>
+ff3 fs0
+� <ff2>Problem determination</ff2>
+ff3 fs0
+� <ff2>Service structure</ff2>
+ff3 fs0
+� <ff2>Change management</ff2>
+ff2 fs4
+8  
+ff2 fs3
+An Integrated Facility for Linux (IFL) is exclusively used with Linux on z Systems and for running the z/VM or KVM 
+ff2 fs3
+hypervisor in support of Linux. 
+ff2 fs4
+9  
+ff2 fs3
+Variations on all the observed increased performance depend on the workload type.
+ff1 fs0
+14<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff3 fs0
+� <ff2>Measurement</ff2>
+ff3 fs0
+� <ff2>Analysis</ff2>
+ff2 fs0
+The RAS design objective is to manage change by learning from previous product releases 
+ff2 fs0
+and investing in new RAS functionality to eliminate or minimize all sources of outages.
+ff2 fs0
+For more information on RAS, see 4.4, “Reliability, availability, and serviceability” on page 77.
+ff1 fs2
+1.3  Software support
+ff2 fs0
+The z14 supports a wide range of IBM and independent software vendor (ISV) software 
+ff2 fs0
+solutions. This range includes traditional batch and online transaction processing (OLTP) 
+ff2 fs0
+environments, such as IBM Customer Information Control System (IBM CICS®), IBM 
+ff2 fs0
+Information Management System (IBM IMS™), and IBM DB2. It also includes these web 
+ff2 fs0
+services (in addition to others that are not listed): 
+ff3 fs0
+� <ff2>Java platform</ff2>
+ff3 fs0
+� <ff2>Linux and open standards applications</ff2>
+ff3 fs0
+� <ff2>WebSphere</ff2>
+ff3 fs0
+� <ff2>IBM MobileFirst™ Platform Foundation for mobile application development</ff2>
+ff3 fs0
+� <ff2>IBM z/OS Connect Enterprise Edition</ff2>
+ff2 fs0
+The following operating systems are supported on the z14:
+ff3 fs0
+� <ff2>z/OS Version 2 Release 3</ff2>
+ff3 fs0
+� <ff2>z/OS Version 2 Release 2 with PTFs (exploitation) </ff2>
+ff3 fs0
+� <ff2>z/OS Version 2 Release 1 with PTFs (exploitation) </ff2>
+ff3 fs0
+� <ff2>z/OS Version 1 Release 13 with PTFs (limited exploitation, requires extended support)</ff2>
+ff3 fs0
+� <ff2>z/VM Version 6 Release 4 with PTFs (compatibility and exploitation support) </ff2>
+ff3 fs0
+� <ff2>z/VM Version 6 Release 3 with PTFs (compatibility and exploitation support) </ff2>
+ff3 fs0
+� <ff2>z/VSE Version 6 Release 2 with PTFs</ff2>
+ff3 fs0
+� <ff2>z/VSE Version 6 Release 1 with PTFs</ff2>
+ff3 fs0
+� <ff2>z/VSE Version 5 Release 2 with PTFs</ff2>
+ff3 fs0
+� <ff2>z/TPF Version 1 Release 1 (compatibility support) </ff2>
+ff3 fs0
+� <ff2>Linux on z Systems:</ff2>
+ff2 fs0
+– SUSE: SUSE Linux Enterprise Server 11 and 12 
+ff2 fs0
+– Red Hat: Red Hat Enterprise Linux (RHEL) 6, and RHEL7 
+ff2 fs0
+– Ubuntu: 16.04 LTS 
+ff3 fs0
+� <ff2>KVM for IBM z 1.1.2 with FixPack (toleration mode)</ff2>
+ff3 fs0
+� <ff2>KVM hypervisor, which is offered with the following Linux distributions: </ff2>
+ff2 fs0
+– SLES-12 SP2 or higher
+ff2 fs0
+– Ubuntu 16.04 LTS or higher. 
+ff2 fs0
+Detailed service levels will be identified during toleration tests. For recommended distribution 
+ff2 fs0
+levels, see 
+ff2 fs0
+IBM tested and supported Linux environments"fc0".
+ff2 fs0
+For more information about the z14 software support, see Chapter 5, “Operating system 
+ff2 fs0
+support” on page 85.
+ff2 fs1
+Chapter 1. The base of a trust economy  <ff1 fs0>15</ff1 fs0>
+ff1 fs5
+1.3.1  IBM compilers
+ff2 fs0
+Compilers are built with specific knowledge of the system architecture, which is used during 
+ff2 fs0
+code generation. Therefore, using the latest compilers is essential to extract the maximum 
+ff2 fs0
+benefit of a platform’s capabilities. IBM compilers use the latest architecture enhancements 
+ff2 fs0
+and new instruction sets to deliver additional value.
+ff2 fs0
+With IBM Enterprise COBOL for z/OS and IBM Enterprise PL/I for z/OS, decades of IBM 
+ff2 fs0
+experience in application development can be used to integrate COBOL and PL/I with web 
+ff2 fs0
+services, XML, and Java. Such interoperability makes it possible to capitalize on existing IT 
+ff2 fs0
+investments, while smoothly incorporating new, web-based applications into the 
+ff2 fs0
+infrastructure.
+ff2 fs0
+z/OS, XL C/C++, and XL C/C++ for Linux on z Systems help with creating and maintaining 
+ff2 fs0
+critical business applications that are written in C or C++ to maximize application 
+ff2 fs0
+performance and improve developer productivity. These compilers transform C or C++ source 
+ff2 fs0
+code into executable code that fully leverages the Z architecture. This transformation is 
+ff2 fs0
+possible thanks to hardware-tailored optimizations, built-in functions, performance-tuned 
+ff2 fs0
+libraries, and language constructs that simplify system programming and boost application 
+ff2 fs0
+runtime performance.
+ff2 fs0
+Compilers such as COBOL, PL/I, and z/OS v2.3 XL C/C++ are inherently optimized on the 
+ff2 fs0
+IBM z14 because they use floating point registers rather than memory or fast mathematical 
+ff2 fs0
+computations. Using compilers that take advantage of hardware enhancements is key to 
+ff2 fs0
+improving application performance, reducing CPU usage, and lowering operating costs.
+ff2 fs0
+The IBM z14 also offers release-to-release improvements for Java. Combined with 
+ff2 fs0
+cryptography acceleration, the z14 can deliver improvements in throughput per core. The new 
+ff2 fs0
+z14 pause-less garbage collection capability provides improvements in throughput per core 
+ff2 fs0
+as well. Because of shorter, more consistent Java response times, the z14 achieves both 
+ff2 fs0
+improvements without significantly affecting overall throughput. So for Java applications that 
+ff2 fs0
+must remain highly responsive, enabling the new garbage collection mode is a good option.
+ff1 fs0
+16<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff2 fs1
+© Copyright IBM Corp. 2017. All rights reserved. <ff1 fs0>17</ff1 fs0>
+ff1 fs8
+Chapter 2. <fs9>IBM z14 hardware overview</fs9>
+ff2 fs0
+This chapter expands on the description of the key hardware elements of the z14 that was 
+ff2 fs0
+topics:
+ff3 fs0
+� <ff2>Models and upgrade paths</ff2>
+ff3 fs0
+� <ff2>Frames and cabling</ff2>
+ff3 fs0
+� <ff2>CPC drawers</ff2>
+ff3 fs0
+� <ff2>I/O system structure</ff2>
+ff3 fs0
+� <ff2>Power and cooling</ff2>
+ff1 fsa
+2
+ff1 fs0
+18<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff1 fs2
+2.1  Models and upgrade paths 
+ff2 fs0
+The z14 has an assigned machine type (MT) of 3906, which uniquely identifies the central 
+ff2 fs0
+processor complex (CPC). The z14 is offered in five models (M01, M02, M03, M04, and 
+ff2 fs0
+M05
+ff2 fs3
+1
+ff2 fs0
+). All z14 models use seven, eight, nine, or ten processor unit cores in five or six 
+ff2 fs0
+processor unit single chip modules in one CPC drawer. Spare processor units, system assist 
+ff2 fs0
+processors (SAPs), and one integrated firmware processor (IFP) are integral to the system 
+ff2 fs0
+and are present in all models of the z14.
+ff2 fs0
+Table 2-1 provides a summary that includes the number of characterizable processor units, 
+ff2 fs0
+SAPs, and spare processor units for the various models. For an explanation of processor unit 
+ff2 fs0
+characterization, see “PU characterization” on page 24.
+ff4 fs1
+Table 2-1   z14 model summary (machine type 3906)
+ff2 fs0
+The z14 offers 269 capacity levels. There are 170 capacity levels based on the number of 
+ff2 fs0
+physically used central processors (CPs), plus up to 99 additional subcapacity models for the 
+ff2 fs0
+first 33 CPs. There is also one model for all Integrated Facility for Linux (IFL) or all Internal 
+ff2 fs0
+Coupling Facility (ICF) configurations.
+ff2 fs4
+1  
+ff2 fs3
+The M05 is a new build order only model. You cannot upgrade from an M01, M02, M03, or M04 to an M05.
+ff1 fs1
+Model CPC drawers
+ff1 fs1
+Characterizable 
+ff1 fs1
+processor units
+ff1 fs1
+Standard 
+ff1 fs1
+SAPs
+ff1 fs1
+Spares
+ff1 fs1
+Integrated 
+ff1 fs1
+firmware 
+ff1 fs1
+processor
+ff1 fs1
+M01 <ff2>1 1 - 33 5 2 1</ff2>
+ff1 fs1
+M02 <ff2>2 1 - 69 10 2 1</ff2>
+ff1 fs1
+M03 <ff2>3 1 - 105 15 2 1</ff2>
+ff1 fs1
+M04 <ff2>4 1 - 141 20 2 1</ff2>
+ff1 fs1
+M05 <ff2>4 1 - 170 23 2 1</ff2>
+ff2 fs1
+Chapter 2. IBM z14 hardware overview  <ff1 fs0>19</ff1 fs0>
+ff2 fs0
+Figure 2-1 depicts the upgrade paths to the z14.
+ff4 fs1
+Figure 2-1   z14 upgrade paths
+ff2 fs0
+On the z14, concurrent upgrades (explained in Chapter 4, “Strengths of the z14 platform” on 
+ff2 fs0
+page 59) are available for CPs, IFLs, ICFs, z Systems Integrated Information Processors 
+ff2 fs0
+(zIIPs), and SAPs. However, concurrent processor unit upgrades require that additional 
+ff2 fs0
+processor units are physically installed, but not activated at a previous time.
+ff2 fs0
+If an upgrade request cannot be accomplished in the existing configuration, a hardware 
+ff2 fs0
+upgrade is required in which one or more CPC drawers are added to accommodate the 
+ff2 fs0
+wanted capacity. On the z14, additional CPC drawers can be installed concurrently. However, 
+ff2 fs0
+upgrading from any z14 model to model M05 is disruptive because this upgrade is only 
+ff2 fs0
+supplied as a new system.
+ff2 fs0
+Spare processor units are used to replace defective processor units and there are always two 
+ff2 fs0
+spare processor units on a z14. In the rare event of a processor unit failure, one of the spare 
+ff2 fs0
+processor units is immediately and transparently activated and assigned the characteristics of 
+ff2 fs0
+the failing processor unit.
+ff1 fs2
+2.2  Frames and cabling
+ff2 fs0
+The z14 is always a two-frame system: The <ff5 fs6>A Frame <ff2 fs0>and the <ff5 fs6>Z Frame<ff2 fs0>. It can be delivered as </ff2 fs0></ff5 fs6></ff2 fs0></ff5 fs6>
+ff2 fs0
+an air-cooled system or as a water-cooled one. 
+ff2 fs0
+The two frames form the z14. The number of PCIe drawers can vary based on the number of 
+ff2 fs0
+I/O features. For a new build system, a combination of up to five PCIe I/O drawers can be 
+ff2 fs0
+installed. PCIe I/O drawers can be added concurrently.
+ff2 fs0
+In addition, the z14 (both new builds and MES orders) offers top-exit options for the fiber optic 
+ff2 fs0
+and copper cables used for I/O and power. These options (
+ff5 fs6
+Top Exit Power<ff2 fs0> and </ff2 fs0>Top Exit I/O 
+ff1 fs0
+20<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff5 fs6
+Cabling<ff2 fs0>) give you more flexibility in planning where the system resides, potentially freeing you </ff2 fs0>
+ff2 fs0
+from running cables under a raised floor and increasing air flow over the system.
+ff2 fs0
+The radiator-cooled z14 models support installation on raised floor and non-raised floor 
+ff2 fs0
+environments. For water-cooled models, only the raised floor option is available.
+ff2 fs0
+Figure 2-2 shows an internal, front view of the two frames of an air-cooled z14 system with 
+ff2 fs0
+the maximum five PCIe I/O drawers, including the top-exit I/O and power cable options.
+ff4 fs1
+Figure 2-2   <fs0>z14</fs0> internal, front view: Air-cooled platform with five PCIe I/O drawers
+ff2 fs0
+Figure 2-3 shows an internal, front view of the two frames of a water-cooled platform without 
+ff2 fs0
+the top exit I/O and power cable options.
+ff4 fs1
+Figure 2-3   <fs0>z14</fs0> internal, front view: Water-cooled platform with five PCIe I/O drawers 
+ff2 fs1
+Chapter 2. IBM z14 hardware overview  <ff1 fs0>21</ff1 fs0>
+ff1 fs2
+2.3  CPC drawers
+ff2 fs0
+The z14 is a multiple CPC drawer system that can hold up to four drawers in the A Frame.
+ff2 fs0
+Each CPC drawer contains the following elements: 
+ff3 fs0
+� <ff2>Single chip modules:</ff2>
+ff2 fs0
+– Five or six PU single chip modules, each containing seven, eight, nine, or ten 
+ff2 fs0
+processor unit cores (water-cooled).
+ff2 fs0
+– One storage controller single chip module, with a total of 672 MB L4 cache.
+ff2 fs0
+Single chip modules are described in 2.3.1, “Single chip modules” on page 22. Also, see 
+ff2 fs0
+Table 2-1 on page 18 for the model summary and the relation between the number of CPC 
+ff2 fs0
+drawers and number of available processor units.
+ff3 fs0
+� <ff2>Memory:</ff2>
+ff2 fs0
+– A minimum of 320 GB and a maximum of 32 TB of memory (excluding 192 GB HSA) is 
+ff2 fs0
+available for client use. See Table 2-2 on page 25 for details.
+ff2 fs0
+– Either 15, 20, or 25 memory DIMMs are plugged in a CPC drawer.
+ff3 fs0
+� <ff2>Fanouts:</ff2>
+ff2 fs0
+The CPC drawer provides up to 10 PCIe Gen3 fanout adapters to connect to the PCIe I/O 
+ff2 fs0
+drawers and ICA SR coupling links, and up to four InfiniBand fanout adapters for 
+ff2 fs0
+12x InfiniBand and 1x InfiniBand coupling links.
+ff2 fs0
+Each fanout has one, two, or four ports: 
+ff2 fs0
+– One-port PCIe 16 GBps I/O fanout, each supporting one domain in 32-slot PCIe I/O 
+ff2 fs0
+drawers.
+ff2 fs0
+– ICA SR two-port PCIe fanout for coupling links (two links, 8 GBps each).
+ff2 fs0
+– HCA3-O 12x InfiniBand fanout for coupling links (two ports at 6 GBps each). 
+ff2 fs0
+– HCA3-O LR 1x InfiniBand fanout for coupling links (four ports, 5 Gbps each).
+ff3 fs0
+� <ff2>Two Distributed Converter Assemblies (DCAs) that provide power to the CPC drawer.</ff2>
+ff2 fs0
+Loss of one DCA leaves enough power to satisfy the power requirements of the entire 
+ff2 fs0
+drawer. The DCAs can be concurrently maintained.
+ff3 fs0
+� <ff2>Two Flexible Support Processors (FSPs) that provide redundant interfaces to the internal </ff2>
+ff2 fs0
+management network.
+ff1 fs0
+22<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff2 fs0
+As shown in Figure 2-4, all CPC drawers are interconnected with high-speed communications 
+ff2 fs0
+links through the L4 shared caches. The z14 has 672 MB of L4 cache per CPC drawer.
+ff4 fs1
+Figure 2-4   <fs0>z14</fs0> CPC drawer communication topology
+ff2 fs0
+The design used to connect the processor unit and storage control allows the system to be 
+ff2 fs0
+operated and controlled by the IBM Processor Resource/Systems Manager™ (PR/SM™) 
+ff2 fs0
+facility as a memory-coherent symmetrical multiprocessor (SMP) system.
+ff1 fs5
+2.3.1  Single chip modules
+ff2 fs0
+A CPC drawer has five PU single chip modules (SCMs) for models M01 through M04 or six 
+ff2 fs0
+PU SCMs for model M05, and one storage control (SC) SCM. Each PU SCM has seven, 
+ff2 fs0
+eight, nine, or ten active PU cores, and L1, L2, and L3 caches. The SC SCM holds the L4 
+ff2 fs0
+cache.
+ff2 fs0
+Figure 2-5 on page 23 depicts the logical cluster structure for a model M05, showing the 6 PU 
+ff2 fs0
+SCMs, the SC SCM, and their connections. For models M01 through M04, the PU SCM to the 
+ff2 fs0
+far left in Logical Cluster 1 is not present. The number of PU cores on each of the PU SCMs 
+ff2 fs0
+can range from 7 to 10 for all models.
+ff2 fs1
+Chapter 2. IBM z14 hardware overview  <ff1 fs0>23</ff1 fs0>
+ff4 fs1
+Figure 2-5   <fs0>z14</fs0> M05 CPC drawer structure 
+ff2 fs0
+For z14, two CPC drawer configurations are offered with 41 or 49 processor units. All the 
+ff2 fs0
+models employ CPC drawers with 41 processor units except for the model M05, which has 
+ff2 fs0
+four CPC drawers with 49 active processor units, for a total of 196 processor units (170 can 
+ff2 fs0
+be configured for use). 
+ff2 fs0
+Each storage control SCM includes 672 MB shared eDRAM cache, interface logic for up to 
+ff2 fs0
+six PU SCM each, and SMP fabric logic. The SC SMC is configured to provide a single 672 
+ff2 fs0
+MB L4 cache that is shared by all PU cores in the CPC drawer. This amount of cache 
+ff2 fs0
+provides a total of 2.68 GB of cache if all four CPC drawers are implemented, yielding 
+ff2 fs0
+outstanding SMP scalability for real-world workloads.
+ff1 fs5
+2.3.2  Processor unit
+ff2 fs0
+Processor unit (PU) is the generic term for a IBM z/Architecture processor. Each PU is a 
+ff2 fs0
+superscalar processor with the following attributes:
+ff3 fs0
+� <ff2>Up to six instructions can be decoded per clock cycle.</ff2>
+ff3 fs0
+� <ff2>Up to ten instructions can be in execution per clock cycle.</ff2>
+ff3 fs0
+� <ff2>Instructions can be issued out-of-order. The PU uses a high-frequency, low-latency </ff2>
+ff2 fs0
+pipeline, providing robust performance across a wide range of workloads.
+ff3 fs0
+� <ff2>Memory accesses might not be in the same instruction order (out-of-order operand </ff2>
+ff2 fs0
+fetching).
+ff3 fs0
+� <ff2>Most instructions flow through a pipeline with varying numbers of steps for different types </ff2>
+ff2 fs0
+of instructions. Several instructions can be in execution at any moment, subject to the 
+ff2 fs0
+maximum number of decodes and completions per cycle.
+ff1 fs0
+24<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff1 fs7
+PU cache
+ff2 fs0
+The on-chip cache for the PU (core) works in this way:
+ff3 fs0
+� <ff2>Each PU core has an L1 cache (pr8 KB cache for </ff2>
+ff2 fs0
+instructions and a 128 KB cache for data. 
+ff3 fs0
+� <ff2>Each PU core has a private L2 cache, with 4 MB D-cache (“D” stands for data) and 2 MB </ff2>
+ff2 fs0
+I-cache (“I” stands for instruction). 
+ff3 fs0
+� <ff2>Each PU SCM contains a 128 MB L3 cache that is shared by all PU cores in the SCM. The </ff2>
+ff2 fs0
+shared L3 cache uses eDRAM. 
+ff2 fs0
+This on-chip cache implementation optimizes system performance for high-frequency 
+ff2 fs0
+processors, with cache improvements, new Translation/TLB2 design, pipeline optimizations, 
+ff2 fs0
+and better branch prediction.
+ff1 fs7
+PU sparing
+ff2 fs0
+Hardware fault detection is embedded throughout the design, and is combined with 
+ff2 fs0
+comprehensive instruction-level retry and dynamic PU sparing. This function provides the 
+ff2 fs0
+reliability and availability that is required for true mainframe integrity.
+ff1 fs7
+On-chip cryptographic hardware
+ff2 fs0
+Dedicated on-chip cryptographic hardware for each PU core includes extended key and hash 
+ff2 fs0
+sizes for the Advanced Encryption Standard (AES) and Secure Hash Algorithm (SHA), and 
+ff2 fs0
+support for UTF8 to UTF16 conversion. This cryptographic hardware is available with any 
+ff2 fs0
+processor type, for example CP, IBM zIIP, and IFL.
+ff1 fs7
+Software support
+ff2 fs0
+The z14 PUs provide full compatibility with existing software for z/Architecture, and extend the 
+ff2 fs0
+Instruction Set Architecture (ISA) to enable enhanced functionality and performance. Several 
+ff2 fs0
+hardware instructions that support more efficient code generation and execution are 
+ff2 fs0
+introduced in the z14:
+ff3 fs0
+� <ff2>CP Assist for Cryptographic Functions (CPACF)</ff2>
+ff3 fs0
+� <ff2>Compression call (CMPSC) </ff2>
+ff3 fs0
+� <ff2>Hardware decimal floating point (HDFP)</ff2>
+ff3 fs0
+� <ff2>Transactional Execution Facility</ff2>
+ff3 fs0
+� <ff2>Runtime Instrumentation Facility </ff2>
+ff3 fs0
+� <ff2>Single-instruction, multiple-data (SIMD) </ff2>
+ff2 fs0
+These features are further described in Chapter 4, “Strengths of the z14 platform” on 
+ff2 fs0
+page 59.
+ff1 fs7
+PU characterization
+ff2 fs0
+PUs are ordered in single increments. The internal system functions, which are based on the 
+ff2 fs0
+configuration that is ordered, characterize each PU into one of various types during system 
+ff2 fs0
+initialization, which is often called a power-on reset (POR) operation. Characterizing PUs 
+ff2 fs0
+dynamically without a POR is possible by using a process called 
+ff5 fs6
+Dynamic Processor Unit 
+ff5 fs6
+Reassignment
+ff2 fs0
+. A PU that is not characterized cannot be used. Each PU can be characterized 
+ff2 fs0
+as follows:
+ff3 fs0
+� <ff2>Central processor (CP)</ff2>
+ff3 fs0
+� <ff2>Integrated Facility for Linux (IFL) processor</ff2>
+ff3 fs0
+� <ff2>z Systems Integrated Information Processor (zIIP)</ff2>
+ff3 fs0
+� <ff2>Internal Coupling Facility (ICF) </ff2>
+ff3 fs0
+� <ff2>System assist processor (SAP)</ff2>
+ff3 fs0
+� <ff2>Integrated firmware processor (IFP)</ff2>
+ff2 fs1
+Chapter 2. IBM z14 hardware overview  <ff1 fs0>25</ff1 fs0>
+ff2 fs0
+At least one CP must be purchased with a zIIP or before a zIIP can be purchased. You can 
+ff2 fs0
+purchase up to two zIIPs for each purchased CP (assigned or unassigned) on the system. 
+ff2 fs0
+However, an LPAR definition can go beyond the 1:2 ratio. For example, on a system with two 
+ff2 fs0
+CPs, a maximum of four zIIPs can be installed. An LPAR definition for that system can contain 
+ff2 fs0
+up to two logical CPs and four logical zIIPs. Another possible configuration is one logical CP 
+ff2 fs0
+and three logical zIIPs.
+ff2 fs0
+Converting a PU from one type to any other type is possible by using the 
+ff5 fs6
+Dynamic Processor 
+ff5 fs6
+Unit Reassignment
+ff2 fs0
+ process. These conversions happen concurrently with the operation of the 
+ff2 fs0
+system.
+ff1 fs5
+2.3.3  Memory
+ff2 fs0
+Maximum physical memory size is directly related to the number of CPC drawers in the 
+ff2 fs0
+system. Typically, a system has more memory installed than was ordered because part of the 
+ff2 fs0
+installed memory is used to implement the redundant array of independent memory (RAIM) 
+ff2 fs0
+design. On the z14, this configuration results in up to 8 TB of available memory per CPC 
+ff2 fs0
+drawer and up to 32 TB for a four-drawer system. 
+ff2 fs0
+The hardware system area (HSA) on the z14 has a fixed amount of memory (192 GB) that is 
+ff2 fs0
+managed separately from client memory. However, the maximum amount of orderable 
+ff2 fs0
+memory can vary from the theoretical number due to dependencies on the memory 
+ff2 fs0
+granularity.
+ff2 fs0
+Table 2-2 lists the maximum memory sizes for each z14 model.
+ff4 fs1
+Table 2-2   <fs0>z14</fs0> memory per model
+ff2 fs0
+On z14 systems, the granularity for memory orders is 64 - 512 GB. Table 2-3 shows the 
+ff2 fs0
+memory increments, depending on installed memory.
+ff4 fs1
+Table 2-3   <fs0>z14</fs0> memory increments and ranges 
+ff1 fs0
+zIIPs:<ff2> The addition of ICFs, IFLs, zIIPs, and SAP to the z14 does not change the system </ff2>
+ff2 fs0
+capacity setting or its MSU rating. 
+ff1 fs1
+Model CPC drawers Maximum memory
+ff2 fs1
+M01 1 "fc4"08 TB
+ff2 fs1
+M02 2 16 TB
+ff2 fs1
+M03 3  24 TB
+ff2 fs1
+M04 4 32 TB
+ff2 fs1
+M05 4 32 TB
+ff1 fs0
+Important:<ff2> z/OS V2R3 requires a minimum of 8 GB of memory (2 GB of memory when </ff2>
+ff2 fs0
+running under z/VM). z/OS can support up to 4 TB of memory in an LPAR.
+ff1 fs1
+Memory increment Memory range (GB)
+ff2 fs1
+0"fc0"64 256 - 384
+ff2 fs1
+128 384 - 896
+ff1 fs0
+26<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff2 fs0
+Physically, memory is organized in these ways:
+ff3 fs0
+� <ff2>A CPC drawer always contains a minimum of 320 GB of installed memory, of which </ff2>
+ff2 fs0
+256 GB is usable by the operating system.
+ff3 fs0
+� <ff2>A CPC drawer can have more installed memory than is enabled. The excess memory can </ff2>
+ff2 fs0
+be enabled by a Licensed Internal Code load.
+ff3 fs0
+� <ff2>Memory upgrades are first satisfied using already installed but unused memory capacity </ff2>
+ff2 fs0
+until it is exhausted. When no more unused memory is available from the installed cards, 
+ff2 fs0
+either the cards must be upgraded to a higher capacity, or a CPC drawer with more 
+ff2 fs0
+memory must be installed.
+ff2 fs0
+When an LPAR is activated, PR/SM tries to allocate processor units (PUs) and the memory of 
+ff2 fs0
+an LPAR in a single CPC drawer. However, if that is not possible, PR/SM will use memory 
+ff2 fs0
+resources located in any CPC drawer. For example, if the allocated PUs span more than one 
+ff2 fs0
+CPC drawer, PR/SM attempts to allocate memory across that same set of CPC drawers 
+ff2 fs0
+(even if all required memory is available in just one of those CPC drawers).
+ff2 fs0
+No matter which CPC drawer the memory is in, an LPAR has access to that memory after it is 
+ff2 fs0
+allocated. Despite the CPC drawer structure, the z14 is still an SMP system because the PUs 
+ff2 fs0
+have access to all the available memory.
+ff2 fs0
+A memory upgrade is considered to be concurrent when it requires no change of the physical 
+ff2 fs0
+memory cards. A memory card change is disruptive when no use is made of Enhanced 
+ff2 fs0
+Drawer Availability (EDA). In a multiple CPC drawer system, a single CPC drawer can be 
+ff2 fs0
+concurrently removed and reinstalled for a repair with EDA. For a description of EDA, see 
+ff4 fs0
+IBM 
+ff4 fs0
+z14 Technical Guide<ff2>, SG24-8451"fc0".</ff2>
+ff2 fs0
+For model upgrades involving the addition of a CPC drawer, the minimum usable memory 
+ff2 fs0
+increment (256 GB) is added to the system. During an upgrade, adding a CPC drawer is a 
+ff2 fs0
+concurrent operation, as is adding physical memory in the new drawer.
+ff1 fs7
+Concurrent memory upgrade
+ff2 fs0
+If physical memory is available, memory can be upgraded concurrently by using Licensed 
+ff2 fs0
+Internal Code Configuration Control (LICCC), as described. The 
+ff5 fs6
+plan ahead memory function<ff2 fs0> </ff2 fs0>
+ff2 fs0
+that is available with the z14 enables nondisruptive memory upgrades by having in the system 
+ff2 fs0
+pre-plugged memory (based on a target configuration). Pre-plugged memory is enabled 
+ff2 fs0
+through an LICCC order that is placed by the client.
+ff1 fs7
+Redundant array of independent memory
+ff2 fs0
+RAIM technology makes the memory subsystem, in essence, a fully fault-tolerant N+1 design. 
+ff2 fs0
+The RAIM design automatically detects and recovers from failures of dynamic random access 
+ff2 fs0
+memory (DRAM), sockets, memory channels, or dual inline memory modules (DIMMs). 
+ff2 fs0
+The RAIM design is fully integrated in the z14, and has been enhanced to include one 
+ff2 fs0
+Memory Controller Unit (MCU) per processor chip, with five memory channels and one DIMM 
+ff2 fs0
+per channel. A fifth channel in each MCU enables memory to be implemented as RAIM. This 
+ff2 fs0
+technology has significant reliability, availability, and serviceability (RAS) capabilities in the 
+ff2 fs0
+area of error correction. Bit, lane, DRAM, DIMM, socket, and complete memory channel 
+ff2 fs0
+failures, including many types of multiple failures, can be detected and corrected.
+ff2 fs1
+256 896 - 2944
+ff2 fs1
+512 2944 - 32576
+ff1 fs1
+Memory increment Memory range (GB)
+ff2 fs1
+Chapter 2. IBM z14 hardware overview  <ff1 fs0>27</ff1 fs0>
+ff1 fs5
+2.3.4  Hardware system area
+ff2 fs0
+The HSA is a fixed-size, reserved area of memory that is separate from the client-purchased 
+ff2 fs0
+memory. The HSA is used for several internal functions, but the bulk of it is used by channel 
+ff2 fs0
+subsystem functions. 
+ff2 fs0
+The fixed-size 192 GB HSA for z14 is large enough to accommodate any LPAR definitions or 
+ff2 fs0
+changes, thus eliminating most outage situations and the need for extensive preplanning.
+ff2 fs0
+A fixed, large HSA allows the dynamic I/O capability of the z14 to be enabled by default. It 
+ff2 fs0
+also enables the dynamic addition and removal of the following features:
+ff3 fs0
+� <ff2>LPAR to new or existing channel subsystem (CSS)</ff2>
+ff3 fs0
+� <ff2>CSS (up to six can be defined in z14)</ff2>
+ff3 fs0
+� <ff2>Subchannel set (up to four can be defined in z14)</ff2>
+ff3 fs0
+� <ff2>Devices, up to the maximum number permitted, in each subchannel set</ff2>
+ff3 fs0
+� <ff2>Cryptographic adapters</ff2>
+ff1 fs2
+2.4  I/O system structure
+ff2 fs0
+The z14 supports the following type of internal I/O infrastructure:
+ff3 fs0
+� <ff2>Generation 3 PCIe-based infrastructure for PCIe I/O drawers (PCIe Gen3)</ff2>
+ff2 fs0
+The PCIe I/O infrastructure consists of the following features:
+ff3 fs0
+� <ff2>PCIe Gen3 fanouts in the CPC drawers that support 16 GBps connectivity to the PCIe I/O </ff2>
+ff2 fs0
+drawer
+ff2 fs0
+The InfiniBand I/O infrastructure (carry forward only) consists of the following features:
+ff3 fs0
+� <ff2>InfiniBand fanouts in the z14 CPC drawer support for 12x InfiniBand and 1x InfiniBand </ff2>
+ff2 fs0
+coupling links.
+ff1 fs0
+Ordering of I/O features: <ff2>Ordering of I/O feature types determines the appropriate </ff2>
+ff2 fs0
+number of PCIe I/O drawers. 
+ff5 fs6
+InfiniBand I/O drawers are not supported on z14<ff2 fs0>.</ff2 fs0>
+ff1 fs0
+28<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff2 fs0
+Figure 2-6 shows a high-level view of the I/O system structure for the z14.
+ff4 fs1
+Figure 2-6   <fs0>z14</fs0> I/O system structure
+ff2 fs0
+The z14 supports four fanout types (for fanout location, see Figure 2-7 on page 29), which are 
+ff2 fs0
+at the front of the CPC drawer: 
+ff3 fs0
+� <ff2>ICA SR</ff2>
+ff3 fs0
+� <ff2>HCA3-O (z14 is the last Z platform to support this feature)</ff2>
+ff3 fs0
+� <ff2>HCA3-O LR (z14 is the last Z platform to support this feature)</ff2>
+ff3 fs0
+� <ff2>PCIe Gen3</ff2>
+ff2 fs0
+The HCA3-O LR fanout includes four ports. The PCIe Gen3 fanout has one port, and the 
+ff2 fs0
+other fanouts have two ports.
+ff2 fs0
+The following types of internal I/O connectivity support the PCIe I/O drawer:
+ff3 fs0
+� <ff2>PCIe connections to the PCIe I/O drawers.</ff2>
+ff2 fs0
+For coupling link connectivity (Parallel Sysplex and STP configuration), the z14 supports the 
+ff2 fs0
+following link types:
+ff3 fs0
+� <ff2>ICA SR</ff2>
+ff3 fs0
+� <ff2>12x InfiniBand coupling link</ff2>
+ff3 fs0
+� <ff2>1x InfiniBand coupling link</ff2>
+ff3 fs0
+� <ff2>Coupling Express LR</ff2>
+ff2 fs0
+The z14 CPC drawer (Figure 2-7 on page 29) can have up to 10 1-port PCIe Gen3 or 2-port 
+ff2 fs0
+ICA PCIe coupling fanouts (numbered LG03 to LG12) and up to four 2-port or 4-port 
+ff2 fs0
+InfiniBand coupling fanouts for each CPC drawer (numbered LG13 to LG16). All coupling 
+ff2 fs0
+fanouts support Parallel Sysplex connectivity.
+ff2 fs0
+For systems with multiple CPC drawers, the locations of the PCIe Gen3 fanouts are 
+ff2 fs0
+configured and plugged across all drawers installed for maximum availability. This 
+ff2 fs0
+configuration helps ensure that alternate paths maintain access to critical I/O devices, such 
+ff2 fs0
+as disks and networks.
+ff2 fs1
+Chapter 2. IBM z14 hardware overview  <ff1 fs0>29</ff1 fs0>
+ff4 fs1
+Figure 2-7   z14 CPC drawer, front view
+ff2 fs0
+The PCIe I/O drawer (see Figure 2-8) is a two-sided drawer that is 7U high. I/O features can 
+ff2 fs0
+be installed in both sides. The drawer contains 32 slots, four switch cards (two in the front and 
+ff2 fs0
+two in the rear). These features support four I/O domains that each contain eight features of 
+ff2 fs0
+any type (FICON Express16S+, FICON Express16S, FICON Express8S, OSA-Express6S, 
+ff2 fs0
+OSA-Express5S, OSA-Express4S, Crypto Express6S, Crypto Express5S, zEDC Express, 
+ff2 fs0
+10GbE RoCE Express, 10GbE RoCE Express2, zHyperLink Express, and Coupling Express  
+ff2 fs0
+LR). Two DCAs provide redundant power, and two air moving devices (AMDs) provide 
+ff2 fs0
+redundant cooling to the PCIe I/O Drawer.
+ff4 fs1
+Figure 2-8   PCIe I/O drawer - front and rear views
+ff2 fs0
+More details about the supported I/O features of the z14 are available in Chapter 3, 
+ff2 fs0
+“Supported features and functions” on page 33.
+ff1 fs2
+2.5  Power and cooling
+ff2 fs0
+The z14 meets the American Society of Heating, Refrigerating, and Air-Conditioning 
+ff2 fs0
+Engineers (ASHRAE) Class A3 specifications. "fc1"ASHRAE is an organization that is devoted to 
+ff2 fs0
+the advancement of indoor-environment-control technology in the heating, ventilation, and air 
+ff2 fs0
+conditioning industry.
+ff1 fs0
+30<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff2 fs0
+The power and cooling system of the z14 builds on that of its predecessor, the IBM z13, with 
+ff2 fs0
+several newly developed technologies. However, the underlying power service specifications 
+ff2 fs0
+of the z14 are almost identical to its predecessors. Total power consumption with the 
+ff2 fs0
+maximum system configuration has increased only by about 5% compared to those previous 
+ff2 fs0
+models.
+ff2 fs0
+A closed, internal water cooling loop is used to cool single chip modules in the CPC drawers 
+ff2 fs0
+of the z14. Extracting the heat from the internal water loop can be done either with a radiator 
+ff2 fs0
+(air-cooled system) or a water cooling unit (water-cooled system). Conversion from air to 
+ff2 fs0
+water cooled systems, and vice versa, is not available.
+ff1 fs5
+2.5.1  Radiator (air) cooling option
+ff2 fs0
+The cooling system in the z14 is redesigned for better availability and lower cooling power 
+ff2 fs0
+consumption. The radiator design is a closed-loop water cooling pump system for the single 
+ff2 fs0
+chip modules in the CPC drawers. It is designed with N+1 pumps, blowers, controls, and 
+ff2 fs0
+sensors. The radiator unit is cooled by air.
+ff1 fs5
+2.5.2  Water cooling option
+ff2 fs0
+The z14 continues to offer the choice of using a building’s chilled water to cool the system by 
+ff2 fs0
+employing water cooling unit (WCU) technology. The single chip modules in the CPC drawer 
+ff2 fs0
+are cooled by an internal, closed, water cooling loop. In the internal closed loop, water 
+ff2 fs0
+exchanges heat with building-chilled water (provided by the client) through a cold plate.
+ff2 fs0
+In addition to the single chip modules, the internal water loop also circulates through two heat 
+ff2 fs0
+exchangers that are in the path of the exhaust air in the rear of the frames. These heat 
+ff2 fs0
+exchangers remove approximately 60-65% of the residual heat from the I/O drawers.
+ff2 fs0
+The z14 operates with two fully redundant WCUs. One WCU can support the entire load, and 
+ff2 fs0
+replacement of a WCU is fully concurrent. During a total loss of building-chilled water or if 
+ff2 fs0
+both water cooling units fail, the rear door heat exchangers cool the internal water cooling 
+ff2 fs0
+loop.
+ff1 fs5
+2.5.3  High Voltage Direct Current power feature
+ff2 fs0
+With the optional High Voltage Direct Current (HV DC) power feature, the z14 can directly 
+ff2 fs0
+connect to DC power input and improve data center energy efficiency by removing the need 
+ff2 fs0
+for an extra DC-to-AC inversion step. This feature can help achieve both data center UPS and 
+ff2 fs0
+power distribution energy savings.
+ff1 fs5
+2.5.4  Power considerations
+ff2 fs0
+The z14 operates with two sets of redundant power supplies. Each set has i
+ff2 fs0
+power cords or pair of power cords, depending on the number of Bulk Power Regulator (BPR) 
+ff2 fs0
+pairs installed. Power cords attach a 3-phase, 50/60 Hz, 200 - 480 V AC power source or 
+ff2 fs0
+380 - 520 V DC power source. The loss of just one power supply has no effect on system 
+ff2 fs0
+operation.
+ff2 fs1
+Chapter 2. IBM z14 hardware overview  <ff1 fs0>31</ff1 fs0>
+ff2 fs0
+The optional Balanced Power Plan Ahead feature is available for future growth, also assuring 
+ff2 fs0
+adequate and balanced power for all possible configurations. With this feature, downtime for 
+ff2 fs0
+upgrading a system is eliminated because the initial installation includes the maximum power 
+ff2 fs0
+requirements in terms of BPRs and power cords. The Balance Power Plan Ahead feature is 
+ff2 fs0
+not available with DC and 1-phase power cords.
+ff2 fs0
+Additional single-phase outlets (customer provided) are required for ancillary equipment such 
+ff2 fs0
+as the Hardware Management Console and its display.
+ff2 fs0
+Specific power requirements depend on the cooling facility that is installed, the number of 
+ff2 fs0
+CPC drawers, and the number and type of I/O units that are installed. You can find maximum 
+ff2 fs0
+power consumption tables for the various configurations and environments in 
+ff4 fs0
+IBM 3906 
+ff4 fs0
+Installation Manual for Physical Planning<ff2>, GC28-6965"fc0".</ff2>
+ff2 fs0
+You can also refer to the power and weight estimation tool that is available at "fc1"IBM Resource 
+ff2 fs0
+Link®"fc0".
+ff1 fs0
+32<fs1>  <ff2>IBM z14 Technical Introduction</ff2></fs1>
+ff2 fs1
+© Copyright IBM Corp. 2017. All rights reserved. <ff1 fs0>33</ff1 fs0>
+ff1 fs8
+Chapter 3. <fs9>Supported features and </fs9>
+ff1 fs9
+functions
+ff2 fs0
+This chapter describes the I/O and other miscellaneous features and functions of the z14. 
+ff2 fs0
+The information in this chapter expands upon the overview of the key hardware elements 
+ff2 fs0
+provided in Chapter 2, “IBM z14 hardware overview” on page 17. Only the enhanced features 
+ff2 fs0
+and functions introduced with the z14 are discussed more in detail. The remaining supported 
+ff2 fs0
+features from earlier generations of Z platforms are listed for convenience.
+ff2 fs0
+Throughout the chapter, reference is made to the <ff4>IBM z14 Technical Guide,<ff2> SG24-8451. </ff2></ff4>
+ff2 fs0
+This chapter covers these topics:
+ff3 fs0
+� <ff2>I/O features at a glance</ff2>
+ff3 fs0
+� <ff2>Native PCIe features and integrated firmware processor</ff2>
+ff3 fs0
+� <ff2>Storage connectivity</ff2>
+ff3 fs0
+� <ff2>Network connectivity</ff2>
+ff3 fs0
+� <ff2>Compression options</ff2>
+ff3 fs0
+� <ff2>Cryptographic features</ff2>
+ff3 fs0
+� <ff2>Coupling and clustering</ff2>
+ff3 fs0
+� <ff2>Server Time Protocol</ff2>
+ff3 fs0
+� <ff2>Hardware Management Console functions</ff2>
+ff1 fsa
+3

@@ -1,0 +1,2582 @@
+1_CD
+2_CD
+	IBM z14 Technical Introduction
+3_CD
+	z14
+	platform
+4_CD
+	design
+	paradigm shift
+	data and transactions
+	encryption
+	encryption
+5_CD
+6_CD
+	processors and co-processors
+	cache density
+	TB of memory
+	access to data
+	virtualization
+	Linux
+	Systems
+	enhancements for Java
+	compilers
+7_CD
+	enterprise system
+	predecessor platforms
+	today
+8_CD
+	demands
+	power
+9_CD
+	throughput
+	memory
+	data
+10_CD
+	cache design
+11_CD
+	performance
+	Accelerated I/O bandwidth
+12_CD
+	amounts of data </ff2>
+	<ff2> Data compression
+13_CD
+	information
+	operations
+14_CD
+	transactions and data </ff2>
+	hundreds of microprocessors
+	software
+	evolution
+	Z platform
+	infrastructure
+	ground
+	data and transactions
+	Figure
+	z14
+15_CD
+	Figure
+16_CD
+	IBM
+	Z platform
+	ability to access larger data in memory
+	I/O processors
+	workloads
+17_CD
+18_CD
+	encryption
+	approach to information security
+	data
+	platform
+	encryption
+	encryption
+	page
+	information
+19_CD
+	Chapter
+	base
+	trust economy
+20_CD
+	needs
+	trust economy
+	era
+21_CD
+	techniques
+	data
+22_CD
+	encryption
+	platform
+23_CD
+	data powerhouse
+	platform
+24_CD
+	Operational Analytics
+	resilience
+25_CD
+	downtime
+	transformation
+26_CD
+	service delivery
+27_CD
+	business processes
+28_CD
+	Blending open source and Z technologies
+	data
+29_CD
+	encryption
+	excels with security features
+	hardware , firmware
+	systems
+	features
+	storage protection keys and workload isolation
+	audit capabilities
+	Central Processor Assist for Cryptographic Function CPACF
+	core
+	encryption
+	hardware acceleration for encryption operations
+	addition
+	Crypto Express6S
+	performance boost on z14
+	enhancements perform encryption
+	z14
+	Z platforms
+30_CD
+	IBM Z pervasive encryption
+	data protection
+	organization and customers demand
+	security
+	data
+	solution
+	envelope of protection
+	data on Z. For example , Z pervasive encryption
+	data
+	Z infrastructure
+	data encryption
+	costs
+	data security
+	compliance
+	General Data Protection Regulations GDPR
+31_CD
+32_CD
+	IBM Z pervasive encryption
+	security
+	operations in mind
+	application changes
+	controls
+	overhead
+	capabilities
+	costs
+	data security and compliance
+33_CD
+	platform
+34_CD
+	data powerhouse
+	Currently , data
+	resources an organization
+	insights
+	data
+	business decisions
+	challenges
+	value
+	resource
+	enterprise
+	data sources
+	insights
+35_CD
+	decades , clients
+	data
+	mainframe transactional systems
+	platforms
+	data lakes
+	analytics
+	process
+	risk
+	platforms and data latency
+36_CD
+	enterprise data
+	data duplication or movement
+	cost and complexity of analytics
+	enterprise data
+	analytics applications and tools
+	analytics processing
+	data
+	Z platform
+37_CD
+38_CD
+	information about GDPR
+	Path
+	GPDR website
+39_CD
+	IBM z14 Technical Introduction
+40_CD
+	infrastructure
+	cache density
+	chip
+	TB memory
+	z14
+41_CD
+	solutions
+	Apache Spark
+	source
+	analytics solution for z/OS
+42_CD
+	data </ff2>
+	analysis
+	Apache Spark gives developers and data scientists the ability
+	z/OS data in place
+	data movement
+	Apache Spark on z/OS
+	view
+	data
+43_CD
+	IBM Machine Learning for z/OS : A comprehensive solution
+44_CD
+	machine learning workflow
+	ingestion and transformation of Z data
+	solution
+	quality self-learning behavior models
+	insights
+	needs
+45_CD
+	IBM DB2 ® Analytics Accelerator for z/OS : A high-performance appliance
+46_CD
+	mainframe
+	environment
+	lifecycle
+	analytics solution
+	system
+	data
+	data
+	analytics
+47_CD
+	platform
+48_CD
+	Operational Analytics
+	Today , demands
+	operations
+	time
+	service windows
+	system complexity makes planning
+	time consuming
+	operations analytics
+	solution
+	challenge
+49_CD
+	infrastructure to host real-time analytics tools
+	operating environment
+	efficiencies
+	costs
+50_CD
+	IBM designed IBM Operations Analytics
+	IOAz
+	IBM Common Data Provider
+	IBM z Operational Insights
+	Z
+	peak performance
+	system , Operations Analytics
+	insights
+	IBM
+	expertise
+	Z operational data
+51_CD
+	resilience
+52_CD
+	downtime
+	second of downtime
+	revenue
+	systems
+	outage
+	business operations
+53_CD
+54_CD
+	Z
+	IBM Z
+	downtime
+	z14
+	reliability
+55_CD
+	IBM Z platforms
+	generations
+	technology and services
+	points of failures SPOFs
+	components
+	redundancy
+	failures
+	user access
+	Components
+	maintenance
+	products
+	business impacts
+	capabilities
+	components
+	needs
+56_CD
+	platform
+57_CD
+	sysplex
+58_CD
+	environment
+59_CD
+	IBM Geographically Dispersed Parallel Sysplex ™ IBM GDPS ® -RRB- family
+	IBM z Advanced Workload Analysis Reporter IBM zAware
+60_CD
+	firmware appliance
+	LPAR
+	part of IOAz
+61_CD
+62_CD
+	Sysplex
+	system clustering technique
+	availability
+	availability
+	Sysplex
+	page
+	details
+63_CD
+	Chapter
+	base
+	trust economy
+64_CD
+	solutions improves resilience in cases
+	failures , power outages , fire
+	error
+	GDPS family of solutions
+	tools
+	Z availability
+	mask
+	effects
+	component outages or failures
+	IBM HyperSwap ® technology , I/O traffic
+	disk subsystems
+	I/O request
+	disk subsystem
+	solution can route workload
+	server location
+	problems
+	location
+65_CD
+	transformation
+66_CD
+	service delivery
+	DevOps solution breaks
+	development silos
+	infrastructure platforms
+	deliveries
+	infrastructure for enterprises
+	applications
+	levels for quality , availability
+	compliance
+	end-use expectations
+67_CD
+	IBM DevOps for Z solutions
+	application understanding through deployment and management
+	addition , DevOps for Z solutions
+	toolset
+	applications
+	Z
+	platforms
+68_CD
+	instance , Application Discovery and Delivery Intelligence helps development teams understand application interdependencies , complexity
+	quality across platforms , environments
+	languages
+	ability
+	teams an edge
+	API candidates
+	insight about maintainability and complexity
+	result
+	candidate API quality
+	user experience
+69_CD
+	addition
+	infrastructure
+	workloads of cloud services
+	processors
+	memory
+	access to data
+	business transactions
+	data
+	analytics
+	workflow
+70_CD
+	IBM
+	asset to power the API economy
+71_CD
+72_CD
+	API economy demands fortified clouds
+	hybrid
+	hardware platform
+	clouds
+73_CD
+	Linux assets , Z platforms
+	source software
+	scalability
+	sharing
+	business continuity
+	cloud
+	assets , Z offerings
+	tools
+	developers speed Representational State Transfer RESTful -RRB- API development
+74_CD
+	matter which asset class
+	cloud application developers
+	z/OS business-critical data and transactions
+	applications
+	z/OS subsystems
+75_CD
+76_CD
+	information
+	API economy
+	customers
+	API economy website
+77_CD
+	IBM z14 Technical Introduction
+78_CD
+79_CD
+	business processes
+	Blockchain
+	industries do business
+	technology
+	generation
+	applications
+	trust , accountability
+	transparency
+	business processes
+80_CD
+	network , members have access
+	ledger
+81_CD
+	consensus
+82_CD
+	>
+	record
+83_CD
+	transactions
+	ledger functions
+	source
+	truth
+	/
+84_CD
+	>
+	blockchain
+85_CD
+	trust
+	business transactions
+	sense
+86_CD
+	business on Z.
+	business
+	policies
+	installation
+	Docker images
+	Linux
+	Systems
+	IBM Blockchain on Bluemix ® High Security Business Network HSBN -RRB- service plan
+	HSBN
+	service
+	IBM cloud
+	environment
+	workloads
+	data
+87_CD
+88_CD
+	Blending open source and Z technologies
+	source technologies , ISV tools
+	platform
+	businesses and organizations
+	change
+	pace
+	end , IBM
+	ecosystem of clients , business partners
+	ISVs
+	source development community
+	source technologies
+	platforms
+	addition , IBM
+	member
+	organizations and software governance consortia
+	future
+	source software
+	combination
+	hardware platform
+	power
+	Linux distribution
+	building , testing
+	applications
+	clusters
+	clouds
+89_CD
+	capacity Linux platform
+	z/OS or IBM z/VSE ® environments
+	platform
+	Linux workloads
+	z/OS and z/VSE solutions
+	data and applications
+	communication
+	availability
+90_CD
+	Linux
+	Systems
+	uses pervasive encryption
+	protection envelope
+	data
+	system
+	performance
+	scale
+	demands
+	enterprise
+	server sprawl costs
+	integration benefits , Linux
+	Systems
+	services
+	analytics
+	workloads
+91_CD
+	addition
+	Linux
+	z14
+	line
+	alternatives
+	cloud solutions
+	costs for administration and management , software licensing , business continuity
+	floor space
+	cost of ownership
+92_CD
+	Chapter
+	base
+	trust economy
+93_CD
+	>
+94_CD
+	description
+	IBM
+	predecessor IBM z13 ®
+	improvements
+	chips
+	granularity options
+	availability
+	encryption
+	options
+95_CD
+96_CD
+	Technical
+	multiprocessor SMP -RRB- system
+	architecture ensures continuity and upgradeability
+	zEC12
+	models
+	M01 , M02 , M03 , M04
+	M05
+97_CD
+	Table
+	enhancements
+	predecessor platforms
+98_CD
+	Table 1-1 Technical
+99_CD
+	IBM Z generations
+	IBM z Systems
+	tool
+100_CD
+	Greater total system capacity
+	subcapacity settings
+	processors CP
+	IBM z/Architecture ® ensures continuity and upgradeability
+	models
+101_CD
+	processor units
+	CPs
+	subcapacity settings
+102_CD
+	Multi-core
+	modules
+	execution
+	workloads
+103_CD
+	GHz 14 nm FINFET
+	Silicon-On-Insulator SOI
+	memory per system
+	availability
+	memory subsystem through use
+	array
+	memory RAIM -RRB- technology
+104_CD
+	TB
+	memory per system
+105_CD
+	hardware system area HSA
+	memory
+106_CD
+	GB
+107_CD
+	Proven technology
+	frequency
+	design
+	single-instruction
+	SIMD -RRB- processor
+	parallelism
+	analytics
+	addition
+	multithreading SMT
+	efficiency and throughput
+	number of instructions in flight
+108_CD
+	Processor cache structure improvements
+	cache sizes
+	today
+	production workloads
+109_CD
+	offers these levels of cache
+	cache
+	KB for instructions
+110_CD
+	KB for data </ff2>
+	cache
+	MB for instructions
+111_CD
+	MB for data </ff2>
+	cache
+112_CD
+	MB
+	cache
+113_CD
+	MB
+	functions and performance
+	co-processor per processor unit
+114_CD
+	IBM zHyperLink Express
+	distance , Z I/O adapter
+	latency
+	Performance FICON for read requests
+115_CD
+	channel subsystem
+	I/O resilience
+	number
+	channel subsystems LCSS
+	subchannel sets
+	I/O devices
+	predecessor platform
+	number
+	partitions LPARs
+116_CD
+117_CD
+	LCSS
+118_CD
+	LPARs
+	subchannel
+119_CD
+120_CD
+	I/O devices per channel
+	IBM z14 Technical Introduction
+121_CD
+	system
+	z14
+122_CD
+	features and functions
+123_CD
+	Enhanced LPAR resource allocation algorithms for processor units and memory 16 TB
+124_CD
+	LPAR
+	IBM Virtual Flash Memory VFM
+	paging workload spikes
+125_CD
+	availability
+	VFM
+	replacement
+	Flash Express features
+	zEC12
+126_CD
+	generation Crypto Express6S feature
+127_CD
+	domains
+	New CMPSC with Huffman Coding compression
+	expansion algorithms
+128_CD
+129_CD
+	Guarded Storage Facility
+	Java performance
+	program
+130_CD
+131_CD
+	Java Garbage Collection
+	Functionality
+	GbE RoCE Express2
+	ability
+132_CD
+	adapters
+133_CD
+	LPARs
+	Coupling Express Long Reach LR
+	coupling links
+134_CD
+	km
+	generation FICON Express16S
+135_CD
+	zHyperLink Express with IBM DS8880
+136_CD
+	latency
+137_CD
+	packets
+138_CD
+	Secure Service Container
+139_CD
+140_CD
+	appliances
+	<ff2> Air cooled systems
+	radiators with N
+141_CD
+	design
+142_CD
+	Support for ASHRAE Class A3 data centers
+	Figure
+	page
+	Z platforms
+143_CD
+	areas
+	Single-engine
+144_CD
+	PCI
+145_CD
+146_CD
+	Number of processor units
+147_CD
+	Memory
+148_CD
+	<ff2> System I/O bandwidth
+149_CD
+	Secure Service Container
+	page
+	information
+150_CD
+151_CD
+	processor capacity index PCI
+	PCI values
+152_CD
+	Systems Performance
+	Reference
+	SC28-1187
+153_CD
+	Chapter
+	base
+	trust economy
+	<
+154_CD
+	Figure
+	system design
+155_CD
+	predecessors
+	details
+	Chapter
+	IBM z14 hardware overview
+	page
+	description of IBM z14 functions and features
+	IBM
+156_CD
+	Technical Guide
+	SG24-8451
+157_CD
+158_CD
+	Storage connectivity
+	Storage connectivity
+	IBM Fibre Connection FICON
+	IBM zHyperLink Express feature
+159_CD
+160_CD
+	FICON
+	FICON
+	Fibre Channel FC -RRB- standards
+	data storage and access requirements
+	FC technology in storage and access devices
+161_CD
+	FICON Express features support these protocols
+162_CD
+	FICON
+	protocol over FC
+	communication across channels , channel-to-channel CTC -RRB- connectivity
+	FICON devices
+	disks , tapes
+	printers
+	z/OS , IBM z/VM ® , IBM z/VSE , z/TPF
+	Linux
+	Systems environments
+163_CD
+	Fibre Channel Protocol FCP
+164_CD
+	protocol
+	disk and tape devices through Fibre Channel
+	directors
+	FCP channel
+	FCP SAN fabrics and access FCP/SCSI devices
+	FCP
+	z/VM , KVM for IBM Z , z/VSE
+	Linux
+	Systems environments
+165_CD
+	FICON Express16S + features
+	improvements in throughput and response time
+	middleware
+	batch window
+	batch work
+	FICON Express16S + features
+166_CD
+	IBM z14 Technical Introduction
+167_CD
+	PCIe cards
+	granularity
+	capabilities
+	FICON Express features
+	FICON Express16S + features
+	link data rate
+	Gbps
+	Gbps auto-negotiate
+	technology
+	systems
+168_CD
+	information
+	FICON Express features
+	features
+	glance
+	page
+169_CD
+170_CD
+	zHyperLink Express
+	zHyperLink
+	access to data
+	latency connections
+	Z platform and storage
+171_CD
+	zHyperLink Express feature
+	requests for data
+	storage cache
+	IBM DS8880
+	process
+	zHyperLink Express port
+	I/O Bay port
+	DS8880
+	distance
+	m
+	connection
+172_CD
+	DB2 for z/OS
+	/
+173_CD
+	>
+	requests
+174_CD
+	conjunction
+	FICON SAN Infrastructure , zHyperLink
+	application response time
+	workload response time
+	%
+	application changes
+	zHyperLink channels complement FICON channels
+175_CD
+176_CD
+177_CD
+	Network connectivity
+	platform
+	system images
+	network connectivity
+	connections
+	platform
+	networks with Open Systems Adapter-Express OSA-Express
+	GbE RoCE Express features
+	connections
+	communication through IBM HiperSockets ™
+	Memory Communications
+	Memory Access SMC-D
+178_CD
+179_CD
+	OSA-Express
+	features
+	area network LAN -RRB- connectivity
+	IEEE standards
+	addition
+	features
+	functions
+	TCP/IP
+	processor unit
+	performance benefits
+	processing
+	operating system
+180_CD
+	OSA-Express6S features
+	technology refresh
+	1000BASE-T Ethernet for copper environments
+	Gigabit Ethernet and Gigabit Ethernet fiber optic
+	environments
+181_CD
+182_CD
+	HiperSockets
+	IBM HiperSockets
+	function
+	Z platforms
+	attachments
+	area networks
+	system and network overhead
+183_CD
+	HiperSockets
+	function
+	Internal Code LIC
+	LAN connectivity
+	system images
+	Z platform
+	data transfers
+	way
+	HiperSockets function
+	use of I/O subsystem operations
+	network connection
+	partitions
+	Z platform
+	way , HiperSockets
+	server consolidation
+	servers
+	enterprise network
+184_CD
+	Chapter
+	base
+	trust economy
+	< /
+185_CD
+	>
+186_CD
+	10GbE RoCE Express2
+	Gigabit Ethernet 10GbE -RRB- RoCE Express2
+	Remote Direct Memory Access RDMA
+	Converged Ethernet RoCE
+	communications
+	Z platforms
+	Z platform
+187_CD
+	feature
+	consumption of CPU resources for applications
+	TCP/IP
+	IBM WebSphere ®
+	IBM DB2 database
+	network latency
+	transfers
+	Shared Memory Communications over RDMA SMC-R
+	z/OS V2R1
+188_CD
+	SMC-R
+	amounts of data
+	latency
+	SMC-R
+	application
+	code changes
+	time to value
+189_CD
+190_CD
+	SMC-D
+191_CD
+	communications protocol called Shared Memory Communications
+	Direct Memory Access SMC-D
+	SMC-D
+	SMC-R
+192_CD
+	communications
+193_CD
+	Z platform
+	systems
+194_CD
+	communications
+	way
+	socket applications
+	CPU cost of TCP/IP processing
+	data path
+	communications
+	SMC-D
+	resources
+	RoCE adapters , PCI bandwidth , ports , I/O slots , network resources
+	switches
+	SMC-D
+	feature
+	connection
+195_CD
+	information
+	network connectivity features
+	features
+	glance
+	page
+196_CD
+197_CD
+	Cryptography
+	groups
+	functions : CPACF and Crypto Express6S
+198_CD
+	CPACF
+	performance
+	latency co-processor
+	encryption
+	message digests hashes
+	hardware
+	algorithms are AES , DES/TDES , SHA-1 , SHA-2
+	SHA-3
+	Latency
+	CPACF
+	CPACF
+	z13
+	Crypto Express6S features provide acceleration
+	operations
+	domains
+	hardware performs AES , DES/TDES , RSA , Elliptic Curve ECC
+	SHA-1
+	SHA-2
+	operations
+	APIs and functions
+	banking industry
+	Crypto Express6S features
+	FIPS 140-2 Level
+	PCI HSM security requirements for hardware security modules
+	offers
+	AES performance
+	Random Number Generator , SHA3 support
+	RSA/ECC acceleration
+199_CD
+200_CD
+	connectivity
+	Sysplex
+	IBM Z clustering technology
+	applications
+	servers
+	servers
+	Sysplex
+	coupling links
+201_CD
+	IBM z14 Technical Introduction
+202_CD
+	connectivity
+	Sysplex
+	use Coupling Express Long Reach CE LR -RRB- Integrated Coupling Adapter Short Reach ICA SR
+	InfiniBand IFB -RRB- technology
+	ICA SR and HCA3-O SR
+	distances
+	m
+	CE LR and HCA3-O LR
+	distances
+	km between systems
+203_CD
+204_CD
+	Special-purpose features and functions
+	Z development , IBM
+	total systems
+	view
+	Z
+	services
+	application development , connectivity
+	systems management
+	configuration
+	platform
+	hardware
+	computing capabilities
+205_CD
+	range of features and functions
+	processor units
+	tasks
+	features take care
+	rest
+	features and functions
+206_CD
+207_CD
+	<ff2> Data compression
+	Compression Coprocessor CMPSC
+	coprocessor
+	compression algorithms
+	Huffman encoding
+	disk space and memory usage
+208_CD
+	IBM zEnterprise ® Data Compression zEDC -RRB- Express feature
+	solution
+	CPU consumption
+	performance
+	tasks
+	use of storage resources
+209_CD
+210_CD
+	Secure Services Container
+	firmware partition
+	production
+	deployment of software appliances
+211_CD
+212_CD
+	GDPS Virtual Appliance
+	GDPS Virtual Appliance
+	availability
+	disaster recovery solution for Linux
+	Systems
+	availability and time-to-value
+213_CD
+	Dynamic Partition Manager DPM
+214_CD
+	DPM
+	management interface
+	Z hardware
+	infrastructure
+	I/O management
+	Linux
+	Systems environments
+215_CD
+	Guarded Storage Facility GSF
+216_CD
+	garbage collection , Guarded Storage Facility
+	architecture
+	enterprise scale Java applications
+	pause for garbage collection
+	heaps
+217_CD
+	Instruction Execution Protection Facility IEPF
+218_CD
+	Instruction Execution Protection
+	hardware function
+	z14
+	software like IBM Language Environment ®
+	memory regions for example
+	heap
+	security of programs
+	Z
+	attacks
+219_CD
+	multithreading SMT
+220_CD
+	SMT
+	threads
+	core
+	throughput
+	operating system with SMT support
+	work
+	thread
+221_CD
+	zIIP
+222_CD
+223_CD
+	IFL
+224_CD
+	New
+	SAP engines
+	SMT
+225_CD
+226_CD
+	IBM z Integrated Information Processor zIIP
+	z/OS
+	workloads
+	IBM Java virtual machine JVM
+	XML System Services
+	others
+227_CD
+	Chapter
+	base
+	trust economy
+228_CD
+	Single-instruction
+	SIMD
+229_CD
+	SIMD
+	instructions
+	optimization of code
+	models and business analytics vector processing
+	set of SIMD instructions
+	type
+	computing and vector processing
+	amount of code
+	computations with integer , string , character
+	point data types
+230_CD
+231_CD
+	Dynamic memory relocation
+	support of Enhanced Drawer Availability EDA
+	Drawer Replacement CDR
+	technology
+	algorithm
+	memory between CPC drawers
+	performance
+	operating system
+232_CD
+	Coupling
+233_CD
+	sysplex
+	Data sharing and serialization functions
+	coupling facility
+	coupling link network
+	infrastructure
+	production workload
+	set of data
+	z/OS system images
+234_CD
+	z14 features in Chapter
+	features and functions
+	page
+	Chapter
+	Strengths
+	platform
+	page
+235_CD
+236_CD
+	Capacity on demand and performance
+	deployment of processor resources
+	capacity on demand
+	function allows users
+	system capacity
+	function helps companies
+	business requirements with flexibility
+	granularity
+	capacity
+	improvements in processor chip design
+	instructions
+	caches
+237_CD
+	footprint
+	z14
+238_CD
+	%
+239_CD
+	capacity
+	z13
+	system
+	% more capacity
+	system
+240_CD
+	details
+	Capacity on demand
+	page
+	performance
+	page
+241_CD
+	Reliability , availability
+242_CD
+	serviceability
+	quality of service
+	reliability
+	availability
+	serviceability
+243_CD
+	RAS
+	Z platforms
+	RAS strategy
+	building-block approach
+	client requirements
+	operation
+244_CD
+	RAS building blocks
+245_CD
+	Error prevention
+246_CD
+	Error detection
+247_CD
+	Recovery
+248_CD
+	Problem determination
+249_CD
+	<ff2> Service structure
+250_CD
+	Change management
+251_CD
+	Integrated Facility for Linux IFL
+	Linux
+	Systems
+	z/VM or KVM hypervisor in support of Linux
+252_CD
+253_CD
+	Variations
+	performance
+	workload type
+254_CD
+	IBM z14 Technical Introduction
+255_CD
+256_CD
+	Measurement
+257_CD
+	Analysis
+	RAS design objective
+	change
+	product releases
+	RAS functionality
+	sources of outages
+258_CD
+	information on RAS
+	Reliability , availability
+	serviceability
+	page
+259_CD
+260_CD
+	Software support
+	range of IBM
+	software vendor ISV -RRB- software solutions
+	range
+	batch
+	transaction processing OLTP -RRB- environments
+	IBM Customer Information Control System IBM CICS ®
+	IBM Information Management System IBM IMS
+	IBM DB2
+	web services in addition to others
+261_CD
+262_CD
+	Java platform
+	Linux
+263_CD
+	standards applications
+264_CD
+	WebSphere
+	IBM MobileFirst ™ Platform Foundation
+265_CD
+	application development
+266_CD
+	IBM z/OS Connect Enterprise Edition
+	operating systems
+267_CD
+	z/OS Version 2 Release
+268_CD
+	z/OS Version 2 Release
+	PTFs exploitation
+269_CD
+	z/OS Version 2 Release
+	PTFs exploitation
+270_CD
+	z/OS Version 1 Release
+	PTFs limited exploitation
+	support
+271_CD
+	z/VM Version 6 Release
+	PTFs compatibility and exploitation support
+272_CD
+	z/VM Version 6 Release
+	PTFs compatibility and exploitation support
+273_CD
+	z/VSE Version 6 Release
+274_CD
+	PTFs
+	z/VSE Version 6 Release
+275_CD
+	PTFs
+	z/VSE Version 5 Release
+276_CD
+	PTFs
+	z/TPF Version 1 Release 1 compatibility support
+277_CD
+	Linux
+	Systems
+278_CD
+	SUSE : SUSE Linux Enterprise Server
+	Red Hat : Red Hat Enterprise Linux RHEL
+	RHEL7 -- Ubuntu
+279_CD
+	LTS
+	KVM for IBM
+	FixPack toleration mode
+280_CD
+	KVM hypervisor
+	Linux distributions
+281_CD
+	SLES-12
+282_CD
+	Ubuntu 16.04 LTS
+	service levels
+	toleration tests
+	distribution levels
+	IBM
+	Linux environments
+283_CD
+	information
+	software support
+	Chapter
+	system support
+	page
+284_CD
+	Chapter
+	base
+	trust economy
+	<
+285_CD
+286_CD
+	IBM compilers
+	Compilers
+	knowledge
+	system architecture
+	code generation
+	compilers
+	maximum benefit
+	platform 's capabilities
+	IBM compilers
+	architecture enhancements
+	instruction
+	value
+287_CD
+	IBM Enterprise COBOL for z/OS and IBM Enterprise PL/I for z/OS , decades of IBM experience in application development
+	COBOL and PL/I with web services , XML
+	Java
+	interoperability
+	investments
+	applications
+	infrastructure
+288_CD
+	z/OS , XL C/C
+	XL C/C + + for Linux
+	Systems
+	business applications
+	C or C++
+	application performance
+	developer productivity
+	compilers
+	C++ source code
+	code
+	Z architecture
+	transformation
+	thanks
+	optimizations
+	functions
+	libraries
+	language constructs
+	system programming and boost application runtime performance
+289_CD
+	Compilers
+	COBOL , PL/I
+	z/OS
+	XL C/C + +
+	IBM
+	point registers
+	memory
+	computations
+	compilers
+	advantage of hardware enhancements
+	application performance
+	CPU usage
+	operating costs
+290_CD
+	IBM
+	release-to-release improvements for Java
+	cryptography acceleration
+	z14
+	improvements in throughput per core
+	garbage collection capability provides improvements in throughput per core
+	Java response times
+	improvements
+	throughput
+	Java applications
+	garbage collection mode
+	option
+291_CD
+	IBM z14 Technical Introduction
+292_CD
+	Copyright IBM Corp.
+	rights
+293_CD
+	Chapter
+294_CD
+	IBM z14 hardware overview
+	chapter
+	description
+	hardware elements
+	z14
+295_CD
+	topics
+	Models
+296_CD
+	paths
+	Frames
+297_CD
+298_CD
+	CPC drawers
+299_CD
+	I/O system structure
+	<ff2> Power
+300_CD
+	fsa
+301_CD
+	IBM z14 Technical Introduction
+302_CD
+	Models
+303_CD
+	paths
+	z14
+	machine type MT
+	processor complex CPC
+	models
+	M02 , M03 , M04
+304_CD
+	M05
+305_CD
+	;-RRB-
+	models
+	processor unit cores
+	processor unit single chip modules
+	CPC drawer
+	processor units , system assist processors SAPs
+	firmware processor IFP
+	system
+	models
+306_CD
+	Table
+	summary
+	number
+	processor units , SAPs
+	processor units
+	models
+	explanation of processor unit characterization
+	PU characterization
+	page
+307_CD
+	Table
+	model summary machine type
+308_CD
+	offers 269 capacity levels
+	capacity levels
+	number
+	processors CPs
+	subcapacity models
+	CPs
+	model
+	Integrated Facility for Linux IFL
+	Internal Coupling Facility ICF -RRB- configurations
+309_CD
+310_CD
+	M05
+	order only model
+	M01 , M02 , M03
+	M05
+311_CD
+312_CD
+	Model CPC drawers
+313_CD
+	processor units
+314_CD
+	Standard SAPs
+315_CD
+316_CD
+	Integrated firmware processor
+	M01
+317_CD
+	M02
+318_CD
+	M03
+319_CD
+	M04
+320_CD
+	M05
+321_CD
+	Chapter
+	IBM z14 hardware overview
+	< /
+322_CD
+	>
+	Figure
+	upgrade paths
+	z14
+323_CD
+	Figure
+324_CD
+	upgrade paths
+	upgrades
+	Chapter
+	Strengths
+	platform
+	page
+	CPs , IFLs , ICFs
+	Systems Integrated Information Processors zIIPs
+	SAPs
+	processor unit upgrades
+	processor units
+	time
+325_CD
+	request
+	configuration
+	hardware upgrade
+	CPC drawers
+	capacity
+	CPC drawers
+	model to model
+	upgrade
+	system
+326_CD
+	Spare processor units
+	processor units
+	processor units
+	z14
+	event
+	processor unit failure
+	processor units
+	characteristics
+	processor unit
+327_CD
+	Frames
+328_CD
+	system
+	Frame
+	Z Frame
+329_CD
+	system
+	frames
+	z14
+	number of PCIe drawers
+	number of I/O features
+	system
+	combination
+	PCIe I/O drawers
+	PCIe I/O drawers
+330_CD
+	addition
+	MES orders
+	options
+	fiber optic and copper cables
+	I/O and power
+331_CD
+	options
+	Top Exit Power
+	ff2
+332_CD
+	Top Exit I/O
+	IBM z14 Technical Introduction
+333_CD
+	flexibility
+	system
+334_CD
+	cables
+	floor
+	air flow
+	system
+335_CD
+	z14 models support installation
+	floor
+	floor environments
+	models
+	floor option
+336_CD
+	Figure
+	view
+	frames
+	z14 system
+	maximum five PCIe I/O drawers
+	I/O and power cable options
+337_CD
+	Figure
+	view
+	platform
+338_CD
+	PCIe I/O
+	Figure
+	view
+	frames
+	platform
+	exit I/O and power cable options
+339_CD
+	Figure
+	view
+	platform
+340_CD
+	PCIe I/O
+	Chapter
+	IBM z14 hardware overview
+	< /
+341_CD
+	>
+342_CD
+	CPC drawers
+	CPC drawer system
+	drawers
+	Frame
+343_CD
+	CPC drawer
+344_CD
+	elements
+	Single chip modules
+345_CD
+	PU single chip modules
+	processor unit cores
+346_CD
+	storage controller single chip module
+	total
+	MB L4 cache
+347_CD
+	Single chip modules
+	chip modules
+	page
+	Table
+	page
+	model summary
+	relation
+	number of CPC drawers and number
+	processor units
+348_CD
+	Memory
+349_CD
+	minimum
+	GB
+	maximum
+	TB of memory
+	GB HSA
+	client use
+	Table
+	page
+	details
+350_CD
+	Either
+	memory DIMMs
+	CPC drawer
+351_CD
+	Fanouts
+352_CD
+	CPC drawer
+	PCIe Gen3 fanout adapters
+	PCIe I/O drawers and ICA SR coupling links
+	InfiniBand fanout adapters
+	InfiniBand
+	InfiniBand coupling links
+353_CD
+	fanout
+	ports
+	PCIe 16 GBps I/O fanout
+	domain
+	PCIe I/O drawers
+354_CD
+	ICA SR two-port PCIe fanout for coupling links two links
+	GBps
+355_CD
+	InfiniBand fanout for coupling links two ports
+	GBps
+	LR 1x InfiniBand fanout for coupling links four ports
+	Gbps
+356_CD
+	Converter Assemblies DCAs
+	power
+	CPC drawer
+357_CD
+	Loss
+	DCA
+	power
+	power requirements
+	drawer
+	DCAs
+358_CD
+	Flexible Support Processors FSPs
+	interfaces
+359_CD
+	management network
+360_CD
+	IBM z14 Technical Introduction
+361_CD
+	Figure
+	CPC drawers
+	communications links
+	L4 shared caches
+	z14
+	MB of L4 cache per CPC drawer
+362_CD
+	Figure
+363_CD
+	CPC drawer communication topology
+	design
+	processor unit and storage control
+	system
+	IBM Processor Resource/Systems Manager ™ PR/SM
+	facility
+	multiprocessor SMP -RRB- system
+364_CD
+365_CD
+	Single chip modules
+	CPC drawer
+	PU single chip modules SCMs
+	models
+	PU SCMs for model
+	storage control SC -RRB- SCM
+	PU SCM
+	PU cores
+	L1 , L2
+	caches
+	SC SCM
+	L4 cache
+366_CD
+	Figure
+	page
+	cluster structure
+	model
+	PU SCMs
+	SC SCM
+	connections
+	models
+	M04
+	PU SCM
+	Cluster
+	number of PU cores
+	PU SCMs
+	models
+367_CD
+	Chapter
+	IBM z14 hardware overview
+368_CD
+	Figure
+369_CD
+	M05 CPC drawer structure
+	CPC drawer configurations
+	processor units
+	models employ CPC drawers
+	processor units
+	model
+	CPC drawers
+	processor units
+	total
+	processor units
+	use
+	storage control SCM
+	MB shared eDRAM cache , interface logic
+	PU SCM
+	SMP fabric logic
+	SC SMC
+	MB L4 cache
+	PU cores
+	CPC drawer
+	amount of cache
+	total
+	GB of cache
+	CPC drawers
+	SMP scalability
+	workloads
+370_CD
+371_CD
+	Processor unit
+	Processor unit PU
+	term
+	IBM z/Architecture processor
+	PU
+	processor
+372_CD
+	attributes
+	instructions
+	clock cycle
+373_CD
+	instructions
+	execution per clock cycle
+374_CD
+	Instructions
+	PU
+375_CD
+	high-frequency , low-latency
+	pipeline
+	performance
+	range of workloads
+376_CD
+	Memory accesses
+377_CD
+	instruction order out-of-order operand
+378_CD
+	instructions
+	pipeline
+	numbers of steps
+379_CD
+	types
+	instructions
+	instructions
+	execution
+	moment
+	number of decodes and completions per cycle
+380_CD
+	IBM z14 Technical Introduction
+381_CD
+382_CD
+	PU cache
+	cache
+	PU core
+383_CD
+	way
+	PU core
+	L1 cache pr8 KB cache
+384_CD
+	instructions
+	KB cache for data
+385_CD
+	PU core
+	L2 cache
+	MB D-cache `` D
+	data
+386_CD
+	MB
+	I-cache
+	instruction
+387_CD
+	PU SCM
+	MB L3 cache
+	PU cores
+	SCM
+388_CD
+	L3 cache uses eDRAM
+	cache implementation optimizes system performance for high-frequency processors
+	cache improvements
+	Translation/TLB2 design , pipeline optimizations
+	branch prediction
+389_CD
+390_CD
+	PU
+	Hardware fault detection
+	design
+	PU
+	function
+	reliability and availability
+	mainframe integrity
+391_CD
+392_CD
+	hardware
+	hardware
+	PU core
+	key and hash sizes
+	Advanced Encryption Standard AES
+	Secure Hash Algorithm SHA
+	support
+	conversion
+	hardware
+	processor type
+	example CP , IBM zIIP
+	IFL
+393_CD
+394_CD
+	Software support
+	PUs
+	compatibility
+	software for z/Architecture
+	Instruction Set Architecture ISA
+	functionality and performance
+	hardware instructions
+	code generation and execution
+395_CD
+	CP Assist for Cryptographic Functions CPACF
+396_CD
+	Compression call CMPSC
+397_CD
+	Hardware
+	point HDFP
+398_CD
+399_CD
+	Transactional Execution Facility
+400_CD
+	Runtime Instrumentation Facility
+	Single-instruction
+	SIMD
+401_CD
+	features
+	Chapter
+	Strengths
+	platform
+	page
+402_CD
+403_CD
+	PU characterization
+	PUs
+	increments
+	system functions
+	configuration
+	PU
+	types during system initialization
+	reset POR -RRB- operation
+	PUs
+	POR
+404_CD
+	process
+405_CD
+	Dynamic Processor Unit Reassignment
+	PU
+	PU
+406_CD
+	Central processor CP
+407_CD
+408_CD
+	Integrated Facility for Linux IFL -RRB- processor
+	Systems Integrated Information Processor zIIP
+409_CD
+	Internal Coupling Facility ICF
+410_CD
+	<ff2> System assist processor SAP
+411_CD
+	Integrated firmware processor IFP
+412_CD
+	Chapter
+	IBM z14 hardware overview
+413_CD
+	CP
+	zIIP
+	zIIP
+	zIIPs
+	CP
+	system
+	LPAR definition
+	ratio
+	example
+	system
+	CPs
+	maximum
+	zIIPs
+	LPAR definition
+	system
+	CPs
+	zIIPs
+	configuration
+	CP
+	zIIPs
+414_CD
+	PU
+	type
+	type
+415_CD
+416_CD
+	Dynamic Processor Unit Reassignment
+	process
+	conversions
+	operation
+	system
+417_CD
+418_CD
+	Memory
+	Maximum physical memory size
+	number of CPC drawers
+	system
+	system
+	memory
+	part
+	memory
+	array
+	memory RAIM -RRB- design
+	configuration results
+	TB
+	memory per CPC drawer
+	TB
+	system
+	hardware system area HSA
+	z14
+	amount of memory 192 GB
+	client memory
+	maximum amount
+	memory
+	number
+	dependencies
+	memory granularity
+419_CD
+	Table 2-2 lists the maximum memory sizes
+	model
+420_CD
+	Table
+421_CD
+	memory per model
+	systems
+	granularity for memory orders
+	GB
+	Table
+	memory increments
+	memory
+422_CD
+	Table
+	memory increments
+423_CD
+	zIIPs : <ff2> The addition of ICFs , IFLs , zIIPs
+	SAP
+	z14
+424_CD
+	system
+	capacity
+	MSU rating
+425_CD
+426_CD
+	Model CPC drawers Maximum memory
+427_CD
+	TB
+428_CD
+	TB
+429_CD
+	TB
+430_CD
+	TB
+431_CD
+	TB
+	Important
+	z/OS V2R3
+	minimum
+	GB of memory 2 GB of memory
+432_CD
+	z/VM
+	z/OS
+	TB of memory
+	LPAR
+433_CD
+434_CD
+	Memory increment Memory range GB
+435_CD
+436_CD
+	IBM z14 Technical Introduction
+437_CD
+	memory
+438_CD
+	ways
+	CPC drawer
+	minimum
+	GB
+	memory
+439_CD
+	GB
+	operating system
+440_CD
+	CPC drawer
+	memory
+	memory
+441_CD
+	Internal Code load
+442_CD
+	Memory upgrades
+443_CD
+	memory capacity
+	memory
+	cards
+	cards
+	capacity
+	CPC drawer
+	memory
+444_CD
+	LPAR
+	PR/SM
+	processor units PUs
+	memory
+	LPAR
+	CPC drawer
+	PR/SM
+	memory resources
+	CPC drawer
+	example
+	PUs span
+	CPC drawer , PR/SM
+	memory
+	set of CPC drawers
+	memory
+	CPC drawers
+445_CD
+	matter which CPC drawer the memory
+	LPAR has access
+	memory
+	CPC drawer structure
+	SMP system
+	PUs have access
+	memory
+446_CD
+	memory upgrade
+	change
+	memory cards
+	memory card change
+	use
+	Enhanced Drawer Availability EDA
+	CPC drawer system
+	CPC drawer
+	repair with EDA
+	description of EDA
+447_CD
+	IBM z14 Technical Guide
+448_CD
+	model upgrades
+	addition
+	CPC drawer
+	minimum usable memory increment 256 GB
+	system
+	upgrade
+	CPC drawer
+	operation
+	memory
+	drawer
+449_CD
+450_CD
+	memory upgrade
+	memory
+	memory
+	Internal Code Configuration Control LICCC
+451_CD
+	plan ahead memory function
+452_CD
+	memory upgrades
+	system pre-plugged memory
+	target configuration
+	memory
+	LICCC order
+	client
+453_CD
+	array
+454_CD
+	memory
+	RAIM technology
+	memory subsystem
+	essence
+	N +1 design
+	RAIM design
+	failures
+	access memory DRAM
+	sockets , memory channels
+	memory modules DIMMs
+	RAIM design
+	Memory Controller Unit MCU
+	processor chip
+	memory channels
+	DIMM per channel
+	channel
+	MCU enables memory
+	RAIM
+	technology
+	reliability , availability
+	serviceability RAS -RRB- capabilities
+	area of error correction
+	Bit , lane , DRAM , DIMM , socket
+	memory channel failures
+	types
+	failures
+455_CD
+456_CD
+457_CD
+458_CD
+	Memory increment Memory range GB
+	Chapter
+	IBM z14 hardware overview
+	< /
+459_CD
+	>
+460_CD
+	Hardware system area
+	HSA
+	area of memory
+	memory
+	HSA
+	functions
+	bulk
+	channel subsystem functions
+	GB HSA
+	definitions or changes
+	outage situations
+	need
+	preplanning
+461_CD
+	HSA
+	I/O capability
+	default
+	addition and removal
+462_CD
+	features
+	LPAR
+	channel subsystem CSS
+463_CD
+	CSS
+464_CD
+	Subchannel set
+465_CD
+	Devices
+	number
+	subchannel
+466_CD
+467_CD
+	adapters
+468_CD
+	I/O system structure
+	type
+469_CD
+	I/O infrastructure
+	Generation
+	infrastructure for PCIe I/O drawers PCIe Gen3
+470_CD
+	PCIe I/O infrastructure
+471_CD
+	features
+	PCIe Gen3
+	CPC drawers
+	GBps connectivity
+472_CD
+	PCIe I/O
+473_CD
+	drawer
+	InfiniBand I/O infrastructure
+474_CD
+	features
+	InfiniBand fanouts
+	CPC drawer support
+	InfiniBand
+475_CD
+	InfiniBand
+	coupling links
+476_CD
+	I/O features : <ff2>
+	I/O feature types
+477_CD
+	number of PCIe I/O drawers
+478_CD
+	InfiniBand I/O drawers
+479_CD
+	IBM z14 Technical Introduction
+480_CD
+	Figure
+	view
+	I/O system structure
+481_CD
+	Figure
+482_CD
+	I/O system structure
+	z14
+	types for fanout location
+	Figure
+	page
+	front
+483_CD
+	CPC drawer
+484_CD
+	ICA SR
+	HCA3-O
+	Z platform
+	feature
+485_CD
+	HCA3-O LR
+	Z platform
+	feature
+486_CD
+487_CD
+	PCIe Gen3
+	HCA3-O LR fanout
+	ports
+	PCIe Gen3 fanout
+	port
+	fanouts
+	ports
+488_CD
+	types
+489_CD
+	I/O connectivity support the PCIe I/O drawer
+	PCIe connections
+	PCIe I/O drawers
+490_CD
+	coupling link connectivity Parallel Sysplex and STP configuration
+	z14
+491_CD
+	link types
+492_CD
+	ICA SR
+493_CD
+	InfiniBand coupling link
+494_CD
+	InfiniBand coupling link
+495_CD
+	Coupling Express LR
+	CPC drawer Figure
+	page
+	PCIe Gen3
+	ICA PCIe coupling fanouts
+	InfiniBand coupling fanouts
+	CPC drawer
+	coupling fanouts support Parallel Sysplex connectivity
+496_CD
+	systems
+	CPC drawers
+	locations
+	PCIe Gen3 fanouts
+	drawers
+	availability
+	configuration
+	paths maintain access
+	I/O devices
+	disks and networks
+497_CD
+	Chapter
+	IBM z14 hardware overview
+	<
+498_CD
+	Figure
+	CPC drawer
+499_CD
+	view
+	PCIe I/O drawer see Figure
+	drawer
+	I/O features
+	sides
+	drawer
+	slots
+	switch cards
+	front
+	rear
+	features
+	I/O domains
+	features
+	type FICON Express16S + , FICON Express16S , FICON Express8S , OSA-Express6S , OSA-Express5S , OSA-Express4S , Crypto Express6S , Crypto Express5S , zEDC Express , 10GbE RoCE Express , 10GbE RoCE Express2 , zHyperLink Express
+	Coupling Express LR
+	DCAs
+	power
+	air moving devices AMDs
+	PCIe I/O Drawer
+500_CD
+	Figure 2-8 PCIe I/O drawer - front
+501_CD
+	views
+	details
+	I/O features
+	Chapter
+	features and functions
+	page
+502_CD
+	Power
+503_CD
+	American Society of Heating , Refrigerating
+	Air-Conditioning Engineers ASHRAE -RRB- Class A3 specifications
+	ASHRAE
+	organization
+	advancement
+	technology
+	heating , ventilation
+	air conditioning industry
+504_CD
+	IBM z14 Technical Introduction
+505_CD
+	power
+	system
+	predecessor
+	IBM
+	technologies
+	power service specifications
+	predecessors
+	power consumption
+	maximum system configuration
+	%
+	models
+506_CD
+	water cooling loop
+	chip modules
+	CPC drawers
+	heat
+	water loop
+	radiator air-cooled system
+	water cooling unit water-cooled system
+	Conversion from air to water cooled systems
+	vice
+507_CD
+508_CD
+	Radiator air -RRB- cooling option
+	system
+	availability
+	cooling power consumption
+	radiator design
+	water cooling pump system
+	chip modules
+	CPC drawers
+	N +1 pumps , blowers , controls
+	sensors
+	radiator unit
+	air
+509_CD
+510_CD
+	Water cooling option
+	choice
+	building
+	water
+	system
+	water cooling unit WCU -RRB- technology
+	chip modules
+	CPC drawer
+	water cooling loop
+	loop , water exchanges heat
+	water
+	client
+	plate
+511_CD
+	addition
+	chip modules
+	water loop
+	heat exchangers
+	path
+	exhaust air
+	rear
+	frames
+	heat exchangers
+	%
+	heat
+	I/O drawers
+512_CD
+	WCUs
+	WCU
+	load
+	replacement
+	WCU
+	loss
+	water
+	water cooling units
+	door heat exchangers
+	water cooling loop
+513_CD
+514_CD
+	High Voltage Direct Current power feature
+	High Voltage Direct Current HV DC -RRB- power feature
+	z14
+	DC power input
+	data center energy efficiency
+	need
+	inversion step
+	feature
+	data center UPS and power distribution energy savings
+515_CD
+516_CD
+	Power considerations
+	sets
+	power supplies
+	set
+517_CD
+	power cords or pair of power cords
+	number of Bulk Power Regulator BPR -RRB- pairs
+	Power cords
+	Hz
+	V AC power source
+	V DC power source
+	loss
+	power supply
+	effect on system operation
+518_CD
+	Chapter
+	IBM z14 hardware overview
+519_CD
+	Balanced Power Plan Ahead feature
+	growth
+	power
+	configurations
+	feature , downtime
+	system
+	installation
+	power requirements in terms of BPRs and power cords
+	Balance Power Plan Ahead feature
+	DC
+	power cords
+520_CD
+	outlets customer
+	equipment
+	Hardware Management Console
+	display
+521_CD
+	power requirements
+	facility
+	number of CPC drawers
+	number and type of I/O units
+	power consumption tables
+522_CD
+	configurations and environments
+	IBM 3906 Installation Manual for Physical Planning
+523_CD
+	power and weight estimation tool
+	IBM Resource Link
+524_CD
+	IBM z14 Technical Introduction
+525_CD
+	Copyright IBM Corp.
+	rights
+526_CD
+	Chapter
+	features
+527_CD
+528_CD
+	functions
+	chapter
+	I/O
+	features and functions
+	information
+	chapter
+	overview
+	hardware elements
+	Chapter
+	IBM z14 hardware overview
+	page
+	features and functions
+	detail
+	features
+	generations of Z platforms
+	convenience
+529_CD
+	chapter , reference
+	IBM z14 Technical Guide
+	SG24-8451
+530_CD
+	chapter
+531_CD
+	topics
+	I/O features
+532_CD
+	glance
+	PCIe features
+533_CD
+	firmware processor
+534_CD
+	Storage connectivity
+535_CD
+	Network connectivity
+536_CD
+	Compression options
+537_CD
+	features
+	Coupling
+538_CD
+539_CD
+	Server Time Protocol
+	Hardware Management Console functions

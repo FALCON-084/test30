@@ -1,0 +1,2582 @@
+1_CD
+2_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+3_CD
+	z14_NN
+	platform_NN
+4_CD
+	design_NN
+	paradigm_NN shift_NN
+	data_NNS and_CC transactions_NNS
+	encryption_NN
+	encryption_NN
+5_CD
+6_CD
+	processors_NNS and_CC co-processors_NNS
+	cache_NN density_NN
+	TB_NN of_IN memory_NN
+	access_NN to_TO data_NNS
+	virtualization_NN
+	Linux_NNP
+	Systems_NNPS
+	enhancements_NNS for_IN Java_NNP
+	compilers_NNS
+7_CD
+	enterprise_NN system_NN
+	predecessor_NN platforms_NNS
+	today_NN
+8_CD
+	demands_NNS
+	power_NN
+9_CD
+	throughput_NN
+	memory_NN
+	data_NNS
+10_CD
+	cache_NN design_NN
+11_CD
+	performance_NN
+	Accelerated_NNP I/O_NNP bandwidth_NN
+12_CD
+	amounts_NNS of_IN data_NNS </ff2>_NN
+	<ff2>_NNP Data_NNP compression_NN
+13_CD
+	information_NN
+	operations_NNS
+14_CD
+	transactions_NNS and_CC data_NNS </ff2>_NN
+	hundreds_NNS of_IN microprocessors_NNS
+	software_NN
+	evolution_NN
+	Z_NN platform_NN
+	infrastructure_NN
+	ground_NN
+	data_NNS and_CC transactions_NNS
+	Figure_NN
+	z14_NN
+15_CD
+	Figure_NN
+16_CD
+	IBM_NNP
+	Z_NN platform_NN
+	ability_NN to_TO access_NN larger_JJR data_NNS in_IN memory_NN
+	I/O_NNP processors_NNS
+	workloads_NNS
+17_CD
+18_CD
+	encryption_NN
+	approach_NN to_TO information_NN security_NN
+	data_NNS
+	platform_NN
+	encryption_NN
+	encryption_NN
+	page_NN
+	information_NN
+19_CD
+	Chapter_NN
+	base_NN
+	trust_NN economy_NN
+20_CD
+	needs_NNS
+	trust_NN economy_NN
+	era_NN
+21_CD
+	techniques_NNS
+	data_NNS
+22_CD
+	encryption_NN
+	platform_NN
+23_CD
+	data_NN powerhouse_NN
+	platform_NN
+24_CD
+	Operational_NNP Analytics_NNP
+	resilience_NN
+25_CD
+	downtime_NN
+	transformation_NN
+26_CD
+	service_NN delivery_NN
+27_CD
+	business_NN processes_NNS
+28_CD
+	Blending_NN open_JJ source_NN and_CC Z_NN technologies_NNS
+	data_NNS
+29_CD
+	encryption_NN
+	excels_NNS with_IN security_NN features_NNS
+	hardware_NN ,_, firmware_NN
+	systems_NNS
+	features_NNS
+	storage_NN protection_NN keys_NNS and_CC workload_NN isolation_NN
+	audit_NN capabilities_NNS
+	Central_NNP Processor_NNP Assist_NNP for_IN Cryptographic_NNP Function_NNP CPACF_NNP
+	core_NN
+	encryption_NN
+	hardware_NN acceleration_NN for_IN encryption_NN operations_NNS
+	addition_NN
+	Crypto_NNP Express6S_NNP
+	performance_NN boost_NN on_IN z14_NN
+	enhancements_NNS perform_VBP encryption_NN
+	z14_NN
+	Z_NN platforms_NNS
+30_CD
+	IBM_NNP Z_NNP pervasive_JJ encryption_NN
+	data_NNS protection_NN
+	organization_NN and_CC customers_NNS demand_NN
+	security_NN
+	data_NNS
+	solution_NN
+	envelope_NN of_IN protection_NN
+	data_NNS on_IN Z._NNP For_IN example_NN ,_, Z_NNP pervasive_JJ encryption_NN
+	data_NNS
+	Z_NN infrastructure_NN
+	data_NNS encryption_NN
+	costs_NNS
+	data_NNS security_NN
+	compliance_NN
+	General_NNP Data_NNP Protection_NNP Regulations_NNPS GDPR_NNP
+31_CD
+32_CD
+	IBM_NNP Z_NNP pervasive_JJ encryption_NN
+	security_NN
+	operations_NNS in_IN mind_NN
+	application_NN changes_NNS
+	controls_NNS
+	overhead_NN
+	capabilities_NNS
+	costs_NNS
+	data_NNS security_NN and_CC compliance_NN
+33_CD
+	platform_NN
+34_CD
+	data_NN powerhouse_NN
+	Currently_NNP ,_, data_NN
+	resources_NNS an_DT organization_NN
+	insights_NNS
+	data_NNS
+	business_NN decisions_NNS
+	challenges_NNS
+	value_NN
+	resource_NN
+	enterprise_NN
+	data_NNS sources_NNS
+	insights_NNS
+35_CD
+	decades_NNS ,_, clients_NNS
+	data_NNS
+	mainframe_NN transactional_JJ systems_NNS
+	platforms_NNS
+	data_NNS lakes_NN
+	analytics_NNS
+	process_NN
+	risk_NN
+	platforms_NNS and_CC data_NNS latency_NN
+36_CD
+	enterprise_NN data_NNS
+	data_NNS duplication_NN or_CC movement_NN
+	cost_NN and_CC complexity_NN of_IN analytics_NNS
+	enterprise_NN data_NNS
+	analytics_NNS applications_NNS and_CC tools_NNS
+	analytics_NNS processing_NN
+	data_NNS
+	Z_NN platform_NN
+37_CD
+38_CD
+	information_NN about_IN GDPR_NNP
+	Path_NN
+	GPDR_NNP website_NN
+39_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+40_CD
+	infrastructure_NN
+	cache_NN density_NN
+	chip_NN
+	TB_NN memory_NN
+	z14_NN
+41_CD
+	solutions_NNS
+	Apache_NNP Spark_NNP
+	source_NN
+	analytics_NNS solution_NN for_IN z/OS_NNS
+42_CD
+	data_NNS </ff2>_NN
+	analysis_NN
+	Apache_NNP Spark_NNP gives_VBZ developers_NNS and_CC data_NNS scientists_NNS the_DT ability_NN
+	z/OS_NNS data_NNS in_IN place_NN
+	data_NNS movement_NN
+	Apache_NNP Spark_NNP on_IN z/OS_NNP
+	view_NN
+	data_NNS
+43_CD
+	IBM_NNP Machine_NN Learning_NNP for_IN z/OS_NNP :_: A_NNP comprehensive_JJ solution_NN
+44_CD
+	machine_NN learning_VBG workflow_NN
+	ingestion_NN and_CC transformation_NN of_IN Z_NNP data_NNS
+	solution_NN
+	quality_NN self-learning_NN behavior_NN models_NNS
+	insights_NNS
+	needs_NNS
+45_CD
+	IBM_NNP DB2_NNP ®_NNP Analytics_NNP Accelerator_NNP for_IN z/OS_NNP :_: A_NNP high-performance_JJ appliance_NN
+46_CD
+	mainframe_NN
+	environment_NN
+	lifecycle_NN
+	analytics_NNS solution_NN
+	system_NN
+	data_NNS
+	data_NNS
+	analytics_NNS
+47_CD
+	platform_NN
+48_CD
+	Operational_NNP Analytics_NNPS
+	Today_NN ,_, demands_NNS
+	operations_NNS
+	time_NN
+	service_NN windows_NNS
+	system_NN complexity_NN makes_VBZ planning_NN
+	time_NN consuming_NN
+	operations_NNS analytics_NNS
+	solution_NN
+	challenge_NN
+49_CD
+	infrastructure_NN to_TO host_NN real-time_JJ analytics_NNS tools_NNS
+	operating_NN environment_NN
+	efficiencies_NNS
+	costs_NNS
+50_CD
+	IBM_NNP designed_VBN IBM_NNP Operations_NNP Analytics_NNP
+	IOAz_NNP
+	IBM_NNP Common_NNP Data_NNP Provider_NNP
+	IBM_NNP z_SYM Operational_NNP Insights_NNPS
+	Z_NN
+	peak_NN performance_NN
+	system_NN ,_, Operations_NNP Analytics_NNP
+	insights_NNS
+	IBM_NNP
+	expertise_NN
+	Z_NN operational_JJ data_NNS
+51_CD
+	resilience_NN
+52_CD
+	downtime_NN
+	second_NN of_IN downtime_NN
+	revenue_NN
+	systems_NNS
+	outage_NN
+	business_NN operations_NNS
+53_CD
+54_CD
+	Z_NNP
+	IBM_NNP Z_NNP
+	downtime_NN
+	z14_NN
+	reliability_NN
+55_CD
+	IBM_NNP Z_NNP platforms_NNS
+	generations_NNS
+	technology_NN and_CC services_NNS
+	points_NNS of_IN failures_NNS SPOFs_NNS
+	components_NNS
+	redundancy_NN
+	failures_NNS
+	user_NN access_NN
+	Components_NNP
+	maintenance_NN
+	products_NNS
+	business_NN impacts_NNS
+	capabilities_NNS
+	components_NNS
+	needs_NNS
+56_CD
+	platform_NN
+57_CD
+	sysplex_NN
+58_CD
+	environment_NN
+59_CD
+	IBM_NNP Geographically_NNP Dispersed_NNP Parallel_JJ Sysplex_NNP ™_NN IBM_NNP GDPS_NNP ®_NN -RRB-_-RRB- family_NN
+	IBM_NNP z_SYM Advanced_NNP Workload_NNP Analysis_NNP Reporter_NNP IBM_NNP zAware_NNP
+60_CD
+	firmware_NN appliance_NN
+	LPAR_NNP
+	part_NN of_IN IOAz_NNP
+61_CD
+62_CD
+	Sysplex_NNP
+	system_NN clustering_VBG technique_NN
+	availability_NN
+	availability_NN
+	Sysplex_NNP
+	page_NN
+	details_NNS
+63_CD
+	Chapter_NN
+	base_NN
+	trust_NN economy_NN
+64_CD
+	solutions_NNS improves_VBZ resilience_NN in_IN cases_NNS
+	failures_NNS ,_, power_NN outages_NNS ,_, fire_NN
+	error_NN
+	GDPS_NNP family_NN of_IN solutions_NNS
+	tools_NNS
+	Z_NNP availability_NN
+	mask_NN
+	effects_NNS
+	component_NN outages_NNS or_CC failures_NNS
+	IBM_NNP HyperSwap_NNP ®_NN technology_NN ,_, I/O_NNP traffic_NN
+	disk_NN subsystems_NNS
+	I/O_NNP request_NN
+	disk_NN subsystem_NN
+	solution_NN can_MD route_NN workload_NN
+	server_NN location_NN
+	problems_NNS
+	location_NN
+65_CD
+	transformation_NN
+66_CD
+	service_NN delivery_NN
+	DevOps_NNP solution_NN breaks_NNS
+	development_NN silos_NNS
+	infrastructure_NN platforms_NNS
+	deliveries_NNS
+	infrastructure_NN for_IN enterprises_NNS
+	applications_NNS
+	levels_NNS for_IN quality_NN ,_, availability_NN
+	compliance_NN
+	end-use_NN expectations_NNS
+67_CD
+	IBM_NNP DevOps_NNP for_IN Z_NNP solutions_NNS
+	application_NN understanding_NN through_IN deployment_NN and_CC management_NN
+	addition_NN ,_, DevOps_NNP for_IN Z_NNP solutions_NNS
+	toolset_NN
+	applications_NNS
+	Z_NN
+	platforms_NNS
+68_CD
+	instance_NN ,_, Application_NNP Discovery_NNP and_CC Delivery_NN Intelligence_NNP helps_VBZ development_NN teams_NNS understand_VBP application_NN interdependencies_NNS ,_, complexity_NN
+	quality_NN across_IN platforms_NNS ,_, environments_NNS
+	languages_NNS
+	ability_NN
+	teams_NNS an_DT edge_NN
+	API_NNP candidates_NNS
+	insight_NN about_IN maintainability_NN and_CC complexity_NN
+	result_NN
+	candidate_NN API_NNP quality_NN
+	user_NN experience_NN
+69_CD
+	addition_NN
+	infrastructure_NN
+	workloads_NNS of_IN cloud_NN services_NNS
+	processors_NNS
+	memory_NN
+	access_NN to_TO data_NNS
+	business_NN transactions_NNS
+	data_NNS
+	analytics_NNS
+	workflow_NN
+70_CD
+	IBM_NNP
+	asset_NN to_TO power_NN the_DT API_NNP economy_NN
+71_CD
+72_CD
+	API_NNP economy_NN demands_NNS fortified_VBD clouds_NNS
+	hybrid_NN
+	hardware_NN platform_NN
+	clouds_NNS
+73_CD
+	Linux_NN assets_NNS ,_, Z_NNP platforms_NNS
+	source_NN software_NN
+	scalability_NN
+	sharing_NN
+	business_NN continuity_NN
+	cloud_NN
+	assets_NNS ,_, Z_NNP offerings_NNS
+	tools_NNS
+	developers_NNS speed_VB Representational_NNP State_NNP Transfer_NNP RESTful_NNP -RRB-_-RRB- API_NNP development_NN
+74_CD
+	matter_NN which_WDT asset_NN class_NN
+	cloud_NN application_NN developers_NNS
+	z/OS_NNP business-critical_JJ data_NNS and_CC transactions_NNS
+	applications_NNS
+	z/OS_NNP subsystems_NNS
+75_CD
+76_CD
+	information_NN
+	API_NNP economy_NN
+	customers_NNS
+	API_NNP economy_NN website_NN
+77_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+78_CD
+79_CD
+	business_NN processes_NNS
+	Blockchain_NNP
+	industries_NNS do_VBP business_NN
+	technology_NN
+	generation_NN
+	applications_NNS
+	trust_NN ,_, accountability_NN
+	transparency_NN
+	business_NN processes_NNS
+80_CD
+	network_NN ,_, members_NNS have_VBP access_NN
+	ledger_NN
+81_CD
+	consensus_NN
+82_CD
+	>_NN
+	record_NN
+83_CD
+	transactions_NNS
+	ledger_NN functions_NNS
+	source_NN
+	truth_NN
+	/_NN
+84_CD
+	>_NN
+	blockchain_NN
+85_CD
+	trust_NN
+	business_NN transactions_NNS
+	sense_NN
+86_CD
+	business_NN on_IN Z._NNP
+	business_NN
+	policies_NNS
+	installation_NN
+	Docker_NNP images_NNS
+	Linux_NN
+	Systems_NNPS
+	IBM_NNP Blockchain_NNP on_IN Bluemix_NNP ®_NNP High_NNP Security_NNP Business_NNP Network_NNP HSBN_NNP -RRB-_-RRB- service_NN plan_NN
+	HSBN_NNP
+	service_NN
+	IBM_NNP cloud_NN
+	environment_NN
+	workloads_NNS
+	data_NNS
+87_CD
+88_CD
+	Blending_NN open_JJ source_NN and_CC Z_NN technologies_NNS
+	source_NN technologies_NNS ,_, ISV_NNP tools_NNS
+	platform_NN
+	businesses_NNS and_CC organizations_NNS
+	change_NN
+	pace_NN
+	end_NN ,_, IBM_NNP
+	ecosystem_NN of_IN clients_NNS ,_, business_NN partners_NNS
+	ISVs_NNS
+	source_NN development_NN community_NN
+	source_NN technologies_NNS
+	platforms_NNS
+	addition_NN ,_, IBM_NNP
+	member_NN
+	organizations_NNS and_CC software_NN governance_NN consortia_NN
+	future_NN
+	source_NN software_NN
+	combination_NN
+	hardware_NN platform_NN
+	power_NN
+	Linux_NNP distribution_NN
+	building_NN ,_, testing_NN
+	applications_NNS
+	clusters_NNS
+	clouds_NNS
+89_CD
+	capacity_NN Linux_NNP platform_NN
+	z/OS_NNS or_CC IBM_NNP z/VSE_NNP ®_NN environments_NNS
+	platform_NN
+	Linux_NNP workloads_NNS
+	z/OS_NNP and_CC z/VSE_NNP solutions_NNS
+	data_NNS and_CC applications_NNS
+	communication_NN
+	availability_NN
+90_CD
+	Linux_NNP
+	Systems_NNPS
+	uses_NNS pervasive_JJ encryption_NN
+	protection_NN envelope_NN
+	data_NNS
+	system_NN
+	performance_NN
+	scale_NN
+	demands_NNS
+	enterprise_NN
+	server_NN sprawl_NN costs_NNS
+	integration_NN benefits_NNS ,_, Linux_NNP
+	Systems_NNPS
+	services_NNS
+	analytics_NNS
+	workloads_NNS
+91_CD
+	addition_NN
+	Linux_NNP
+	z14_NN
+	line_NN
+	alternatives_NNS
+	cloud_NN solutions_NNS
+	costs_NNS for_IN administration_NN and_CC management_NN ,_, software_NN licensing_NN ,_, business_NN continuity_NN
+	floor_NN space_NN
+	cost_NN of_IN ownership_NN
+92_CD
+	Chapter_NN
+	base_NN
+	trust_NN economy_NN
+93_CD
+	>_NN
+94_CD
+	description_NN
+	IBM_NNP
+	predecessor_NN IBM_NNP z13_CD ®_NN
+	improvements_NNS
+	chips_NNS
+	granularity_NN options_NNS
+	availability_NN
+	encryption_NN
+	options_NNS
+95_CD
+96_CD
+	Technical_NNP
+	multiprocessor_NNS SMP_NNP -RRB-_-RRB- system_NN
+	architecture_NN ensures_VBZ continuity_NN and_CC upgradeability_NN
+	zEC12_NNP
+	models_NNS
+	M01_NNP ,_, M02_NNP ,_, M03_NNP ,_, M04_NNP
+	M05_NNP
+97_CD
+	Table_NNP
+	enhancements_NNS
+	predecessor_NN platforms_NNS
+98_CD
+	Table_NNP 1-1_CD Technical_NNP
+99_CD
+	IBM_NNP Z_NNP generations_NNS
+	IBM_NNP z_SYM Systems_NNPS
+	tool_NN
+100_CD
+	Greater_NNP total_JJ system_NN capacity_NN
+	subcapacity_NN settings_NNS
+	processors_NNS CP_NNP
+	IBM_NNP z/Architecture_NNP ®_NN ensures_VBZ continuity_NN and_CC upgradeability_NN
+	models_NNS
+101_CD
+	processor_NN units_NNS
+	CPs_NNS
+	subcapacity_NN settings_NNS
+102_CD
+	Multi-core_NN
+	modules_NNS
+	execution_NN
+	workloads_NNS
+103_CD
+	GHz_NNP 14_CD nm_NN FINFET_NNP
+	Silicon-On-Insulator_NNP SOI_NNP
+	memory_NN per_IN system_NN
+	availability_NN
+	memory_NN subsystem_NN through_IN use_NN
+	array_NN
+	memory_NN RAIM_NNP -RRB-_-RRB- technology_NN
+104_CD
+	TB_NN
+	memory_NN per_IN system_NN
+105_CD
+	hardware_NN system_NN area_NN HSA_NNP
+	memory_NN
+106_CD
+	GB_NNP
+107_CD
+	Proven_NNP technology_NN
+	frequency_NN
+	design_NN
+	single-instruction_NN
+	SIMD_NNP -RRB-_-RRB- processor_NN
+	parallelism_NN
+	analytics_NNS
+	addition_NN
+	multithreading_NN SMT_NNP
+	efficiency_NN and_CC throughput_NN
+	number_NN of_IN instructions_NNS in_IN flight_NN
+108_CD
+	Processor_NNP cache_NN structure_NN improvements_NNS
+	cache_NN sizes_NNS
+	today_NN
+	production_NN workloads_NNS
+109_CD
+	offers_NNS these_DT levels_NNS of_IN cache_NN
+	cache_NN
+	KB_NNP for_IN instructions_NNS
+110_CD
+	KB_NNP for_IN data_NNS </ff2>_NN
+	cache_NN
+	MB_NNP for_IN instructions_NNS
+111_CD
+	MB_NNP for_IN data_NNS </ff2>_NN
+	cache_NN
+112_CD
+	MB_NNP
+	cache_NN
+113_CD
+	MB_NNP
+	functions_NNS and_CC performance_NN
+	co-processor_NN per_IN processor_NN unit_NN
+114_CD
+	IBM_NNP zHyperLink_NNP Express_NNP
+	distance_NN ,_, Z_NNP I/O_NNP adapter_NN
+	latency_NN
+	Performance_NNP FICON_NNP for_IN read_NN requests_NNS
+115_CD
+	channel_NN subsystem_NN
+	I/O_NNP resilience_NN
+	number_NN
+	channel_NN subsystems_NNS LCSS_NNP
+	subchannel_NN sets_NNS
+	I/O_NNP devices_NNS
+	predecessor_NN platform_NN
+	number_NN
+	partitions_NNS LPARs_NNP
+116_CD
+117_CD
+	LCSS_NNP
+118_CD
+	LPARs_NNP
+	subchannel_NN
+119_CD
+120_CD
+	I/O_NNP devices_NNS per_IN channel_NN
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+121_CD
+	system_NN
+	z14_NN
+122_CD
+	features_NNS and_CC functions_NNS
+123_CD
+	Enhanced_NNP LPAR_NNP resource_NN allocation_NN algorithms_NNS for_IN processor_NN units_NNS and_CC memory_NN 16_CD TB_NN
+124_CD
+	LPAR_NNP
+	IBM_NNP Virtual_NNP Flash_NNP Memory_NN VFM_NNP
+	paging_NN workload_NN spikes_NNS
+125_CD
+	availability_NN
+	VFM_NNP
+	replacement_NN
+	Flash_NNP Express_NNP features_NNS
+	zEC12_NNP
+126_CD
+	generation_NN Crypto_NNP Express6S_NNP feature_NN
+127_CD
+	domains_NNS
+	New_NNP CMPSC_NNP with_IN Huffman_NNP Coding_NNP compression_NN
+	expansion_NN algorithms_NNS
+128_CD
+129_CD
+	Guarded_NNP Storage_NNP Facility_NNP
+	Java_NNP performance_NN
+	program_NN
+130_CD
+131_CD
+	Java_NNP Garbage_NNP Collection_NNP
+	Functionality_NN
+	GbE_NNP RoCE_NNP Express2_NNP
+	ability_NN
+132_CD
+	adapters_NNS
+133_CD
+	LPARs_NNP
+	Coupling_NNP Express_NNP Long_NNP Reach_NNP LR_NNP
+	coupling_NN links_NNS
+134_CD
+	km_NN
+	generation_NN FICON_NNP Express16S_NNPS
+135_CD
+	zHyperLink_NNP Express_NNP with_IN IBM_NNP DS8880_NNP
+136_CD
+	latency_NN
+137_CD
+	packets_NNS
+138_CD
+	Secure_NNP Service_NNP Container_NNP
+139_CD
+140_CD
+	appliances_NNS
+	<ff2>_NNP Air_NNP cooled_VBD systems_NNS
+	radiators_NNS with_IN N_NNP
+141_CD
+	design_NN
+142_CD
+	Support_NN for_IN ASHRAE_NNP Class_NNP A3_NNP data_NN centers_NNS
+	Figure_NN
+	page_NN
+	Z_NN platforms_NNS
+143_CD
+	areas_NNS
+	Single-engine_NN
+144_CD
+	PCI_NNP
+145_CD
+146_CD
+	Number_NN of_IN processor_NN units_NNS
+147_CD
+	Memory_NN
+148_CD
+	<ff2>_NNP System_NNP I/O_NNP bandwidth_NN
+149_CD
+	Secure_NNP Service_NNP Container_NNP
+	page_NN
+	information_NN
+150_CD
+151_CD
+	processor_NN capacity_NN index_NN PCI_NNP
+	PCI_NNP values_NNS
+152_CD
+	Systems_NNPS Performance_NNP
+	Reference_NNP
+	SC28-1187_NNP
+153_CD
+	Chapter_NN
+	base_NN
+	trust_NN economy_NN
+	<_NN
+154_CD
+	Figure_NN
+	system_NN design_NN
+155_CD
+	predecessors_NNS
+	details_NNS
+	Chapter_NN
+	IBM_NNP z14_CD hardware_NN overview_NN
+	page_NN
+	description_NN of_IN IBM_NNP z14_CD functions_NNS and_CC features_NNS
+	IBM_NNP
+156_CD
+	Technical_NNP Guide_NNP
+	SG24-8451_NN
+157_CD
+158_CD
+	Storage_NNP connectivity_NN
+	Storage_NNP connectivity_NN
+	IBM_NNP Fibre_NNP Connection_NN FICON_NNP
+	IBM_NNP zHyperLink_NNP Express_NNP feature_NN
+159_CD
+160_CD
+	FICON_NNP
+	FICON_NNP
+	Fibre_NNP Channel_NNP FC_NNP -RRB-_-RRB- standards_NNS
+	data_NNS storage_NN and_CC access_NN requirements_NNS
+	FC_NN technology_NN in_IN storage_NN and_CC access_NN devices_NNS
+161_CD
+	FICON_NNP Express_NNP features_VBZ support_NN these_DT protocols_NNS
+162_CD
+	FICON_NNP
+	protocol_NN over_IN FC_NNP
+	communication_NN across_IN channels_NNS ,_, channel-to-channel_NN CTC_NNP -RRB-_-RRB- connectivity_NN
+	FICON_NNP devices_NNS
+	disks_NNS ,_, tapes_NNS
+	printers_NNS
+	z/OS_NNP ,_, IBM_NNP z/VM_NNP ®_NN ,_, IBM_NNP z/VSE_NNP ,_, z/TPF_NNP
+	Linux_NNP
+	Systems_NNPS environments_NNS
+163_CD
+	Fibre_NNP Channel_NNP Protocol_NNP FCP_NNP
+164_CD
+	protocol_NN
+	disk_NN and_CC tape_NN devices_NNS through_IN Fibre_NNP Channel_NNP
+	directors_NNS
+	FCP_NNP channel_NN
+	FCP_NNP SAN_NNP fabrics_NNS and_CC access_NN FCP/SCSI_NNP devices_NNS
+	FCP_NNP
+	z/VM_NNP ,_, KVM_NNP for_IN IBM_NNP Z_NNP ,_, z/VSE_NNP
+	Linux_NNP
+	Systems_NNPS environments_NNS
+165_CD
+	FICON_NNP Express16S_NNPS +_NN features_NNS
+	improvements_NNS in_IN throughput_NN and_CC response_NN time_NN
+	middleware_NN
+	batch_NN window_NN
+	batch_NN work_NN
+	FICON_NNP Express16S_NNPS +_NN features_NNS
+166_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+167_CD
+	PCIe_NNP cards_NNS
+	granularity_NN
+	capabilities_NNS
+	FICON_NNP Express_NNP features_NNS
+	FICON_NNP Express16S_NNPS +_NN features_NNS
+	link_NN data_NN rate_NN
+	Gbps_NNS
+	Gbps_NNP auto-negotiate_NN
+	technology_NN
+	systems_NNS
+168_CD
+	information_NN
+	FICON_NNP Express_NNP features_NNS
+	features_NNS
+	glance_NN
+	page_NN
+169_CD
+170_CD
+	zHyperLink_NNP Express_NNP
+	zHyperLink_NNP
+	access_NN to_TO data_NNS
+	latency_NN connections_NNS
+	Z_NN platform_NN and_CC storage_NN
+171_CD
+	zHyperLink_NNP Express_NNP feature_NN
+	requests_NNS for_IN data_NNS
+	storage_NN cache_NN
+	IBM_NNP DS8880_NNP
+	process_NN
+	zHyperLink_NNP Express_NNP port_NN
+	I/O_NNP Bay_NNP port_NN
+	DS8880_NNP
+	distance_NN
+	m_NN
+	connection_NN
+172_CD
+	DB2_NNP for_IN z/OS_NNP
+	/_NN
+173_CD
+	>_NN
+	requests_NNS
+174_CD
+	conjunction_NN
+	FICON_NNP SAN_NNP Infrastructure_NNP ,_, zHyperLink_NNP
+	application_NN response_NN time_NN
+	workload_NN response_NN time_NN
+	%_NN
+	application_NN changes_NNS
+	zHyperLink_NNP channels_NNS complement_VBP FICON_NNP channels_NNS
+175_CD
+176_CD
+177_CD
+	Network_NNP connectivity_NN
+	platform_NN
+	system_NN images_NNS
+	network_NN connectivity_NN
+	connections_NNS
+	platform_NN
+	networks_NNS with_IN Open_NNP Systems_NNPS Adapter-Express_NNP OSA-Express_NNP
+	GbE_NNP RoCE_NNP Express_NNP features_NNS
+	connections_NNS
+	communication_NN through_IN IBM_NNP HiperSockets_NNPS ™_NN
+	Memory_NN Communications_NNPS
+	Memory_NN Access_NNP SMC-D_NNP
+178_CD
+179_CD
+	OSA-Express_NNP
+	features_NNS
+	area_NN network_NN LAN_NNP -RRB-_-RRB- connectivity_NN
+	IEEE_NNP standards_NNS
+	addition_NN
+	features_NNS
+	functions_NNS
+	TCP/IP_NNP
+	processor_NN unit_NN
+	performance_NN benefits_NNS
+	processing_NN
+	operating_NN system_NN
+180_CD
+	OSA-Express6S_NN features_NNS
+	technology_NN refresh_NN
+	1000BASE-T_NNP Ethernet_NNP for_IN copper_NN environments_NNS
+	Gigabit_NNP Ethernet_NNP and_CC Gigabit_NNP Ethernet_NNP fiber_NN optic_NN
+	environments_NNS
+181_CD
+182_CD
+	HiperSockets_NNP
+	IBM_NNP HiperSockets_NNPS
+	function_NN
+	Z_NN platforms_NNS
+	attachments_NNS
+	area_NN networks_NNS
+	system_NN and_CC network_NN overhead_NN
+183_CD
+	HiperSockets_NNPS
+	function_NN
+	Internal_NNP Code_NNP LIC_NNP
+	LAN_NNP connectivity_NN
+	system_NN images_NNS
+	Z_NN platform_NN
+	data_NNS transfers_NNS
+	way_NN
+	HiperSockets_NNPS function_NN
+	use_NN of_IN I/O_NNP subsystem_NN operations_NNS
+	network_NN connection_NN
+	partitions_NNS
+	Z_NN platform_NN
+	way_NN ,_, HiperSockets_NNPS
+	server_NN consolidation_NN
+	servers_NNS
+	enterprise_NN network_NN
+184_CD
+	Chapter_NN
+	base_NN
+	trust_NN economy_NN
+	<_NN /_NN
+185_CD
+	>_NN
+186_CD
+	10GbE_NNP RoCE_NNP Express2_NNP
+	Gigabit_NNP Ethernet_NNP 10GbE_NNP -RRB-_-RRB- RoCE_NNP Express2_NNP
+	Remote_NNP Direct_NNP Memory_NN Access_NNP RDMA_NNP
+	Converged_NNP Ethernet_NNP RoCE_NNP
+	communications_NNS
+	Z_NN platforms_NNS
+	Z_NN platform_NN
+187_CD
+	feature_NN
+	consumption_NN of_IN CPU_NNP resources_NNS for_IN applications_NNS
+	TCP/IP_NNP
+	IBM_NNP WebSphere_NNP ®_NNP
+	IBM_NNP DB2_NNP database_NN
+	network_NN latency_NN
+	transfers_NNS
+	Shared_NNP Memory_NN Communications_NNPS over_IN RDMA_NNP SMC-R_NNP
+	z/OS_NNP V2R1_NNP
+188_CD
+	SMC-R_NNP
+	amounts_NNS of_IN data_NNS
+	latency_NN
+	SMC-R_NN
+	application_NN
+	code_NN changes_NNS
+	time_NN to_TO value_NN
+189_CD
+190_CD
+	SMC-D_NNP
+191_CD
+	communications_NNS protocol_NN called_VBN Shared_NNP Memory_NN Communications_NNP
+	Direct_NNP Memory_NN Access_NNP SMC-D_NNP
+	SMC-D_NNP
+	SMC-R_NNP
+192_CD
+	communications_NNS
+193_CD
+	Z_NN platform_NN
+	systems_NNS
+194_CD
+	communications_NNS
+	way_NN
+	socket_NN applications_NNS
+	CPU_NNP cost_NN of_IN TCP/IP_NNP processing_NN
+	data_NNS path_NN
+	communications_NNS
+	SMC-D_NNP
+	resources_NNS
+	RoCE_NNP adapters_NNS ,_, PCI_NNP bandwidth_NN ,_, ports_NNS ,_, I/O_NNP slots_NNS ,_, network_NN resources_NNS
+	switches_NNS
+	SMC-D_NNP
+	feature_NN
+	connection_NN
+195_CD
+	information_NN
+	network_NN connectivity_NN features_NNS
+	features_NNS
+	glance_NN
+	page_NN
+196_CD
+197_CD
+	Cryptography_NNP
+	groups_NNS
+	functions_NNS :_: CPACF_NNP and_CC Crypto_NNP Express6S_NNP
+198_CD
+	CPACF_NNP
+	performance_NN
+	latency_NN co-processor_NN
+	encryption_NN
+	message_NN digests_NNS hashes_NNS
+	hardware_NN
+	algorithms_NNS are_VBP AES_NNP ,_, DES/TDES_NNP ,_, SHA-1_NNP ,_, SHA-2_NNP
+	SHA-3_NNP
+	Latency_NN
+	CPACF_NNP
+	CPACF_NNP
+	z13_NN
+	Crypto_NNP Express6S_NNS features_NNS provide_VBP acceleration_NN
+	operations_NNS
+	domains_NNS
+	hardware_NN performs_VBZ AES_NNP ,_, DES/TDES_NNP ,_, RSA_NNP ,_, Elliptic_NNP Curve_NNP ECC_NNP
+	SHA-1_NN
+	SHA-2_NNP
+	operations_NNS
+	APIs_NNS and_CC functions_NNS
+	banking_NN industry_NN
+	Crypto_NNP Express6S_NNP features_NNS
+	FIPS_NNP 140-2_CD Level_NNP
+	PCI_NNP HSM_NNP security_NN requirements_NNS for_IN hardware_NN security_NN modules_NNS
+	offers_NNS
+	AES_NNP performance_NN
+	Random_NNP Number_NNP Generator_NNP ,_, SHA3_NNP support_NN
+	RSA/ECC_NNP acceleration_NN
+199_CD
+200_CD
+	connectivity_NN
+	Sysplex_NNP
+	IBM_NNP Z_NNP clustering_VBG technology_NN
+	applications_NNS
+	servers_NNS
+	servers_NNS
+	Sysplex_NN
+	coupling_NN links_NNS
+201_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+202_CD
+	connectivity_NN
+	Sysplex_NNP
+	use_NN Coupling_NNP Express_NNP Long_NNP Reach_NNP CE_NNP LR_NNP -RRB-_-RRB- Integrated_NNP Coupling_NNP Adapter_NNP Short_NNP Reach_NNP ICA_NNP SR_NNP
+	InfiniBand_NNP IFB_NNP -RRB-_-RRB- technology_NN
+	ICA_NNP SR_NNP and_CC HCA3-O_NNP SR_NNP
+	distances_NNS
+	m_NN
+	CE_NNP LR_NNP and_CC HCA3-O_NNP LR_NNP
+	distances_NNS
+	km_NN between_IN systems_NNS
+203_CD
+204_CD
+	Special-purpose_NN features_NNS and_CC functions_NNS
+	Z_NNP development_NN ,_, IBM_NNP
+	total_NN systems_NNS
+	view_NN
+	Z_NN
+	services_NNS
+	application_NN development_NN ,_, connectivity_NN
+	systems_NNS management_NN
+	configuration_NN
+	platform_NN
+	hardware_NN
+	computing_NN capabilities_NNS
+205_CD
+	range_NN of_IN features_NNS and_CC functions_NNS
+	processor_NN units_NNS
+	tasks_NNS
+	features_NNS take_VBP care_NN
+	rest_NN
+	features_NNS and_CC functions_NNS
+206_CD
+207_CD
+	<ff2>_NNP Data_NNP compression_NN
+	Compression_NNP Coprocessor_NNP CMPSC_NNP
+	coprocessor_NN
+	compression_NN algorithms_NNS
+	Huffman_NNP encoding_NN
+	disk_NN space_NN and_CC memory_NN usage_NN
+208_CD
+	IBM_NNP zEnterprise_NNP ®_NNP Data_NNP Compression_NNP zEDC_NNP -RRB-_-RRB- Express_NNP feature_NN
+	solution_NN
+	CPU_NNP consumption_NN
+	performance_NN
+	tasks_NNS
+	use_NN of_IN storage_NN resources_NNS
+209_CD
+210_CD
+	Secure_NNP Services_NNPS Container_NNP
+	firmware_NN partition_NN
+	production_NN
+	deployment_NN of_IN software_NN appliances_NNS
+211_CD
+212_CD
+	GDPS_NNP Virtual_NNP Appliance_NNP
+	GDPS_NNP Virtual_NNP Appliance_NNP
+	availability_NN
+	disaster_NN recovery_NN solution_NN for_IN Linux_NNP
+	Systems_NNPS
+	availability_NN and_CC time-to-value_NN
+213_CD
+	Dynamic_NNP Partition_NNP Manager_NNP DPM_NNP
+214_CD
+	DPM_NNP
+	management_NN interface_NN
+	Z_NNP hardware_NN
+	infrastructure_NN
+	I/O_NNP management_NN
+	Linux_NNP
+	Systems_NNPS environments_NNS
+215_CD
+	Guarded_NNP Storage_NNP Facility_NNP GSF_NNP
+216_CD
+	garbage_NN collection_NN ,_, Guarded_NNP Storage_NNP Facility_NNP
+	architecture_NN
+	enterprise_NN scale_NN Java_NNP applications_NNS
+	pause_NN for_IN garbage_NN collection_NN
+	heaps_NNS
+217_CD
+	Instruction_NNP Execution_NNP Protection_NNP Facility_NNP IEPF_NNP
+218_CD
+	Instruction_NNP Execution_NNP Protection_NNP
+	hardware_NN function_NN
+	z14_NNS
+	software_NN like_IN IBM_NNP Language_NNP Environment_NNP ®_NN
+	memory_NN regions_NNS for_IN example_NN
+	heap_NN
+	security_NN of_IN programs_NNS
+	Z_NN
+	attacks_NNS
+219_CD
+	multithreading_NN SMT_NNP
+220_CD
+	SMT_NNP
+	threads_NNS
+	core_NN
+	throughput_NN
+	operating_NN system_NN with_IN SMT_NNP support_NN
+	work_NN
+	thread_NN
+221_CD
+	zIIP_NNP
+222_CD
+223_CD
+	IFL_NNP
+224_CD
+	New_NNP
+	SAP_NNP engines_NNS
+	SMT_NNP
+225_CD
+226_CD
+	IBM_NNP z_SYM Integrated_NNP Information_NNP Processor_NNP zIIP_NNP
+	z/OS_NNP
+	workloads_NNS
+	IBM_NNP Java_NNP virtual_JJ machine_NN JVM_NNP
+	XML_NNP System_NNP Services_NNPS
+	others_NNS
+227_CD
+	Chapter_NN
+	base_NN
+	trust_NN economy_NN
+228_CD
+	Single-instruction_NN
+	SIMD_NNP
+229_CD
+	SIMD_NNP
+	instructions_NNS
+	optimization_NN of_IN code_NN
+	models_NNS and_CC business_NN analytics_NNS vector_NN processing_NN
+	set_NN of_IN SIMD_NNP instructions_NNS
+	type_NN
+	computing_NN and_CC vector_NN processing_NN
+	amount_NN of_IN code_NN
+	computations_NNS with_IN integer_NN ,_, string_NN ,_, character_NN
+	point_NN data_NNS types_NNS
+230_CD
+231_CD
+	Dynamic_NNP memory_NN relocation_NN
+	support_NN of_IN Enhanced_NNP Drawer_NNP Availability_NNP EDA_NNP
+	Drawer_NNP Replacement_NNP CDR_NNP
+	technology_NN
+	algorithm_NN
+	memory_NN between_IN CPC_NNP drawers_NNS
+	performance_NN
+	operating_NN system_NN
+232_CD
+	Coupling_NN
+233_CD
+	sysplex_NN
+	Data_NNP sharing_NN and_CC serialization_NN functions_NNS
+	coupling_NN facility_NN
+	coupling_NN link_NN network_NN
+	infrastructure_NN
+	production_NN workload_NN
+	set_NN of_IN data_NNS
+	z/OS_NNP system_NN images_NNS
+234_CD
+	z14_NN features_NNS in_IN Chapter_NN
+	features_NNS and_CC functions_NNS
+	page_NN
+	Chapter_NNP
+	Strengths_NNS
+	platform_NN
+	page_NN
+235_CD
+236_CD
+	Capacity_NN on_IN demand_NN and_CC performance_NN
+	deployment_NN of_IN processor_NN resources_NNS
+	capacity_NN on_IN demand_NN
+	function_NN allows_VBZ users_NNS
+	system_NN capacity_NN
+	function_NN helps_VBZ companies_NNS
+	business_NN requirements_NNS with_IN flexibility_NN
+	granularity_NN
+	capacity_NN
+	improvements_NNS in_IN processor_NN chip_NN design_NN
+	instructions_NNS
+	caches_NNS
+237_CD
+	footprint_NN
+	z14_NN
+238_CD
+	%_NN
+239_CD
+	capacity_NN
+	z13_NN
+	system_NN
+	%_NN more_JJR capacity_NN
+	system_NN
+240_CD
+	details_NNS
+	Capacity_NN on_IN demand_NN
+	page_NN
+	performance_NN
+	page_NN
+241_CD
+	Reliability_NN ,_, availability_NN
+242_CD
+	serviceability_NN
+	quality_NN of_IN service_NN
+	reliability_NN
+	availability_NN
+	serviceability_NN
+243_CD
+	RAS_NNP
+	Z_NNP platforms_NNS
+	RAS_NNP strategy_NN
+	building-block_NN approach_NN
+	client_NN requirements_NNS
+	operation_NN
+244_CD
+	RAS_NNP building_NN blocks_NNS
+245_CD
+	Error_NN prevention_NN
+246_CD
+	Error_NN detection_NN
+247_CD
+	Recovery_NNP
+248_CD
+	Problem_NNP determination_NN
+249_CD
+	<ff2>_NNP Service_NNP structure_NN
+250_CD
+	Change_NNP management_NN
+251_CD
+	Integrated_NNP Facility_NNP for_IN Linux_NNP IFL_NNP
+	Linux_NNP
+	Systems_NNPS
+	z/VM_NNP or_CC KVM_NNP hypervisor_NN in_IN support_NN of_IN Linux_NNP
+252_CD
+253_CD
+	Variations_NNS
+	performance_NN
+	workload_NN type_NN
+254_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+255_CD
+256_CD
+	Measurement_NNP
+257_CD
+	Analysis_NNP
+	RAS_NNP design_NN objective_NN
+	change_NN
+	product_NN releases_NNS
+	RAS_NNP functionality_NN
+	sources_NNS of_IN outages_NNS
+258_CD
+	information_NN on_IN RAS_NNP
+	Reliability_NN ,_, availability_NN
+	serviceability_NN
+	page_NN
+259_CD
+260_CD
+	Software_NNP support_NN
+	range_NN of_IN IBM_NNP
+	software_NN vendor_NN ISV_NNP -RRB-_-RRB- software_NN solutions_NNS
+	range_NN
+	batch_NN
+	transaction_NN processing_NN OLTP_NNP -RRB-_-RRB- environments_NNS
+	IBM_NNP Customer_NN Information_NNP Control_NNP System_NNP IBM_NNP CICS_NNP ®_NN
+	IBM_NNP Information_NNP Management_NNP System_NNP IBM_NNP IMS_NNP
+	IBM_NNP DB2_NNP
+	web_NN services_NNS in_IN addition_NN to_TO others_NNS
+261_CD
+262_CD
+	Java_NNP platform_NN
+	Linux_NNP
+263_CD
+	standards_NNS applications_NNS
+264_CD
+	WebSphere_NNP
+	IBM_NNP MobileFirst_NNP ™_NNP Platform_NNP Foundation_NNP
+265_CD
+	application_NN development_NN
+266_CD
+	IBM_NNP z/OS_NNPS Connect_NNP Enterprise_NNP Edition_NNP
+	operating_NN systems_NNS
+267_CD
+	z/OS_NNP Version_NNP 2_CD Release_NNP
+268_CD
+	z/OS_NNP Version_NNP 2_CD Release_NNP
+	PTFs_NNS exploitation_NN
+269_CD
+	z/OS_NNP Version_NNP 2_CD Release_NNP
+	PTFs_NNS exploitation_NN
+270_CD
+	z/OS_NNP Version_NNP 1_CD Release_NNP
+	PTFs_NNS limited_JJ exploitation_NN
+	support_NN
+271_CD
+	z/VM_NNP Version_NNP 6_CD Release_NNP
+	PTFs_NNS compatibility_NN and_CC exploitation_NN support_NN
+272_CD
+	z/VM_NNP Version_NNP 6_CD Release_NNP
+	PTFs_NNS compatibility_NN and_CC exploitation_NN support_NN
+273_CD
+	z/VSE_NNP Version_NNP 6_CD Release_NNP
+274_CD
+	PTFs_NNPS
+	z/VSE_NNP Version_NNP 6_CD Release_NNP
+275_CD
+	PTFs_NNPS
+	z/VSE_NNP Version_NNP 5_CD Release_NNP
+276_CD
+	PTFs_NNPS
+	z/TPF_NNP Version_NNP 1_CD Release_NNP 1_CD compatibility_NN support_NN
+277_CD
+	Linux_NN
+	Systems_NNPS
+278_CD
+	SUSE_NNP :_: SUSE_NNP Linux_NNP Enterprise_NNP Server_NNP
+	Red_NNP Hat_NNP :_: Red_NNP Hat_NNP Enterprise_NNP Linux_NNP RHEL_NNP
+	RHEL7_NNP --_: Ubuntu_NNP
+279_CD
+	LTS_NNP
+	KVM_NNP for_IN IBM_NNP
+	FixPack_NNP toleration_NN mode_NN
+280_CD
+	KVM_NNP hypervisor_NN
+	Linux_NNP distributions_NNS
+281_CD
+	SLES-12_NN
+282_CD
+	Ubuntu_NNP 16.04_CD LTS_NNP
+	service_NN levels_NNS
+	toleration_NN tests_NNS
+	distribution_NN levels_NNS
+	IBM_NNP
+	Linux_NNP environments_NNS
+283_CD
+	information_NN
+	software_NN support_NN
+	Chapter_NN
+	system_NN support_NN
+	page_NN
+284_CD
+	Chapter_NN
+	base_NN
+	trust_NN economy_NN
+	<_NN
+285_CD
+286_CD
+	IBM_NNP compilers_NNS
+	Compilers_NNS
+	knowledge_NN
+	system_NN architecture_NN
+	code_NN generation_NN
+	compilers_NNS
+	maximum_NN benefit_NN
+	platform_NN 's_POS capabilities_NNS
+	IBM_NNP compilers_NNS
+	architecture_NN enhancements_NNS
+	instruction_NN
+	value_NN
+287_CD
+	IBM_NNP Enterprise_NNP COBOL_NNP for_IN z/OS_NNP and_CC IBM_NNP Enterprise_NNP PL/I_NNP for_IN z/OS_NNP ,_, decades_NNS of_IN IBM_NNP experience_NN in_IN application_NN development_NN
+	COBOL_NNP and_CC PL/I_NNP with_IN web_NN services_NNS ,_, XML_NNP
+	Java_NNP
+	interoperability_NN
+	investments_NNS
+	applications_NNS
+	infrastructure_NN
+288_CD
+	z/OS_NNP ,_, XL_NNP C/C_NNP
+	XL_NNP C/C_NNP +_NNP +_NNP for_IN Linux_NNP
+	Systems_NNPS
+	business_NN applications_NNS
+	C_NNP or_CC C++_NNP
+	application_NN performance_NN
+	developer_NN productivity_NN
+	compilers_NNS
+	C++_NNP source_NN code_NN
+	code_NN
+	Z_NN architecture_NN
+	transformation_NN
+	thanks_NNS
+	optimizations_NNS
+	functions_NNS
+	libraries_NNS
+	language_NN constructs_NNS
+	system_NN programming_NN and_CC boost_NN application_NN runtime_NN performance_NN
+289_CD
+	Compilers_NNS
+	COBOL_NNP ,_, PL/I_NNP
+	z/OS_NNP
+	XL_NNP C/C_NNP +_NNP +_NN
+	IBM_NNP
+	point_NN registers_NNS
+	memory_NN
+	computations_NNS
+	compilers_NNS
+	advantage_NN of_IN hardware_NN enhancements_NNS
+	application_NN performance_NN
+	CPU_NNP usage_NN
+	operating_NN costs_NNS
+290_CD
+	IBM_NNP
+	release-to-release_NN improvements_NNS for_IN Java_NNP
+	cryptography_NN acceleration_NN
+	z14_NN
+	improvements_NNS in_IN throughput_NN per_IN core_NN
+	garbage_NN collection_NN capability_NN provides_VBZ improvements_NNS in_IN throughput_NN per_IN core_NN
+	Java_NN response_NN times_NNS
+	improvements_NNS
+	throughput_NN
+	Java_NNP applications_NNS
+	garbage_NN collection_NN mode_NN
+	option_NN
+291_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+292_CD
+	Copyright_NNP IBM_NNP Corp._NNP
+	rights_NNS
+293_CD
+	Chapter_NN
+294_CD
+	IBM_NNP z14_CD hardware_NN overview_NN
+	chapter_NN
+	description_NN
+	hardware_NN elements_NNS
+	z14_NN
+295_CD
+	topics_NNS
+	Models_NNS
+296_CD
+	paths_NNS
+	Frames_NNS
+297_CD
+298_CD
+	CPC_NNP drawers_NNS
+299_CD
+	I/O_NNP system_NN structure_NN
+	<ff2>_NNP Power_NNP
+300_CD
+	fsa_NN
+301_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+302_CD
+	Models_NNS
+303_CD
+	paths_NNS
+	z14_NN
+	machine_NN type_NN MT_NNP
+	processor_NN complex_NN CPC_NNP
+	models_NNS
+	M02_NNP ,_, M03_NNP ,_, M04_NNP
+304_CD
+	M05_NNP
+305_CD
+	;-RRB-_NNP
+	models_NNS
+	processor_NN unit_NN cores_NNS
+	processor_NN unit_NN single_JJ chip_NN modules_NNS
+	CPC_NNP drawer_NN
+	processor_NN units_NNS ,_, system_NN assist_VB processors_NNS SAPs_NNS
+	firmware_NN processor_NN IFP_NNP
+	system_NN
+	models_NNS
+306_CD
+	Table_NNP
+	summary_NN
+	number_NN
+	processor_NN units_NNS ,_, SAPs_NNS
+	processor_NN units_NNS
+	models_NNS
+	explanation_NN of_IN processor_NN unit_NN characterization_NN
+	PU_NNP characterization_NN
+	page_NN
+307_CD
+	Table_NNP
+	model_NN summary_NN machine_NN type_NN
+308_CD
+	offers_NNS 269_CD capacity_NN levels_NNS
+	capacity_NN levels_NNS
+	number_NN
+	processors_NNS CPs_NNS
+	subcapacity_NN models_NNS
+	CPs_NNS
+	model_NN
+	Integrated_NNP Facility_NNP for_IN Linux_NNP IFL_NNP
+	Internal_NNP Coupling_NNP Facility_NNP ICF_NNP -RRB-_-RRB- configurations_NNS
+309_CD
+310_CD
+	M05_NNP
+	order_NN only_RB model_NN
+	M01_NNP ,_, M02_NNP ,_, M03_NNP
+	M05_NN
+311_CD
+312_CD
+	Model_NNP CPC_NNP drawers_NNS
+313_CD
+	processor_NN units_NNS
+314_CD
+	Standard_NNP SAPs_NNPS
+315_CD
+316_CD
+	Integrated_NNP firmware_NN processor_NN
+	M01_NNP
+317_CD
+	M02_NNP
+318_CD
+	M03_NNP
+319_CD
+	M04_NNP
+320_CD
+	M05_NNP
+321_CD
+	Chapter_NN
+	IBM_NNP z14_CD hardware_NN overview_NN
+	<_NN /_NN
+322_CD
+	>_NN
+	Figure_NN
+	upgrade_NN paths_NNS
+	z14_NN
+323_CD
+	Figure_NN
+324_CD
+	upgrade_NN paths_NNS
+	upgrades_NNS
+	Chapter_NN
+	Strengths_NNS
+	platform_NN
+	page_NN
+	CPs_NNS ,_, IFLs_NNS ,_, ICFs_NNS
+	Systems_NNPS Integrated_NNP Information_NNP Processors_NNP zIIPs_NNP
+	SAPs_NNS
+	processor_NN unit_NN upgrades_NNS
+	processor_NN units_NNS
+	time_NN
+325_CD
+	request_NN
+	configuration_NN
+	hardware_NN upgrade_NN
+	CPC_NNP drawers_NNS
+	capacity_NN
+	CPC_NNP drawers_NNS
+	model_NN to_TO model_NN
+	upgrade_NN
+	system_NN
+326_CD
+	Spare_NNP processor_NN units_NNS
+	processor_NN units_NNS
+	processor_NN units_NNS
+	z14_NN
+	event_NN
+	processor_NN unit_NN failure_NN
+	processor_NN units_NNS
+	characteristics_NNS
+	processor_NN unit_NN
+327_CD
+	Frames_NNS
+328_CD
+	system_NN
+	Frame_NN
+	Z_NN Frame_NN
+329_CD
+	system_NN
+	frames_NNS
+	z14_NN
+	number_NN of_IN PCIe_NNP drawers_NNS
+	number_NN of_IN I/O_NNP features_NNS
+	system_NN
+	combination_NN
+	PCIe_NNP I/O_NNP drawers_NNS
+	PCIe_NNP I/O_NNP drawers_NNS
+330_CD
+	addition_NN
+	MES_NNP orders_NNS
+	options_NNS
+	fiber_NN optic_NN and_CC copper_NN cables_NNS
+	I/O_NNP and_CC power_NN
+331_CD
+	options_NNS
+	Top_NNP Exit_NN Power_NN
+	ff2_NN
+332_CD
+	Top_NNP Exit_NN I/O_NNP
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+333_CD
+	flexibility_NN
+	system_NN
+334_CD
+	cables_NNS
+	floor_NN
+	air_NN flow_NN
+	system_NN
+335_CD
+	z14_NN models_NNS support_VBP installation_NN
+	floor_NN
+	floor_NN environments_NNS
+	models_NNS
+	floor_NN option_NN
+336_CD
+	Figure_NN
+	view_NN
+	frames_NNS
+	z14_NN system_NN
+	maximum_NN five_CD PCIe_NNP I/O_NNP drawers_NNS
+	I/O_NNP and_CC power_NN cable_NN options_NNS
+337_CD
+	Figure_NN
+	view_NN
+	platform_NN
+338_CD
+	PCIe_NNP I/O_NNP
+	Figure_NN
+	view_NN
+	frames_NNS
+	platform_NN
+	exit_NN I/O_NNP and_CC power_NN cable_NN options_NNS
+339_CD
+	Figure_NN
+	view_NN
+	platform_NN
+340_CD
+	PCIe_NNP I/O_NNP
+	Chapter_NN
+	IBM_NNP z14_CD hardware_NN overview_NN
+	<_NN /_NN
+341_CD
+	>_NN
+342_CD
+	CPC_NNP drawers_NNS
+	CPC_NNP drawer_NN system_NN
+	drawers_NNS
+	Frame_NN
+343_CD
+	CPC_NNP drawer_NN
+344_CD
+	elements_NNS
+	Single_NNP chip_NN modules_NNS
+345_CD
+	PU_NNP single_JJ chip_NN modules_NNS
+	processor_NN unit_NN cores_NNS
+346_CD
+	storage_NN controller_NN single_JJ chip_NN module_NN
+	total_NN
+	MB_NNP L4_NNP cache_NN
+347_CD
+	Single_NNP chip_NN modules_NNS
+	chip_NN modules_NNS
+	page_NN
+	Table_NNP
+	page_NN
+	model_NN summary_NN
+	relation_NN
+	number_NN of_IN CPC_NNP drawers_NNS and_CC number_NN
+	processor_NN units_NNS
+348_CD
+	Memory_NN
+349_CD
+	minimum_NN
+	GB_NNP
+	maximum_NN
+	TB_NN of_IN memory_NN
+	GB_NNP HSA_NNP
+	client_NN use_NN
+	Table_NNP
+	page_NN
+	details_NNS
+350_CD
+	Either_NNP
+	memory_NN DIMMs_NNS
+	CPC_NNP drawer_NN
+351_CD
+	Fanouts_NNP
+352_CD
+	CPC_NNP drawer_NN
+	PCIe_NNP Gen3_NNP fanout_NN adapters_NNS
+	PCIe_NNP I/O_NNP drawers_NNS and_CC ICA_NNP SR_NNP coupling_NN links_NNS
+	InfiniBand_NNP fanout_NN adapters_NNS
+	InfiniBand_NNP
+	InfiniBand_NNP coupling_NN links_NNS
+353_CD
+	fanout_NN
+	ports_NNS
+	PCIe_NNP 16_CD GBps_NNP I/O_NNP fanout_NN
+	domain_NN
+	PCIe_NNP I/O_NNP drawers_NNS
+354_CD
+	ICA_NNP SR_NNP two-port_JJ PCIe_NNP fanout_NN for_IN coupling_NN links_NNS two_CD links_NNS
+	GBps_NNS
+355_CD
+	InfiniBand_NNP fanout_NN for_IN coupling_NN links_NNS two_CD ports_NNS
+	GBps_NNS
+	LR_NNP 1x_CD InfiniBand_NNP fanout_NN for_IN coupling_NN links_NNS four_CD ports_NNS
+	Gbps_NNS
+356_CD
+	Converter_NNP Assemblies_NNPS DCAs_NNS
+	power_NN
+	CPC_NNP drawer_NN
+357_CD
+	Loss_NN
+	DCA_NNP
+	power_NN
+	power_NN requirements_NNS
+	drawer_NN
+	DCAs_NNS
+358_CD
+	Flexible_NNP Support_NN Processors_NNP FSPs_NNS
+	interfaces_NNS
+359_CD
+	management_NN network_NN
+360_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+361_CD
+	Figure_NN
+	CPC_NNP drawers_NNS
+	communications_NNS links_NNS
+	L4_NNP shared_VBD caches_NNS
+	z14_NN
+	MB_NNP of_IN L4_NNP cache_NN per_IN CPC_NNP drawer_NN
+362_CD
+	Figure_NN
+363_CD
+	CPC_NNP drawer_NN communication_NN topology_NN
+	design_NN
+	processor_NN unit_NN and_CC storage_NN control_NN
+	system_NN
+	IBM_NNP Processor_NNP Resource/Systems_NNP Manager_NNP ™_NNP PR/SM_NNP
+	facility_NN
+	multiprocessor_NNS SMP_NNP -RRB-_-RRB- system_NN
+364_CD
+365_CD
+	Single_NNP chip_NN modules_NNS
+	CPC_NNP drawer_NN
+	PU_NNP single_JJ chip_NN modules_NNS SCMs_NNS
+	models_NNS
+	PU_NNP SCMs_NNP for_IN model_NN
+	storage_NN control_NN SC_NNP -RRB-_-RRB- SCM_NNP
+	PU_NNP SCM_NNP
+	PU_NNP cores_NNS
+	L1_NNP ,_, L2_NNP
+	caches_NNS
+	SC_NNP SCM_NNP
+	L4_NNP cache_NN
+366_CD
+	Figure_NN
+	page_NN
+	cluster_NN structure_NN
+	model_NN
+	PU_NNP SCMs_NNP
+	SC_NNP SCM_NNP
+	connections_NNS
+	models_NNS
+	M04_NNP
+	PU_NNP SCM_NNP
+	Cluster_NN
+	number_NN of_IN PU_NNP cores_NNS
+	PU_NNP SCMs_NNP
+	models_NNS
+367_CD
+	Chapter_NN
+	IBM_NNP z14_CD hardware_NN overview_NN
+368_CD
+	Figure_NN
+369_CD
+	M05_NNP CPC_NNP drawer_NN structure_NN
+	CPC_NNP drawer_NN configurations_NNS
+	processor_NN units_NNS
+	models_NNS employ_VBP CPC_NNP drawers_NNS
+	processor_NN units_NNS
+	model_NN
+	CPC_NNP drawers_NNS
+	processor_NN units_NNS
+	total_NN
+	processor_NN units_NNS
+	use_NN
+	storage_NN control_NN SCM_NNP
+	MB_NNP shared_VBD eDRAM_NNP cache_NN ,_, interface_NN logic_NN
+	PU_NNP SCM_NNP
+	SMP_NNP fabric_NN logic_NN
+	SC_NNP SMC_NNP
+	MB_NNP L4_NNP cache_NN
+	PU_NNP cores_NNS
+	CPC_NNP drawer_NN
+	amount_NN of_IN cache_NN
+	total_NN
+	GB_NNP of_IN cache_NN
+	CPC_NNP drawers_NNS
+	SMP_NNP scalability_NN
+	workloads_NNS
+370_CD
+371_CD
+	Processor_NNP unit_NN
+	Processor_NNP unit_NN PU_NNP
+	term_NN
+	IBM_NNP z/Architecture_NNP processor_NN
+	PU_NNP
+	processor_NN
+372_CD
+	attributes_NNS
+	instructions_NNS
+	clock_NN cycle_NN
+373_CD
+	instructions_NNS
+	execution_NN per_IN clock_NN cycle_NN
+374_CD
+	Instructions_NNS
+	PU_NNP
+375_CD
+	high-frequency_NN ,_, low-latency_NN
+	pipeline_NN
+	performance_NN
+	range_NN of_IN workloads_NNS
+376_CD
+	Memory_NN accesses_NNS
+377_CD
+	instruction_NN order_NN out-of-order_JJ operand_NN
+378_CD
+	instructions_NNS
+	pipeline_NN
+	numbers_NNS of_IN steps_NNS
+379_CD
+	types_NNS
+	instructions_NNS
+	instructions_NNS
+	execution_NN
+	moment_NN
+	number_NN of_IN decodes_NNS and_CC completions_NNS per_IN cycle_NN
+380_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+381_CD
+382_CD
+	PU_NNP cache_NN
+	cache_NN
+	PU_NNP core_NN
+383_CD
+	way_NN
+	PU_NNP core_NN
+	L1_NN cache_NN pr8_CD KB_NNP cache_NN
+384_CD
+	instructions_NNS
+	KB_NNP cache_NN for_IN data_NNS
+385_CD
+	PU_NNP core_NN
+	L2_NN cache_NN
+	MB_NNP D-cache_NNP ``_`` D_NNP
+	data_NNS
+386_CD
+	MB_NNP
+	I-cache_NNP
+	instruction_NN
+387_CD
+	PU_NNP SCM_NNP
+	MB_NNP L3_NNP cache_NN
+	PU_NNP cores_NNS
+	SCM_NNP
+388_CD
+	L3_NNP cache_NN uses_VBZ eDRAM_NNP
+	cache_NN implementation_NN optimizes_VBZ system_NN performance_NN for_IN high-frequency_NN processors_NNS
+	cache_NN improvements_NNS
+	Translation/TLB2_NNP design_NN ,_, pipeline_NN optimizations_NNS
+	branch_NN prediction_NN
+389_CD
+390_CD
+	PU_NNP
+	Hardware_NNP fault_NN detection_NN
+	design_NN
+	PU_NNP
+	function_NN
+	reliability_NN and_CC availability_NN
+	mainframe_NN integrity_NN
+391_CD
+392_CD
+	hardware_NN
+	hardware_NN
+	PU_NNP core_NN
+	key_NN and_CC hash_NN sizes_NNS
+	Advanced_NNP Encryption_NNP Standard_NNP AES_NNP
+	Secure_NNP Hash_NNP Algorithm_NNP SHA_NNP
+	support_NN
+	conversion_NN
+	hardware_NN
+	processor_NN type_NN
+	example_NN CP_NNP ,_, IBM_NNP zIIP_NNP
+	IFL_NNP
+393_CD
+394_CD
+	Software_NNP support_NN
+	PUs_NNS
+	compatibility_NN
+	software_NN for_IN z/Architecture_NNP
+	Instruction_NNP Set_NNP Architecture_NNP ISA_NNP
+	functionality_NN and_CC performance_NN
+	hardware_NN instructions_NNS
+	code_NN generation_NN and_CC execution_NN
+395_CD
+	CP_NNP Assist_NNP for_IN Cryptographic_NNP Functions_NNS CPACF_NNP
+396_CD
+	Compression_NNP call_NN CMPSC_NNP
+397_CD
+	Hardware_NN
+	point_NN HDFP_NNP
+398_CD
+399_CD
+	Transactional_NNP Execution_NNP Facility_NNP
+400_CD
+	Runtime_NNP Instrumentation_NNP Facility_NNP
+	Single-instruction_NN
+	SIMD_NNP
+401_CD
+	features_NNS
+	Chapter_NN
+	Strengths_NNS
+	platform_NN
+	page_NN
+402_CD
+403_CD
+	PU_NNP characterization_NN
+	PUs_NNS
+	increments_NNS
+	system_NN functions_NNS
+	configuration_NN
+	PU_NNP
+	types_NNS during_IN system_NN initialization_NN
+	reset_NN POR_NNP -RRB-_-RRB- operation_NN
+	PUs_NNS
+	POR_NNP
+404_CD
+	process_NN
+405_CD
+	Dynamic_NNP Processor_NNP Unit_NNP Reassignment_NNP
+	PU_NNP
+	PU_NNP
+406_CD
+	Central_NNP processor_NN CP_NNP
+407_CD
+408_CD
+	Integrated_NNP Facility_NNP for_IN Linux_NNP IFL_NNP -RRB-_-RRB- processor_NN
+	Systems_NNPS Integrated_NNP Information_NNP Processor_NNP zIIP_NNP
+409_CD
+	Internal_NNP Coupling_NNP Facility_NNP ICF_NNP
+410_CD
+	<ff2>_NNP System_NNP assist_VB processor_NN SAP_NNP
+411_CD
+	Integrated_NNP firmware_NN processor_NN IFP_NNP
+412_CD
+	Chapter_NN
+	IBM_NNP z14_CD hardware_NN overview_NN
+413_CD
+	CP_NNP
+	zIIP_NNP
+	zIIP_NNP
+	zIIPs_NNS
+	CP_NNP
+	system_NN
+	LPAR_NNP definition_NN
+	ratio_NN
+	example_NN
+	system_NN
+	CPs_NNS
+	maximum_NN
+	zIIPs_NNS
+	LPAR_NNP definition_NN
+	system_NN
+	CPs_NNS
+	zIIPs_NNS
+	configuration_NN
+	CP_NNP
+	zIIPs_NNS
+414_CD
+	PU_NNP
+	type_NN
+	type_NN
+415_CD
+416_CD
+	Dynamic_NNP Processor_NNP Unit_NNP Reassignment_NNP
+	process_NN
+	conversions_NNS
+	operation_NN
+	system_NN
+417_CD
+418_CD
+	Memory_NN
+	Maximum_NNP physical_JJ memory_NN size_NN
+	number_NN of_IN CPC_NNP drawers_NNS
+	system_NN
+	system_NN
+	memory_NN
+	part_NN
+	memory_NN
+	array_NN
+	memory_NN RAIM_NNP -RRB-_-RRB- design_NN
+	configuration_NN results_NNS
+	TB_NN
+	memory_NN per_IN CPC_NNP drawer_NN
+	TB_NN
+	system_NN
+	hardware_NN system_NN area_NN HSA_NNP
+	z14_NN
+	amount_NN of_IN memory_NN 192_CD GB_NNP
+	client_NN memory_NN
+	maximum_NN amount_NN
+	memory_NN
+	number_NN
+	dependencies_NNS
+	memory_NN granularity_NN
+419_CD
+	Table_NNP 2-2_CD lists_NNS the_DT maximum_NN memory_NN sizes_NNS
+	model_NN
+420_CD
+	Table_NNP
+421_CD
+	memory_NN per_IN model_NN
+	systems_NNS
+	granularity_NN for_IN memory_NN orders_NNS
+	GB_NNP
+	Table_NNP
+	memory_NN increments_NNS
+	memory_NN
+422_CD
+	Table_NNP
+	memory_NN increments_NNS
+423_CD
+	zIIPs_NNS :_: <ff2>_NNS The_DT addition_NN of_IN ICFs_NNS ,_, IFLs_NNS ,_, zIIPs_NNS
+	SAP_NNP
+	z14_NN
+424_CD
+	system_NN
+	capacity_NN
+	MSU_NNP rating_NN
+425_CD
+426_CD
+	Model_NNP CPC_NNP drawers_NNS Maximum_NNP memory_NN
+427_CD
+	TB_NN
+428_CD
+	TB_NN
+429_CD
+	TB_NN
+430_CD
+	TB_NN
+431_CD
+	TB_NN
+	Important_NNP
+	z/OS_NNP V2R3_NNP
+	minimum_NN
+	GB_NN of_IN memory_NN 2_CD GB_NNP of_IN memory_NN
+432_CD
+	z/VM_NNP
+	z/OS_NNS
+	TB_NN of_IN memory_NN
+	LPAR_NNP
+433_CD
+434_CD
+	Memory_NN increment_NN Memory_NN range_NN GB_NNP
+435_CD
+436_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+437_CD
+	memory_NN
+438_CD
+	ways_NNS
+	CPC_NNP drawer_NN
+	minimum_NN
+	GB_NNP
+	memory_NN
+439_CD
+	GB_NNP
+	operating_NN system_NN
+440_CD
+	CPC_NNP drawer_NN
+	memory_NN
+	memory_NN
+441_CD
+	Internal_NNP Code_NNP load_NN
+442_CD
+	Memory_NN upgrades_NNS
+443_CD
+	memory_NN capacity_NN
+	memory_NN
+	cards_NNS
+	cards_NNS
+	capacity_NN
+	CPC_NNP drawer_NN
+	memory_NN
+444_CD
+	LPAR_NNP
+	PR/SM_NNP
+	processor_NN units_NNS PUs_NNS
+	memory_NN
+	LPAR_NNP
+	CPC_NNP drawer_NN
+	PR/SM_NNP
+	memory_NN resources_NNS
+	CPC_NNP drawer_NN
+	example_NN
+	PUs_NNP span_NN
+	CPC_NNP drawer_NN ,_, PR/SM_NNP
+	memory_NN
+	set_NN of_IN CPC_NNP drawers_NNS
+	memory_NN
+	CPC_NNP drawers_NNS
+445_CD
+	matter_NN which_WDT CPC_NNP drawer_NN the_DT memory_NN
+	LPAR_NNP has_VBZ access_NN
+	memory_NN
+	CPC_NNP drawer_NN structure_NN
+	SMP_NNP system_NN
+	PUs_NNS have_VBP access_NN
+	memory_NN
+446_CD
+	memory_NN upgrade_NN
+	change_NN
+	memory_NN cards_NNS
+	memory_NN card_NN change_NN
+	use_NN
+	Enhanced_NNP Drawer_NNP Availability_NNP EDA_NNP
+	CPC_NNP drawer_NN system_NN
+	CPC_NNP drawer_NN
+	repair_NN with_IN EDA_NNP
+	description_NN of_IN EDA_NNP
+447_CD
+	IBM_NNP z14_CD Technical_NNP Guide_NNP
+448_CD
+	model_NN upgrades_NNS
+	addition_NN
+	CPC_NNP drawer_NN
+	minimum_NN usable_JJ memory_NN increment_NN 256_CD GB_NNP
+	system_NN
+	upgrade_NN
+	CPC_NNP drawer_NN
+	operation_NN
+	memory_NN
+	drawer_NN
+449_CD
+450_CD
+	memory_NN upgrade_NN
+	memory_NN
+	memory_NN
+	Internal_NNP Code_NNP Configuration_NNP Control_NNP LICCC_NNP
+451_CD
+	plan_NN ahead_RB memory_NN function_NN
+452_CD
+	memory_NN upgrades_NNS
+	system_NN pre-plugged_JJ memory_NN
+	target_NN configuration_NN
+	memory_NN
+	LICCC_NNP order_NN
+	client_NN
+453_CD
+	array_NN
+454_CD
+	memory_NN
+	RAIM_NNP technology_NN
+	memory_NN subsystem_NN
+	essence_NN
+	N_NNP +1_CD design_NN
+	RAIM_NNP design_NN
+	failures_NNS
+	access_NN memory_NN DRAM_NNP
+	sockets_NNS ,_, memory_NN channels_NNS
+	memory_NN modules_NNS DIMMs_NNS
+	RAIM_NNP design_NN
+	Memory_NN Controller_NNP Unit_NNP MCU_NNP
+	processor_NN chip_NN
+	memory_NN channels_NNS
+	DIMM_NNP per_IN channel_NN
+	channel_NN
+	MCU_NNP enables_VBZ memory_NN
+	RAIM_NNP
+	technology_NN
+	reliability_NN ,_, availability_NN
+	serviceability_NN RAS_NNP -RRB-_-RRB- capabilities_NNS
+	area_NN of_IN error_NN correction_NN
+	Bit_NN ,_, lane_NN ,_, DRAM_NNP ,_, DIMM_NNP ,_, socket_NN
+	memory_NN channel_NN failures_NNS
+	types_NNS
+	failures_NNS
+455_CD
+456_CD
+457_CD
+458_CD
+	Memory_NN increment_NN Memory_NN range_NN GB_NNP
+	Chapter_NN
+	IBM_NNP z14_CD hardware_NN overview_NN
+	<_NN /_NN
+459_CD
+	>_NN
+460_CD
+	Hardware_NN system_NN area_NN
+	HSA_NNP
+	area_NN of_IN memory_NN
+	memory_NN
+	HSA_NNP
+	functions_NNS
+	bulk_NN
+	channel_NN subsystem_NN functions_NNS
+	GB_NNP HSA_NNP
+	definitions_NNS or_CC changes_NNS
+	outage_NN situations_NNS
+	need_NN
+	preplanning_NN
+461_CD
+	HSA_NNP
+	I/O_NNP capability_NN
+	default_NN
+	addition_NN and_CC removal_NN
+462_CD
+	features_NNS
+	LPAR_NNP
+	channel_NN subsystem_NN CSS_NNP
+463_CD
+	CSS_NNP
+464_CD
+	Subchannel_NNP set_NN
+465_CD
+	Devices_NNPS
+	number_NN
+	subchannel_NN
+466_CD
+467_CD
+	adapters_NNS
+468_CD
+	I/O_NNP system_NN structure_NN
+	type_NN
+469_CD
+	I/O_NNP infrastructure_NN
+	Generation_NNP
+	infrastructure_NN for_IN PCIe_NNP I/O_NNP drawers_NNS PCIe_NNP Gen3_NNP
+470_CD
+	PCIe_NNP I/O_NNP infrastructure_NN
+471_CD
+	features_NNS
+	PCIe_NNP Gen3_NNP
+	CPC_NNP drawers_NNS
+	GBps_NNS connectivity_NN
+472_CD
+	PCIe_NNP I/O_NNP
+473_CD
+	drawer_NN
+	InfiniBand_NNP I/O_NNP infrastructure_NN
+474_CD
+	features_NNS
+	InfiniBand_NNP fanouts_NNS
+	CPC_NNP drawer_NN support_NN
+	InfiniBand_NNP
+475_CD
+	InfiniBand_NNP
+	coupling_NN links_NNS
+476_CD
+	I/O_NNP features_NNS :_: <ff2>_NNS
+	I/O_NNP feature_NN types_NNS
+477_CD
+	number_NN of_IN PCIe_NNP I/O_NNP drawers_NNS
+478_CD
+	InfiniBand_NNP I/O_NNP drawers_NNS
+479_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+480_CD
+	Figure_NN
+	view_NN
+	I/O_NNP system_NN structure_NN
+481_CD
+	Figure_NN
+482_CD
+	I/O_NNP system_NN structure_NN
+	z14_NN
+	types_NNS for_IN fanout_NN location_NN
+	Figure_NN
+	page_NN
+	front_NN
+483_CD
+	CPC_NNP drawer_NN
+484_CD
+	ICA_NNP SR_NNP
+	HCA3-O_NNP
+	Z_NN platform_NN
+	feature_NN
+485_CD
+	HCA3-O_NNP LR_NNP
+	Z_NN platform_NN
+	feature_NN
+486_CD
+487_CD
+	PCIe_NNP Gen3_NNP
+	HCA3-O_NNP LR_NNP fanout_NN
+	ports_NNS
+	PCIe_NNP Gen3_NNP fanout_NN
+	port_NN
+	fanouts_NNS
+	ports_NNS
+488_CD
+	types_NNS
+489_CD
+	I/O_NNP connectivity_NN support_NN the_DT PCIe_NNP I/O_NNP drawer_NN
+	PCIe_NNP connections_NNS
+	PCIe_NNP I/O_NNP drawers_NNS
+490_CD
+	coupling_NN link_NN connectivity_NN Parallel_JJ Sysplex_NNP and_CC STP_NNP configuration_NN
+	z14_NN
+491_CD
+	link_NN types_NNS
+492_CD
+	ICA_NNP SR_NNP
+493_CD
+	InfiniBand_NNP coupling_NN link_NN
+494_CD
+	InfiniBand_NNP coupling_NN link_NN
+495_CD
+	Coupling_NNP Express_NNP LR_NNP
+	CPC_NNP drawer_NN Figure_NN
+	page_NN
+	PCIe_NNP Gen3_NNP
+	ICA_NNP PCIe_NNP coupling_NN fanouts_NNS
+	InfiniBand_NNP coupling_NN fanouts_NNS
+	CPC_NNP drawer_NN
+	coupling_NN fanouts_VBZ support_NN Parallel_JJ Sysplex_NNP connectivity_NN
+496_CD
+	systems_NNS
+	CPC_NNP drawers_NNS
+	locations_NNS
+	PCIe_NNP Gen3_NNP fanouts_NNS
+	drawers_NNS
+	availability_NN
+	configuration_NN
+	paths_NNS maintain_VBP access_NN
+	I/O_NNP devices_NNS
+	disks_NNS and_CC networks_NNS
+497_CD
+	Chapter_NN
+	IBM_NNP z14_CD hardware_NN overview_NN
+	<_NN
+498_CD
+	Figure_NN
+	CPC_NNP drawer_NN
+499_CD
+	view_NN
+	PCIe_NNP I/O_NNP drawer_NN see_VB Figure_NN
+	drawer_NN
+	I/O_NN features_NNS
+	sides_NNS
+	drawer_NN
+	slots_NNS
+	switch_NN cards_NNS
+	front_NN
+	rear_NN
+	features_NNS
+	I/O_NNP domains_NNS
+	features_NNS
+	type_NN FICON_NNP Express16S_NNPS +_NN ,_, FICON_NNP Express16S_NNS ,_, FICON_NNP Express8S_NNS ,_, OSA-Express6S_NN ,_, OSA-Express5S_NN ,_, OSA-Express4S_NN ,_, Crypto_NNP Express6S_NNP ,_, Crypto_NNP Express5S_NNP ,_, zEDC_NNP Express_NNP ,_, 10GbE_NNP RoCE_NNP Express_NNP ,_, 10GbE_NNP RoCE_NNP Express2_NNP ,_, zHyperLink_NNP Express_NNP
+	Coupling_NNP Express_NNP LR_NNP
+	DCAs_NNPS
+	power_NN
+	air_NN moving_VBG devices_NNS AMDs_NNS
+	PCIe_NNP I/O_NNP Drawer_NNP
+500_CD
+	Figure_NN 2-8_CD PCIe_NNP I/O_NNP drawer_NN -_: front_NN
+501_CD
+	views_NNS
+	details_NNS
+	I/O_NNP features_NNS
+	Chapter_NN
+	features_NNS and_CC functions_NNS
+	page_NN
+502_CD
+	Power_NN
+503_CD
+	American_NNP Society_NNP of_IN Heating_NN ,_, Refrigerating_NNP
+	Air-Conditioning_NNP Engineers_NNP ASHRAE_NNP -RRB-_-RRB- Class_NNP A3_NNP specifications_NNS
+	ASHRAE_NNP
+	organization_NN
+	advancement_NN
+	technology_NN
+	heating_NN ,_, ventilation_NN
+	air_NN conditioning_NN industry_NN
+504_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+505_CD
+	power_NN
+	system_NN
+	predecessor_NN
+	IBM_NNP
+	technologies_NNS
+	power_NN service_NN specifications_NNS
+	predecessors_NNS
+	power_NN consumption_NN
+	maximum_NN system_NN configuration_NN
+	%_NN
+	models_NNS
+506_CD
+	water_NN cooling_VBG loop_NN
+	chip_NN modules_NNS
+	CPC_NNP drawers_NNS
+	heat_NN
+	water_NN loop_NN
+	radiator_NN air-cooled_JJ system_NN
+	water_NN cooling_VBG unit_NN water-cooled_JJ system_NN
+	Conversion_NNP from_IN air_NN to_TO water_NN cooled_VBN systems_NNS
+	vice_NN
+507_CD
+508_CD
+	Radiator_NNP air_NN -RRB-_-RRB- cooling_NN option_NN
+	system_NN
+	availability_NN
+	cooling_NN power_NN consumption_NN
+	radiator_NN design_NN
+	water_NN cooling_VBG pump_NN system_NN
+	chip_NN modules_NNS
+	CPC_NNP drawers_NNS
+	N_NNP +1_CD pumps_NNS ,_, blowers_NNS ,_, controls_NNS
+	sensors_NNS
+	radiator_NN unit_NN
+	air_NN
+509_CD
+510_CD
+	Water_NNP cooling_NN option_NN
+	choice_NN
+	building_NN
+	water_NN
+	system_NN
+	water_NN cooling_VBG unit_NN WCU_NNP -RRB-_-RRB- technology_NN
+	chip_NN modules_NNS
+	CPC_NNP drawer_NN
+	water_NN cooling_NN loop_NN
+	loop_NN ,_, water_NN exchanges_NNS heat_NN
+	water_NN
+	client_NN
+	plate_NN
+511_CD
+	addition_NN
+	chip_NN modules_NNS
+	water_NN loop_NN
+	heat_NN exchangers_NNS
+	path_NN
+	exhaust_NN air_NN
+	rear_NN
+	frames_NNS
+	heat_NN exchangers_NNS
+	%_NN
+	heat_NN
+	I/O_NNP drawers_NNS
+512_CD
+	WCUs_NNS
+	WCU_NNP
+	load_NN
+	replacement_NN
+	WCU_NNP
+	loss_NN
+	water_NN
+	water_NN cooling_VBG units_NNS
+	door_NN heat_NN exchangers_NNS
+	water_NN cooling_VBG loop_NN
+513_CD
+514_CD
+	High_NNP Voltage_NNP Direct_NNP Current_JJ power_NN feature_NN
+	High_NNP Voltage_NNP Direct_NNP Current_NNP HV_NNP DC_NNP -RRB-_-RRB- power_NN feature_NN
+	z14_NN
+	DC_NNP power_NN input_NN
+	data_NNS center_NN energy_NN efficiency_NN
+	need_NN
+	inversion_NN step_NN
+	feature_NN
+	data_NNS center_NN UPS_NNP and_CC power_NN distribution_NN energy_NN savings_NNS
+515_CD
+516_CD
+	Power_NN considerations_NNS
+	sets_NNS
+	power_NN supplies_NNS
+	set_NN
+517_CD
+	power_NN cords_NNS or_CC pair_NN of_IN power_NN cords_NNS
+	number_NN of_IN Bulk_NNP Power_NNP Regulator_NNP BPR_NNP -RRB-_-RRB- pairs_NNS
+	Power_NNP cords_NNS
+	Hz_NNP
+	V_NNP AC_NNP power_NN source_NN
+	V_NNP DC_NNP power_NN source_NN
+	loss_NN
+	power_NN supply_NN
+	effect_NN on_IN system_NN operation_NN
+518_CD
+	Chapter_NN
+	IBM_NNP z14_CD hardware_NN overview_NN
+519_CD
+	Balanced_NNP Power_NNP Plan_NNP Ahead_NNP feature_NN
+	growth_NN
+	power_NN
+	configurations_NNS
+	feature_NN ,_, downtime_NN
+	system_NN
+	installation_NN
+	power_NN requirements_NNS in_IN terms_NNS of_IN BPRs_NNS and_CC power_NN cords_NNS
+	Balance_NNP Power_NNP Plan_NNP Ahead_NNP feature_NN
+	DC_NNP
+	power_NN cords_NNS
+520_CD
+	outlets_NNS customer_NN
+	equipment_NN
+	Hardware_NNP Management_NNP Console_NNP
+	display_NN
+521_CD
+	power_NN requirements_NNS
+	facility_NN
+	number_NN of_IN CPC_NNP drawers_NNS
+	number_NN and_CC type_NN of_IN I/O_NNP units_NNS
+	power_NN consumption_NN tables_NNS
+522_CD
+	configurations_NNS and_CC environments_NNS
+	IBM_NNP 3906_CD Installation_NN Manual_NNP for_IN Physical_NNP Planning_NNP
+523_CD
+	power_NN and_CC weight_NN estimation_NN tool_NN
+	IBM_NNP Resource_NNP Link_NNP
+524_CD
+	IBM_NNP z14_CD Technical_NNP Introduction_NNP
+525_CD
+	Copyright_NNP IBM_NNP Corp._NNP
+	rights_NNS
+526_CD
+	Chapter_NN
+	features_NNS
+527_CD
+528_CD
+	functions_NNS
+	chapter_NN
+	I/O_NNP
+	features_NNS and_CC functions_NNS
+	information_NN
+	chapter_NN
+	overview_NN
+	hardware_NN elements_NNS
+	Chapter_NN
+	IBM_NNP z14_CD hardware_NN overview_NN
+	page_NN
+	features_NNS and_CC functions_NNS
+	detail_NN
+	features_NNS
+	generations_NNS of_IN Z_NNP platforms_NNS
+	convenience_NN
+529_CD
+	chapter_NN ,_, reference_NN
+	IBM_NNP z14_CD Technical_NNP Guide_NNP
+	SG24-8451_NN
+530_CD
+	chapter_NN
+531_CD
+	topics_NNS
+	I/O_NNP features_NNS
+532_CD
+	glance_NN
+	PCIe_NN features_NNS
+533_CD
+	firmware_NN processor_NN
+534_CD
+	Storage_NNP connectivity_NN
+535_CD
+	Network_NNP connectivity_NN
+536_CD
+	Compression_NNP options_NNS
+537_CD
+	features_NNS
+	Coupling_NN
+538_CD
+539_CD
+	Server_NNP Time_NNP Protocol_NNP
+	Hardware_NNP Management_NNP Console_NNP functions_NNS
